@@ -3,27 +3,35 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Telegram 玩家专属知识库 ｜ @zhplayers</title>
-    <!-- 引入 Tailwind CSS 打造高端 UI -->
+    <meta name="description" content="全网最全的 Telegram 玩家百科全书，涵盖汉化、防封、多开、极限数据与申诉指南，ZHPlayers 出品。">
+    <title>Telegram 玩家百科全书 ｜ @zhplayers</title>
     <script src="https://cdn.tailwindcss.com"></script>
     <style>
-        /* 自定义高亮颜色与滚动条美化 */
         ::selection { background: #3b82f6; color: white; }
         ::-webkit-scrollbar { width: 6px; }
         ::-webkit-scrollbar-track { background: #f1f1f1; }
         ::-webkit-scrollbar-thumb { background: #cbd5e1; border-radius: 4px; }
         ::-webkit-scrollbar-thumb:hover { background: #94a3b8; }
-        .gradient-text { background-clip: text; -webkit-background-clip: text; -webkit-text-fill-color: transparent; }
+        
+        /* 丝滑的折叠动画 */
+        details > summary { list-style: none; outline: none; }
+        details > summary::-webkit-details-marker { display: none; }
+        details[open] summary ~ * { animation: sweep .3s ease-in-out; }
+        @keyframes sweep {
+            0%    {opacity: 0; margin-top: -10px}
+            100%  {opacity: 1; margin-top: 0px}
+        }
+        .prose p { margin-bottom: 0.75rem; line-height: 1.6; }
     </style>
 </head>
 <body class="bg-gray-50 text-gray-800 font-sans antialiased">
 
-    <!-- 顶部导航栏 -->
+    <!-- 顶部导航 -->
     <header class="bg-white shadow-sm sticky top-0 z-50">
         <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 h-16 flex items-center justify-between">
             <div class="flex items-center gap-2">
-                <span class="text-2xl">🚀</span>
-                <span class="font-bold text-xl tracking-tight text-gray-900">ZHPlayers <span class="text-blue-500">知识库</span></span>
+                <span class="text-2xl">📚</span>
+                <span class="font-bold text-xl tracking-tight text-gray-900">ZHPlayers <span class="text-blue-500">百科全书</span></span>
             </div>
             <nav>
                 <a href="/" class="text-sm font-medium text-gray-500 hover:text-blue-600 transition-colors">返回导航主页 &rarr;</a>
@@ -33,173 +41,236 @@
 
     <div class="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8 py-8 flex flex-col md:flex-row gap-8">
         
-        <!-- 左侧固定侧边栏 (PC端可见) -->
+        <!-- 左侧导航 -->
         <aside class="hidden md:block w-64 flex-shrink-0">
             <div class="sticky top-24 bg-white rounded-xl shadow-sm border border-gray-100 p-5">
-                <h3 class="text-xs font-semibold text-gray-400 uppercase tracking-wider mb-4">快速导航</h3>
+                <h3 class="text-xs font-semibold text-gray-400 uppercase tracking-wider mb-4">全站目录</h3>
                 <ul class="space-y-3">
-                    <li><a href="#beginner" class="text-gray-600 hover:text-blue-600 font-medium block transition-colors">🌍 基础入门</a></li>
-                    <li><a href="#security" class="text-gray-600 hover:text-blue-600 font-medium block transition-colors">🛡️ 账号安全</a></li>
-                    <li><a href="#advanced" class="text-gray-600 hover:text-blue-600 font-medium block transition-colors">🚀 进阶玩法</a></li>
-                    <li><a href="#hardcore" class="text-gray-600 hover:text-blue-600 font-medium block transition-colors">📊 硬核科普</a></li>
+                    <li><a href="#download" class="text-gray-600 hover:text-blue-600 font-medium block">📱 客户端与多开</a></li>
+                    <li><a href="#language" class="text-gray-600 hover:text-blue-600 font-medium block">🇨🇳 汉化与主题包</a></li>
+                    <li><a href="#login" class="text-gray-600 hover:text-blue-600 font-medium block">🔐 登录与验证码</a></li>
+                    <li><a href="#security" class="text-gray-600 hover:text-blue-600 font-medium block">🛡️ 防封与解除限制</a></li>
+                    <li><a href="#advanced" class="text-gray-600 hover:text-blue-600 font-medium block">🚀 进阶与 Premium</a></li>
+                    <li><a href="#hardcore" class="text-gray-600 hover:text-blue-600 font-medium block">📊 极限数据与审查</a></li>
                 </ul>
-                <div class="mt-8 pt-6 border-t border-gray-100">
-                    <p class="text-sm text-gray-500 mb-3">想要推荐优质频道？</p>
-                    <a href="https://t.me/zhcollect_bot" target="_blank" class="w-full flex items-center justify-center gap-2 bg-gray-900 hover:bg-gray-800 text-white text-sm font-medium py-2 px-4 rounded-lg transition-colors">
-                        联系站长机器人
-                    </a>
-                </div>
             </div>
         </aside>
 
-        <!-- 右侧核心内容区 -->
-        <main class="flex-1 space-y-12">
+        <!-- 核心内容区 -->
+        <main class="flex-1 space-y-8">
             
-            <!-- 模块：基础入门 -->
-            <section id="beginner" class="scroll-mt-24">
-                <div class="flex items-center gap-3 mb-6">
-                    <span class="text-3xl">🌍</span>
-                    <h2 class="text-2xl font-bold text-gray-900">基础入门 <span class="text-sm font-normal text-gray-500 ml-2">新手必看必学</span></h2>
-                </div>
-                
-                <div class="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 space-y-8">
-                    <!-- 汉化 -->
-                    <div>
-                        <h3 class="text-lg font-bold text-gray-900 mb-2">1. 官方及第三方一键中文汉化</h3>
-                        <p class="text-gray-600 mb-4 leading-relaxed">Telegram 官方隐藏了中文选项，且机翻感较重。我们强烈推荐使用开源社区公认最权威的“聪聪简体中文包”，翻译精准、更新极快。无需繁琐设置，点击下方按钮即可一键唤醒 Telegram 并安装：</p>
-                        <a href="https://t.me/setlanguage/zhcncc" class="inline-flex items-center gap-2 bg-blue-50 text-blue-600 hover:bg-blue-100 font-semibold py-2.5 px-5 rounded-xl transition-colors">
-                            🇨🇳 点击一键安装「简体中文包」
-                        </a>
-                        <p class="text-sm text-gray-400 mt-3">* 若需繁体或语言包失效，请联系 @zhplayers 获取最新备用链接。</p>
-                    </div>
-
-                    <hr class="border-gray-50">
-
-                    <!-- 解除私聊限制 -->
-                    <div>
-                        <h3 class="text-lg font-bold text-gray-900 mb-2">2. 解除无法主动发起私聊（双向限制）</h3>
-                        <p class="text-gray-600 mb-4 leading-relaxed">使用 +86 等部分地区手机号注册的用户，默认会被 Telegram 官方实施“防范性限制”，导致你无法主动给非双向联系人发送私聊消息。你可以通过向官方机器人申诉免费解除：</p>
-                        <ol class="list-decimal list-inside text-gray-600 space-y-2 mb-4 bg-gray-50 p-4 rounded-lg">
-                            <li>点击下方按钮向官方 <span class="font-mono text-blue-500">@SpamBot</span> 发送消息：<code class="bg-white px-1 py-0.5 rounded border">/start</code></li>
-                            <li>点击选项：<code class="bg-white px-1 py-0.5 rounded border">But I can't message non-contacts!</code></li>
-                            <li>点击选项：<code class="bg-white px-1 py-0.5 rounded border">No I'll never do any of this!</code></li>
-                            <li>输入单词：<code class="bg-white px-1 py-0.5 rounded border">accident</code> 并发送。</li>
-                        </ol>
-                        <p class="text-sm text-gray-500">等待 30 分钟到几小时不等即可自动解除。Bot 不会通知你，请自行找人私聊测试。</p>
-                        <a href="https://t.me/SpamBot" class="inline-flex items-center gap-2 bg-gray-900 text-white hover:bg-gray-800 font-semibold py-2 px-5 rounded-xl transition-colors mt-2">
-                            🤖 前往 @SpamBot 申诉解封
-                        </a>
-                    </div>
-
-                    <hr class="border-gray-50">
+            <!-- 模块 1：客户端与多开 -->
+            <section id="download" class="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 scroll-mt-24">
+                <h2 class="text-2xl font-bold text-gray-900 mb-6 border-b pb-3">📱 客户端大全与无限多开</h2>
+                <div class="space-y-4">
+                    <p class="text-sm text-gray-600 mb-4">Telegram 官方代码是开源的，但也存在大量夹带私货的危险第三方App（如搜索排名前列的“Telegram中文版”，带有收费会员，极度危险）。请认准以下公认安全版本：</p>
                     
-                    <!-- 验证码问题 -->
-                    <div>
-                        <h3 class="text-lg font-bold text-gray-900 mb-2">3. 收不到短信验证码的玄学与对策</h3>
-                        <p class="text-gray-600 leading-relaxed mb-3">这是全网最让人头疼的问题，Telegram 的验证码发送逻辑非常“玄学”，请熟知以下核心规则：</p>
-                        <ul class="list-disc list-inside text-gray-600 space-y-2">
-                            <li><strong>首次注册</strong>必须使用官方<strong class="text-gray-900">手机客户端</strong>，电脑端无法直接注册。</li>
-                            <li><strong>老号登录</strong>时，验证码会优先发送到你<strong class="text-gray-900">已经登录的其他设备（客户端）上</strong>，而不是发短信。</li>
-                            <li>如果确认没发到其他设备，也没有被运营商拦截，建议尝试<strong class="text-gray-900">使用网页版登录开通“通行密钥 (Passkey)”</strong>，彻底告别验证码烦恼。</li>
-                        </ul>
-                    </div>
-                </div>
-            </section>
-
-            <!-- 模块：账号安全 -->
-            <section id="security" class="scroll-mt-24">
-                <div class="flex items-center gap-3 mb-6">
-                    <span class="text-3xl">🛡️</span>
-                    <h2 class="text-2xl font-bold text-gray-900">账号安全 <span class="text-sm font-normal text-gray-500 ml-2">防封防盗必设</span></h2>
-                </div>
-                
-                <div class="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 space-y-8">
-                    <!-- 两步验证 -->
-                    <div>
-                        <h3 class="text-lg font-bold text-gray-900 mb-2">1. 最高警戒：强烈建议立即开启“两步验证”</h3>
-                        <p class="text-gray-600 mb-4 leading-relaxed">仅仅依靠短信验证码极度危险！一旦验证码被拦截或设备被木马劫持，你的账号将瞬间易主。开启两步验证（Two-Step Verification）后，即使别人拿到你的短信验证码，没有你设置的密码也绝无可能登入。</p>
-                        <div class="bg-red-50 border-l-4 border-red-400 p-4 rounded-r-lg">
-                            <p class="text-sm text-red-700 font-medium">操作路径：设置 &rarr; 隐私和安全 &rarr; 两步验证 &rarr; 开启。</p>
-                            <p class="text-xs text-red-600 mt-1">⚠️ 警告：请务必牢记密码，并一定要设置“恢复邮箱”！如果忘记密码且未设邮箱，该账号将永久丢失无法找回。</p>
+                    <details class="group bg-gray-50 rounded-lg border border-gray-200">
+                        <summary class="flex justify-between items-center font-bold cursor-pointer p-4 text-gray-800">
+                            <span>⬇️ 官方与安全第三方下载指南</span>
+                            <span class="text-gray-400 group-open:rotate-180 transition-transform">▼</span>
+                        </summary>
+                        <div class="p-4 pt-0 text-sm text-gray-600 border-t border-gray-200 mt-2 space-y-3">
+                            <p><strong>Android/安卓：</strong>官方包 (@TAndroidAPK)，官网 (telegram.org/dl/android/apk)，Google Play商店。轻量版: Telegram X (@tgx_log)。</p>
+                            <p><strong>iOS/苹果：</strong>非国区 AppStore 搜索 Telegram。注意：Telegram、Signal 等已从中国区下架，需使用美区/港区 ID。</p>
+                            <p><strong>Windows：</strong>官网下载 (telegram.org/dl/desktop/win) 或 Github 官方发布页。</p>
+                            <p><strong>macOS：</strong>支持 macOS(Swift) 版本与 Desktop Qt 版本。</p>
+                            <p><strong>安全的第三方：</strong>iOS (Swiftgram, iMe Messenger, Nicegram)；Android (Plus Messenger)；Windows (Unigram, Kotatogram)。</p>
                         </div>
-                    </div>
+                    </details>
 
-                    <!-- 隐私防拉群 -->
-                    <div>
-                        <h3 class="text-lg font-bold text-gray-900 mb-2">2. 隐私设置：防止被乱拉各种广告群</h3>
-                        <p class="text-gray-600 leading-relaxed mb-2">为了避免一觉醒来发现自己被拉进几十个币圈或灰产群，请立即修改你的群组邀请权限：</p>
-                        <p class="text-sm font-mono text-gray-700 bg-gray-100 inline-block px-3 py-1 rounded">设置 &rarr; 隐私和安全 &rarr; 邀请权限（群组与频道）&rarr; 改为「我的联系人」</p>
-                    </div>
-                </div>
-            </section>
-
-            <!-- 模块：进阶玩法 -->
-            <section id="advanced" class="scroll-mt-24">
-                <div class="flex items-center gap-3 mb-6">
-                    <span class="text-3xl">🚀</span>
-                    <h2 class="text-2xl font-bold text-gray-900">进阶玩法 <span class="text-sm font-normal text-gray-500 ml-2">效率与极客操作</span></h2>
-                </div>
-                
-                <div class="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 space-y-6">
-                    <!-- 空间瘦身 -->
-                    <div>
-                        <h3 class="text-lg font-bold text-gray-900 mb-2">1. 彻底解决 Telegram 占用大量手机空间</h3>
-                        <p class="text-gray-600 mb-2 leading-relaxed">Telegram 会自动缓存你浏览过的所有视频和图片，动辄占用十几GB。不要傻傻地去删聊天记录，TG 的所有内容都永久存在云端，你只需要清理本地缓存即可：</p>
-                        <ul class="list-disc list-inside text-gray-600 space-y-1 text-sm">
-                            <li><strong>清理缓存</strong>：设置 &rarr; 数据与存储 &rarr; 存储使用情况 &rarr; 点击「清空缓存」。</li>
-                            <li><strong>一劳永逸</strong>：在同个界面，将“保留媒体时间”从永远改为「1个月」或「1周」，并设置最大缓存上限。</li>
-                        </ul>
-                    </div>
-
-                    <!-- 文本排版 -->
-                    <div>
-                        <h3 class="text-lg font-bold text-gray-900 mb-2">2. 玩转富文本排版与“隐藏剧透”</h3>
-                        <p class="text-gray-600 leading-relaxed">发消息时，选中你输入的文字，长按（或右键）呼出格式菜单，你可以对文字进行 <strong class="text-gray-900">加粗</strong>、<em class="text-gray-900">斜体</em>、<del>删除线</del> 等操作。最受欢迎的是 <strong>剧透 (Spoiler)</strong> 功能，发送后的文字会被一层马赛克遮挡，对方必须点击才能看清内容，非常适合防剧透或发送敏感词。</p>
-                    </div>
-                </div>
-            </section>
-
-            <!-- 模块：硬核科普 -->
-            <section id="hardcore" class="scroll-mt-24">
-                <div class="flex items-center gap-3 mb-6">
-                    <span class="text-3xl">📊</span>
-                    <h2 class="text-2xl font-bold text-gray-900">硬核科普 <span class="text-sm font-normal text-gray-500 ml-2">知其然知其所以然</span></h2>
-                </div>
-                
-                <div class="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 space-y-6">
-                    <!-- 黑话词典 -->
-                    <div>
-                        <h3 class="text-lg font-bold text-gray-900 mb-3">1. 圈内“黑话”词典</h3>
-                        <div class="grid grid-cols-1 md:grid-cols-2 gap-4">
-                            <div class="bg-gray-50 p-4 rounded-lg">
-                                <span class="font-bold text-blue-600 block mb-1">UID (用户ID)</span>
-                                <p class="text-sm text-gray-600">你的账号底层唯一数字标识，无法更改。注销重注会生成新的。无法直接用于搜索加好友。</p>
-                            </div>
-                            <div class="bg-gray-50 p-4 rounded-lg">
-                                <span class="font-bold text-blue-600 block mb-1">Ban / 踢出 / 封禁</span>
-                                <p class="text-sm text-gray-600">被群管拉黑，无法再加入该群；如果是账号被官方Ban，意味着彻底封号。</p>
-                            </div>
-                            <div class="bg-gray-50 p-4 rounded-lg">
-                                <span class="font-bold text-blue-600 block mb-1">Mute / 禁言</span>
-                                <p class="text-sm text-gray-600">你依然在群里，也能看到聊天，但你的输入框会被冻结，无法发送任何消息。</p>
-                            </div>
-                            <div class="bg-gray-50 p-4 rounded-lg">
-                                <span class="font-bold text-blue-600 block mb-1">DC (数据中心)</span>
-                                <p class="text-sm text-gray-600">TG 在全球的服务器节点。中国+86号码通常在 DC5(新加坡)，美国号码通常在 DC1(迈阿密)。</p>
-                            </div>
+                    <details class="group bg-gray-50 rounded-lg border border-gray-200">
+                        <summary class="flex justify-between items-center font-bold cursor-pointer p-4 text-gray-800">
+                            <span>👥 如何实现客户端多开？</span>
+                            <span class="text-gray-400 group-open:rotate-180 transition-transform">▼</span>
+                        </summary>
+                        <div class="p-4 pt-0 text-sm text-gray-600 border-t border-gray-200 mt-2 space-y-2">
+                            <p><strong>iOS / Android：</strong>官方客户端内点击设置，可直接添加账号，同时登陆3个账号。若需更多，Android 可用系统分身/双开功能，iOS 可安装不同第三方客户端。</p>
+                            <p><strong>Windows 电脑：</strong>最简单多开法：把安装目录中的 <code>Telegram.exe</code> 复制一份到另外一个文件夹，即可实现 N 开！</p>
                         </div>
-                    </div>
+                    </details>
+                </div>
+            </section>
 
-                    <!-- 审核机制 -->
-                    <div>
-                        <h3 class="text-lg font-bold text-gray-900 mb-2">2. TG 真的完全没有内容审查吗？</h3>
-                        <p class="text-gray-600 leading-relaxed mb-3">这是一个误区。虽然 TG 极为注重隐私，但并非法外之地：</p>
-                        <ul class="list-disc list-inside text-gray-600 space-y-2 text-sm">
-                            <li><strong>私聊极为安全</strong>：官方绝不会自动扫描或审查私聊记录，除非接收方主动举报该消息。</li>
-                            <li><strong>公开群/频道受监管</strong>：对于公开（有用户名或公开发布链接）的频道和群组，系统会自动检测已知的极端主义、虐待儿童等严重非法内容。</li>
-                            <li><strong>连带责任</strong>：如果群组被认定传播严重违规内容，群主及参与管理的账号可能面临永久封禁。普通成员通常免责。</li>
-                        </ul>
+            <!-- 模块 2：汉化与主题 -->
+            <section id="language" class="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 scroll-mt-24">
+                <h2 class="text-2xl font-bold text-gray-900 mb-6 border-b pb-3">🇨🇳 全语种汉化与美化主题</h2>
+                <div class="space-y-4">
+                    <div class="bg-blue-50 p-4 rounded-xl border border-blue-100 flex flex-col md:flex-row items-center justify-between gap-4">
+                        <div>
+                            <h3 class="font-bold text-blue-900">首推：聪聪简体中文包</h3>
+                            <p class="text-sm text-blue-700 mt-1">全网公认最权威、翻译最地道的开源汉化包，热更新支持全平台。</p>
+                        </div>
+                        <a href="https://t.me/setlanguage/zhcncc" class="shrink-0 bg-blue-600 text-white font-bold py-2 px-6 rounded-lg hover:bg-blue-700">一键安装中文</a>
                     </div>
+                    
+                    <details class="group bg-gray-50 rounded-lg border border-gray-200">
+                        <summary class="flex justify-between items-center font-bold cursor-pointer p-4 text-gray-800">
+                            <span>🌐 更多备用汉化语言包大全 (繁体/文言文/方言)</span>
+                            <span class="text-gray-400 group-open:rotate-180 transition-transform">▼</span>
+                        </summary>
+                        <div class="p-4 pt-0 text-sm text-gray-600 border-t border-gray-200 mt-2 grid grid-cols-1 md:grid-cols-2 gap-2">
+                            <p>• 简体-zh-hans: <a href="https://t.me/setlanguage/zh-hans" class="text-blue-500">点击安装</a></p>
+                            <p>• 简体-瓜皮中文: <a href="https://t.me/setlanguage/duang-zh-hans" class="text-blue-500">点击安装</a></p>
+                            <p>• 香港-繁体1: <a href="https://t.me/setlanguage/hongkong" class="text-blue-500">点击安装</a></p>
+                            <p>• 香港-广东话: <a href="https://t.me/setlanguage/cantonese" class="text-blue-500">点击安装</a></p>
+                            <p>• 台湾-正体: <a href="https://t.me/setlanguage/taiwan" class="text-blue-500">点击安装</a></p>
+                            <p>• 文言文: <a href="https://t.me/setlanguage/chinese-ancient" class="text-blue-500">点击安装</a></p>
+                        </div>
+                    </details>
+
+                    <details class="group bg-gray-50 rounded-lg border border-gray-200">
+                        <summary class="flex justify-between items-center font-bold cursor-pointer p-4 text-gray-800">
+                            <span>🎨 神级主题与微信高仿皮肤</span>
+                            <span class="text-gray-400 group-open:rotate-180 transition-transform">▼</span>
+                        </summary>
+                        <div class="p-4 pt-0 text-sm text-gray-600 border-t border-gray-200 mt-2 space-y-2">
+                            <p><strong>微信高仿：</strong> <a href="https://t.me/addtheme/WeChat_v81" class="text-blue-500">日间版</a> | <a href="https://t.me/addtheme/wechatv8_dark" class="text-blue-500">夜间版</a></p>
+                            <p><strong>其他神级：</strong> <a href="https://t.me/addtheme/SnowDay" class="text-blue-500">SnowDay(极简雪白)</a></p>
+                            <p><strong>主题搜罗频道：</strong> @beautifultgtheme (好看主题), @IOSTelegramThemes (iOS专属), @desktopThemes (电脑端)。</p>
+                        </div>
+                    </details>
+                </div>
+            </section>
+
+            <!-- 模块 3：登录与验证码 -->
+            <section id="login" class="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 scroll-mt-24">
+                <h2 class="text-2xl font-bold text-gray-900 mb-6 border-b pb-3">🔐 登录、验证码与两步验证</h2>
+                
+                <div class="prose text-sm text-gray-600 space-y-4">
+                    <h3 class="text-lg font-bold text-gray-900">收不到短信验证码的终极玄学</h3>
+                    <p>验证码由第三方代理商发送，玄学极多。<strong>核心规则：</strong>自2021年起，首次注册必须用手机端；老号登录时，验证码优先发送到<strong>已登录的客户端上</strong>，而非短信。</p>
+                    <ul class="list-disc pl-5">
+                        <li>国内 +86 和 Google Voice 确实能收到，但部分号码可能触发高昂短信费规则（甚至收费送 Premium）。</li>
+                        <li><strong>邮箱登录：</strong>部分用户会触发绑定邮箱接收验证码（灰度测试中，如果提示 EMAIL_NOT_ALLOWED 请换域名）。</li>
+                        <li><strong>最终解法（2025年12月更新）：</strong>登录网页版，开启<strong>“通行密钥 (Passkey)”</strong>。此后登录无需验证码，彻底摆脱短信和邮箱限制！</li>
+                    </ul>
+
+                    <h3 class="text-lg font-bold text-red-600 mt-6">强烈建议：开启两步验证</h3>
+                    <p>为防账号被盗，必须在 <code>设置 &rarr; 隐私和安全 &rarr; 两步验证</code> 中开启密码，并<strong>务必绑定恢复邮箱</strong>。若忘密码且无邮箱，账号将永久报废。</p>
+                </div>
+            </section>
+
+            <!-- 模块 4：防封与解限 -->
+            <section id="security" class="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 scroll-mt-24">
+                <h2 class="text-2xl font-bold text-gray-900 mb-6 border-b pb-3">🛡️ 解除限制与申诉维权</h2>
+                
+                <details class="group bg-gray-50 rounded-lg border border-gray-200 mb-4">
+                    <summary class="flex justify-between items-center font-bold cursor-pointer p-4 text-gray-800">
+                        <span>🔓 解除 +86 无法主动私聊限制</span>
+                        <span class="text-gray-400 group-open:rotate-180 transition-transform">▼</span>
+                    </summary>
+                    <div class="p-4 pt-0 text-sm text-gray-600 border-t border-gray-200 mt-2">
+                        <p>向官方 <a href="https://t.me/SpamBot" class="text-blue-500 font-bold">@SpamBot</a> 发消息：</p>
+                        <ol class="list-decimal pl-5 mt-2 space-y-1">
+                            <li>点击 <code>But I can't message non-contacts!</code></li>
+                            <li>点击 <code>No I'll never do any of this!</code></li>
+                            <li>输入单词 <code>accident</code> 发送，等待约 30 分钟即可解除。Bot 不会通知结果，请自行测试。</li>
+                        </ol>
+                    </div>
+                </details>
+
+                <details class="group bg-gray-50 rounded-lg border border-gray-200">
+                    <summary class="flex justify-between items-center font-bold cursor-pointer p-4 text-gray-800">
+                        <span>🆘 账号被封禁 (Banned) 申诉邮箱与英文模板</span>
+                        <span class="text-gray-400 group-open:rotate-180 transition-transform">▼</span>
+                    </summary>
+                    <div class="p-4 pt-0 text-sm text-gray-600 border-t border-gray-200 mt-2 space-y-3">
+                        <p><strong>官方申诉邮箱：</strong> recover@telegram.org / abuse@telegram.org</p>
+                        <p><strong>模板 1 (常规误封)：</strong><br><code class="block bg-white p-2 border mt-1">Dear Telegram Support Team, I am writing to appeal the recent ban on my Telegram account. I understand that my account has been blocked for violating the terms of service, but I would like to explain the circumstances surrounding this situation.</code></p>
+                        <p><strong>模板 2 (Anti-Spam 误判)：</strong><br><code class="block bg-white p-2 border mt-1">My Telegram account was banned a long time, i think Anti-Spam system triggered wrong action, its mistake that account was banned. Now i have again got access, but still I'm limited to anything. It's wrong & false triggered action i should say.</code></p>
+                        <p class="text-xs text-red-500">注意：申诉不代表一定解封，具体取决于官方核查结果。</p>
+                    </div>
+                </details>
+            </section>
+
+            <!-- 模块 5：进阶与高级 -->
+            <section id="advanced" class="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 scroll-mt-24">
+                <h2 class="text-2xl font-bold text-gray-900 mb-6 border-b pb-3">🚀 进阶技巧与 Premium 特权</h2>
+                
+                <div class="space-y-4">
+                    <details class="group bg-gray-50 rounded-lg border border-gray-200">
+                        <summary class="flex justify-between items-center font-bold cursor-pointer p-4 text-gray-800">
+                            <span>💎 Premium 会员有哪些极致特权？(各项上限翻倍)</span>
+                            <span class="text-gray-400 group-open:rotate-180 transition-transform">▼</span>
+                        </summary>
+                        <div class="p-4 pt-0 text-sm text-gray-600 border-t border-gray-200 mt-2 grid grid-cols-1 md:grid-cols-2 gap-2">
+                            <p>• 单个文件大小限制: 2000MB &rarr; <strong>4000MB</strong></p>
+                            <p>• 加入群组和频道数: 500 &rarr; <strong>1000</strong></p>
+                            <p>• 创建公开频道数: 10 &rarr; <strong>20</strong></p>
+                            <p>• 同时登录账号数: 3 &rarr; <strong>4</strong></p>
+                            <p>• 收藏GIF数: 200 &rarr; <strong>400</strong></p>
+                            <p>• 个人简介字数限制: 70 &rarr; <strong>140</strong></p>
+                            <p>• 媒体说明字数限制: 1024 &rarr; <strong>4096</strong></p>
+                            <p class="col-span-1 md:col-span-2 mt-2"><strong>其他特权：</strong>无广告、满速下载、语音转文字、高级对话管理、动画头像、专属 V 标徽章。</p>
+                        </div>
+                    </details>
+
+                    <details class="group bg-gray-50 rounded-lg border border-gray-200">
+                        <summary class="flex justify-between items-center font-bold cursor-pointer p-4 text-gray-800">
+                            <span>💬 富文本排版、发图带字与缓存清理</span>
+                            <span class="text-gray-400 group-open:rotate-180 transition-transform">▼</span>
+                        </summary>
+                        <div class="p-4 pt-0 text-sm text-gray-600 border-t border-gray-200 mt-2 space-y-3">
+                            <p><strong>富文本与剧透：</strong>选中输入的文字，呼出格式菜单，可设置 <strong>加粗</strong>、<em>斜体</em>、<del>删除线</del>、<code>等宽代码</code> 以及最酷的 <strong>剧透 (Spoiler)</strong>（马赛克遮挡，点击显示）。</p>
+                            <p><strong>发图带文字：</strong>在手机端，<strong>直接点击图片本身</strong>（而不是勾选右上角的圈），底部就会出现“添加说明”输入框。选“文件”格式发送可避免画质压缩。</p>
+                            <p><strong>清理缓存：</strong>TG 极其占内存，请在 <code>设置 &rarr; 数据 &rarr; 存储使用 &rarr; 清理缓存</code> 中操作，并把“保留时间”改短。注意：清理缓存不会删除云端聊天记录！</p>
+                        </div>
+                    </details>
+                </div>
+            </section>
+
+            <!-- 模块 6：极客数据与审查 -->
+            <section id="hardcore" class="bg-white rounded-2xl shadow-sm border border-gray-100 p-6 scroll-mt-24">
+                <h2 class="text-2xl font-bold text-gray-900 mb-6 border-b pb-3">📊 全局极限数据与官方审查机制揭秘</h2>
+                
+                <div class="space-y-4">
+                    <details class="group bg-gray-50 rounded-lg border border-gray-200">
+                        <summary class="flex justify-between items-center font-bold cursor-pointer p-4 text-gray-800">
+                            <span>📈 Telegram 全局极限天花板数据</span>
+                            <span class="text-gray-400 group-open:rotate-180 transition-transform">▼</span>
+                        </summary>
+                        <div class="p-4 pt-0 text-xs text-gray-600 border-t border-gray-200 mt-2 grid grid-cols-1 md:grid-cols-2 gap-2">
+                            <p>• 用户名: 5~32字符</p>
+                            <p>• 创建频道/群组: 0~50/天</p>
+                            <p>• 删除频道: 大于1000关注的频道不能直接删除</p>
+                            <p>• 更改用户名生效时长: 15~30分钟</p>
+                            <p>• 群成员最大上限: 20万人 (广播群无限)</p>
+                            <p>• 客户端可见群消息数: 100万条</p>
+                            <p>• 编辑已发消息: 48小时内 (管理员无限)</p>
+                            <p>• 附近的人可见范围: 12公里内，最多100人/10群</p>
+                            <p>• 机器人上传限制: 本地BotAPI可达 2000MB</p>
+                        </div>
+                    </details>
+
+                    <details class="group bg-gray-50 rounded-lg border border-gray-200">
+                        <summary class="flex justify-between items-center font-bold cursor-pointer p-4 text-gray-800">
+                            <span>🕵️ eSafety 披露：TG 的内容审核与封禁规则</span>
+                            <span class="text-gray-400 group-open:rotate-180 transition-transform">▼</span>
+                        </summary>
+                        <div class="p-4 pt-0 text-sm text-gray-600 border-t border-gray-200 mt-2 space-y-2">
+                            <p>基于澳大利亚 eSafety 的调查披露，TG 并非法外之地：</p>
+                            <ul class="list-disc pl-5 space-y-1">
+                                <li><strong>私聊审核：</strong>极其严格保护。系统不扫描私聊，仅当接收方主动举报时，消息才会转给人工审核。</li>
+                                <li><strong>公开群/频道：</strong>系统会自动扫描照片和视频，以检测已知的极端恐怖主义或虐童（CSAM）内容。文本默认不扫描，除非有人举报。</li>
+                                <li><strong>连坐机制：</strong>若群组被认定传播严重违禁内容，该群会被永久封禁，**群主和管理员账号也会被连坐封禁**。但普通成员若未参与传播，通常免责（避免误伤记者或围观者）。</li>
+                            </ul>
+                        </div>
+                    </details>
+
+                    <details class="group bg-gray-50 rounded-lg border border-gray-200">
+                        <summary class="flex justify-between items-center font-bold cursor-pointer p-4 text-gray-800">
+                            <span>🔤 圈内黑话：UID、DC、Ban、禁言 是什么？</span>
+                            <span class="text-gray-400 group-open:rotate-180 transition-transform">▼</span>
+                        </summary>
+                        <div class="p-4 pt-0 text-sm text-gray-600 border-t border-gray-200 mt-2 space-y-3">
+                            <p><strong>UID (用户标识)：</strong>账号底层的数字ID，无法更改。可用 @getidsbot 查询。重新注册会生成新 UID。</p>
+                            <p><strong>DC (数据中心 Data Centers)：</strong>注册时由国家决定。+86 手机多在 DC5(新加坡)，+1 手机多在 DC1(美国迈阿密)。这决定了你下载图片和视频的服务器节点。近两年 DC1 炸得比 DC5 还多。</p>
+                            <p><strong>Ban (封禁/拉黑)：</strong>被群管 Ban 代表被踢出群且拉入黑名单，永远无法加入；账号被官方 Ban 则代表死号。</p>
+                            <p><strong>禁言 (Mute)：</strong>你还在群里，也能看聊天，但无法发送消息。管理员可设置禁言倒计时。</p>
+                            <p><strong>如何找管理员？</strong>消息中带有“管理员”头衔；或者在群里发 <code>@admin</code> 呼出（慎用）；或者点群头像筛选。</p>
+                        </div>
+                    </details>
                 </div>
             </section>
         </main>
@@ -208,8 +279,8 @@
     <!-- 底部页脚 -->
     <footer class="bg-white border-t border-gray-100 mt-12 py-8">
         <div class="max-w-7xl mx-auto px-4 text-center">
-            <p class="text-gray-500 text-sm mb-2">本项目致力于整理并持续维护高质量的 Telegram 导航与生态指南</p>
-            <p class="text-gray-400 text-xs">© 2026 ZHPlayers. All rights reserved.</p>
+            <p class="text-gray-500 text-sm mb-2">本项目致力于打造全网最硬核、最全面的 Telegram 百科全书</p>
+            <p class="text-gray-400 text-xs">© 2026 ZHPlayers. 欢迎通过 @zhcollect_bot 提交收录。</p>
         </div>
     </footer>
 

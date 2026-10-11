@@ -2,9 +2,9 @@
 
 [![Status](https://img.shields.io/badge/Status-Maintained-brightgreen.svg)]() [![Total Channels](https://img.shields.io/badge/Total_Channels-421-blue.svg)]() [![Last Updated](https://img.shields.io/badge/Updated-2026-10-11-orange.svg)]()
 
-> 本项目致力于整理并持续维护高质量的 **Telegram 中文频道** 与 **公开交流群组**。所有收录数据均经过精心筛选与严格分类，助你快速发现、定位有价值的中文社群资源。
+> 本项目致力于整理并持续维护高质量的 **Telegram 中文频道** 与 **公开交流群组**。加入我们群：https://t.me/tggzcn, 所有收录数据均经过精心筛选与严格分类，助你快速发现、定位有价值的中文社群资源。
 
-> 💡 **提交收录与合作**：欢迎直接联系站长机器人 [@zhcollect_bot](https://t.me/zhcollect_bot) 提交优质频道或群组，共同完善本导航库。
+> 💡 **提交收录与合作**：欢迎联系机器人 [@zhcollect_bot](https://t.me/zhcollect_bot) 提交优质频道或群组，共同完善本导航库。
 
 ---
 

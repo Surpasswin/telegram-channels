@@ -1,4 +1,4 @@
-# 🚀 Telegram 中文精选频道与群组导航 (Awesome TG Chinese)
+# 🚀 Telegram 中文精选频道与群组导航 (Telegram-Channels)
 
 [![Auto Update](https://img.shields.io/badge/Status-Daily%20Updated-brightgreen.svg)]() [![Platform](https://img.shields.io/badge/Platform-Telegram-blue.svg)]() [![License](https://img.shields.io/badge/License-MIT-orange.svg)]()
 

@@ -1,18 +1,12 @@
 # 🚀 Telegram 中文精选频道与群组导航 (Telegram Channels)
 
-[![Status](https://img.shields.io/badge/Status-Maintained-brightgreen.svg)]() [![Total Channels](https://img.shields.io/badge/Total_Channels-425-blue.svg)]() [![Last Updated](https://img.shields.io/badge/Updated-2026-10-11-orange.svg)]()
+[![Status](https://img.shields.io/badge/Status-Maintained-brightgreen.svg)]() [![Total Channels](https://img.shields.io/badge/Total_Channels-421-blue.svg)]() [![Last Updated](https://img.shields.io/badge/Updated-2026-10-11-orange.svg)]()
 
 > 本项目致力于整理并持续维护高质量的 **Telegram 中文频道** 与 **公开交流群组**。所有收录数据均经过精心筛选与严格分类，助你快速发现、定位有价值的中文社群资源。
 
-> 💡 **提交收录与合作**：欢迎直接联系站长机器人 [@zhcollect_bot](https://t.me/zhcollect_bot) 提交优质频道或群组，共同完善本导航库。(提交时请按：名称，链接，类别，简介的格式提交！)
+> 💡 **提交收录与合作**：欢迎直接联系站长机器人 [@zhcollect_bot](https://t.me/zhcollect_bot) 提交优质频道或群组，共同完善本导航库。
 
 ---
-
-### 📁 ⭐ 站长推荐
-
-| 名称 | 链接 | 简介 |
-| :--- | :--- | :--- |
-| **ZHPlayers 频道玩家** | [@zhplayers](https://t.me/zhplayers) | 关注频道发现更多好玩的TG频道！ |
 
 ### 📁 官方与核心组件
 
@@ -164,7 +158,6 @@
 | **BlockBeats 律动** | [@blockbeats](https://t.me/blockbeats) | Web3 前沿资讯与空投教程。 |
 | **Odaily 星球日报** | [@odaily](https://t.me/odaily) | 深度解析加密市场动向。 |
 | **AICoin 行情播报** | [@aicoin_cn](https://t.me/aicoin_cn) | 大额异动监控与K线分析工具。 |
-| **PANews** | [@panews](https://t.me/panews) | 全球区块链与数字资产新闻。 |
 | **DeFi 挖矿交流** | [@defi_mining](https://t.me/defi_mining) | 质押、流动性挖矿与土狗排雷。 |
 | **NFT 玩家社区** | [@nft_cn](https://t.me/nft_cn) | 数字艺术品、白名单抽奖分享。 |
 | **空投猎人 Airdrop** | [@airdrop_hunter](https://t.me/airdrop_hunter) | 最新零撸空投项目教程。 |
@@ -304,8 +297,6 @@
 | **85.60×53.98 卡粉订阅** | [@DocOfCard](https://t.me/DocOfCard) | 资深玩卡客的聚集地，精细化分享高端信用卡权益玩转与羊毛汇总。 |
 | **走资世界 News** | [@banktoworldnews](https://t.me/banktoworldnews) | 面向全球化配置人群，分享离岸账户、全球护照及跨国资产安全架构。 |
 | **数字资产出入金安全** | [@joinchat_AYS860xmKnoyZWRk](https://t.me/joinchat/AYS860xmKnoyZWRk) | 深度交流 C2C 防冻卡技巧、外贸结汇合规通道与法币出入金实操。 |
-| **无卡不欢订阅** | [@cardfans](https://t.me/cardfans) | 全面整理全球借记卡、信用卡发卡政策，破除跨境金融信息差。 |
-| **无卡不欢交流群** | [@cardfansgroup](https://t.me/cardfansgroup) | 群友互助解答境外银行开户证明、实体卡转运与网银激活实操问题。 |
 | **逍遥跨境** | [@xiaoyaoxi](https://t.me/xiaoyaoxi) | 围绕出海业务、跨境电商结算与海外离岸架构搭建的实操经验交流。 |
 
 ### 📁 苹果生态与数码
@@ -598,6 +589,7 @@
 
 | 名称 | 链接 | 简介 |
 | :--- | :--- | :--- |
+| **综合类频道** | [@zhplayers](https://t.me/zhplayers) | 综合类频道 |
 | **阿里云盘资源分享** | [@Aliyundrive_Share](https://t.me/Aliyundrive_Share) | 全网影视、学习资料阿里云盘链接。 |
 | **夸克网盘资源** | [@Quark_Share](https://t.me/Quark_Share) | 每日更新夸克网盘最新影视与文档。 |
 | **Netflix 奈飞中文** | [@netflix_zh](https://t.me/netflix_zh) | 流媒体剧集更新通知与讨论。 |
@@ -605,7 +597,6 @@
 | **Kindle 电子书推** | [@kindle_book](https://t.me/kindle_book) | mobi/epub 格式电子书交流。 |
 | **TG 主题分享** | [@tg_theme](https://t.me/tg_theme) | Telegram 炫酷皮肤与气泡样式。 |
 | **壁纸精选** | [@wallpaper_share](https://t.me/wallpaper_share) | 4K 高清桌面与手机壁纸。 |
-| **老司机发车** | [@drive_car](https://t.me/drive_car) | 各种懂的都懂的司机资源交流。 |
 | **阿里云盘资源发布** | [@Aliyundrive_Share_Channel](https://t.me/Aliyundrive_Share_Channel) | 突破限速体验的阿里云盘资源首发阵地，涵盖4K高清原盘、专业生产力软件与大型学习资料。 |
 | **奈飞小铺 官方群** | [@netflix_bus](https://t.me/netflix_bus) | 流媒体合租拼车情报站，提供高性价比的 Netflix、Spotify、Disney+ 发车信息与账号维护。 |
 | **PT 资讯频道** | [@privatetrackernews](https://t.me/privatetrackernews) | Private Tracker 玩家专属雷达，实时播报全球各大 PT 站开放注册、考核指标与免费下载活动。 |

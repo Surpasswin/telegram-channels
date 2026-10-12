@@ -1,12 +1,26 @@
 # 🚀 Telegram 中文精选频道与群组导航 (Telegram Channels)
 
-[![Status](https://img.shields.io/badge/Status-Maintained-brightgreen.svg)]() [![Total Channels](https://img.shields.io/badge/Total_Channels-266-blue.svg)]() [![Last Updated](https://img.shields.io/badge/Updated-2026-10-12-orange.svg)]()
+[![Status](https://img.shields.io/badge/Status-Maintained-brightgreen.svg)]() [![Total Channels](https://img.shields.io/badge/Total_Channels-265-blue.svg)]() [![Last Updated](https://img.shields.io/badge/Updated-2026-10-12-orange.svg)]()
 
 > 本项目致力于整理并持续维护高质量的 **Telegram 中文频道** 与 **公开交流群组**。所有收录数据均经过精心筛选与严格分类，助你快速发现、定位有价值的中文社群资源。欢迎加入交流群：https://t.me/tggzcn 
 
 > 💡 **提交收录与合作**：欢迎联系机器人 [@zhcollect_bot](https://t.me/zhcollect_bot) 提交优质频道或群组，共同完善本导航库。(请按格式提交：名称，链接，类别，简介）
 
 ---
+
+### 📁 搜索机器人
+
+| 名称 | 链接 | 简介 |
+| :--- | :--- | :--- |
+| **搜索群(jiso5173)** | [@jiso5173](https://t.me/jiso5173) | 搜索各类资源与群组。 |
+| **超级索引** | [@CJSY](https://t.me/CJSY) | 发送词语即可搜索关联群组与频道资源。 |
+| **快搜** | [@kuai](https://t.me/kuai) | 帮你发现有趣群组、频道、视频、音乐。 |
+| **神马搜索** | [@smss](https://t.me/smss) | 发送词语即可搜索关联群组与频道资源。 |
+| **JISO 机器人** | [@jiso](https://t.me/jiso) | 搜索群、频道、影视、音乐、新闻等内容。 |
+| **海搜** | [@haisou](https://t.me/haisou) | 发送关键词，即可发现频道、群组、视频与帖子。 |
+| **SOSO 机器人** | [@soso](https://t.me/soso) | 电报老牌综合搜索机器人，发送关键词发现群组与资源。 |
+| **极搜 JiSou** | [@jisou](https://t.me/jisou) | 发送词语帮你找到有趣的群与资源。 |
+| **Bot 开发者频道** | [@botsarchive](https://t.me/botsarchive) | 全球最新 Telegram Bot 收录推荐。 |
 
 ### 📁 官方与核心组件
 
@@ -40,14 +54,14 @@
 
 | 名称 | 链接 | 简介 |
 | :--- | :--- | :--- |
+| **TG 新手帮助中心** | [@newbie_chat](https://t.me/newbie_chat) | 友好的 Telegram 入门指导站，解答双向联系人限制、账号隐私设置与防骗防盗号技巧。 |
 | **喵体中文 (特色包)** | [@translation_meowcn](https://t.me/translation_meowcn) | 广受欢迎的第三方个性化语言包，将系统生硬的提示语替换为极具二次元风格的“喵”星人语气。 |
 | **TG 繁体中文 (台湾)** | [@translation_taiwan](https://t.me/translation_taiwan) | 专为台湾地区用户优化的繁体中文本地化翻译支持，提供更贴近在地用语的界面体验。 |
-| **TG 简体中文翻译组** | [@translation_zh_hans](https://t.me/translation_zh_hans) | Telegram 官方简体中文语言包的维护枢纽，跟进最新功能翻译与本地化词条纠错。 |
 | **精美 TG 主题分享** | [@beautifultgtheme](https://t.me/beautifultgtheme) | UI 设计师与美化爱好者的聚集地，每日分享高品质的暗黑模式、极简风及二次元聊天背景主题。 |
 | **TG iOS 测试探讨** | [@TelegramiOStalk](https://t.me/TelegramiOStalk) | iOS 端 TestFlight 测试版追更群，第一时间发掘并讨论新版动画、隐藏菜单与未发布的特性。 |
-| **TG 新手帮助中心** | [@newbie_chat](https://t.me/newbie_chat) | 友好的 Telegram 入门指导站，解答双向联系人限制、账号隐私设置与防骗防盗号技巧。 |
+| **TG 简体中文翻译组** | [@translation_zh_hans](https://t.me/translation_zh_hans) | Telegram 官方简体中文语言包的维护枢纽，跟进最新功能翻译与本地化词条纠错。 |
 
-### 📁 群组管理验证
+### 📁 群组管理
 
 | 名称 | 链接 | 简介 |
 | :--- | :--- | :--- |
@@ -61,6 +75,9 @@
 | **Telegram 看门狗** | [@WatchdogVerifyBot](https://t.me/WatchdogVerifyBot) | 提供高强度的看门狗级别入群验证，有效拦截自动化脚本与爆破攻击。 |
 | **Rose** | [@MissRose_bot](https://t.me/MissRose_bot) | Telegram 生态中最具统治力的老牌群管，拥有深不见底的自定义过滤规则。 |
 | **Group Help** | [@GroupHelpBot](https://t.me/GroupHelpBot) | 高度人性化的社群助手，不仅能管纪律，还能通过自动回复引导新人熟悉环境。 |
+| **nmBot (尼玛机器人)** | [@nmnmfunbot](https://t.me/nmnmfunbot) | 中文用户使用最多的群管理机器人。 |
+| **KinhRobot** | [@KinhRobot](https://t.me/KinhRobot) | 超多功能的群管机器人。 |
+| **方丈机器人** | [@fangzhang_bot](https://t.me/fangzhang_bot) | 方丈群组管理机器人，高效防滥用。 |
 
 ### 📁 反垃圾与安全
 
@@ -76,8 +93,8 @@
 
 | 名称 | 链接 | 简介 |
 | :--- | :--- | :--- |
-| **一天世界 播客** | [@yitianshijie](https://t.me/yitianshijie) | IPN 播客网络旗下的经典节目，在技术、设计、当代艺术与社会的复杂交汇处展开思想碰撞。 |
 | **华尔街日报 RSS** | [@wsj_rss](https://t.me/wsj_rss) | 通过 RSS 自动化抓取并推送《华尔街日报》原版高价值财经新闻与深度评论。 |
+| **一天世界 播客** | [@yitianshijie](https://t.me/yitianshijie) | IPN 播客网络旗下的经典节目，在技术、设计、当代艺术与社会的复杂交汇处展开思想碰撞。 |
 
 ### 📁 抽奖与活动
 
@@ -90,29 +107,29 @@
 
 | 名称 | 链接 | 简介 |
 | :--- | :--- | :--- |
-| **编程随想推荐书目** | [@programthinkbooks](https://t.me/programthinkbooks) | 系统化整理了互联网传奇极客“编程随想”历年推荐的社科、政治、计算机与哲学硬核书籍。 |
+| **Kindle 特价书雷达** | [@KindleBookDeals](https://t.me/KindleBookDeals) | 自动化监控亚马逊 Kindle 商店的每日特价、限免图书与深度降价情报。 |
 | **豆瓣精选阅读** | [@douban_read](https://t.me/douban_read) | 打破信息茧房，每日为你推送豆瓣高分书评、深度影评与高质量人文长文。 |
 | **ZBook 精品电子书** | [@ziyuanfeng59](https://t.me/ziyuanfeng59) | 排版精美的中文数字书库，专注于提供精校版的 EPUB 与 MOBI 格式文学名著与畅销书。 |
-| **Kindle 特价书雷达** | [@KindleBookDeals](https://t.me/KindleBookDeals) | 自动化监控亚马逊 Kindle 商店的每日特价、限免图书与深度降价情报。 |
 | **云上报刊亭** | [@magazinesclub](https://t.me/magazinesclub) | 数字媒体爱好者的天堂，每日无偿分享《经济学人》《大西洋月刊》等全球主流外文原版杂志。 |
+| **编程随想推荐书目** | [@programthinkbooks](https://t.me/programthinkbooks) | 系统化整理了互联网传奇极客“编程随想”历年推荐的社科、政治、计算机与哲学硬核书籍。 |
 
 ### 📁 金融与投资
 
 | 名称 | 链接 | 简介 |
 | :--- | :--- | :--- |
-| **Crypto News & Tech Updates** | [@Crypto_News_and_Tech_Updates](https://t.me/Crypto_News_and_Tech_Updates) | 面向全球投资者的英文加密通识教育与硬核底层技术趋势追踪。 |
-| **撸空投 Web3 财务自由** | [@tglukongtou](https://t.me/tglukongtou) | 专注早期优质项目交互、测试网空投攻略与零撸福利精选。 |
-| **Binance 币安中文** | [@binance_cn](https://t.me/binance_cn) | 全球最大加密货币交易所中文社区。 |
-| **财经慢报** | [@Financial_Express](https://t.me/Financial_Express) | 沉淀深度思考的慢阅读财经天地，聚焦经济周期与长期价值沉淀。 |
-| **Business & Finance News USA** | [@news_finance](https://t.me/news_finance) | 精选全美商业经济头条，直击华尔街动态、科技巨头财报与政策动向。 |
-| **7×24 投资快讯** | [@golden_wind_news](https://t.me/golden_wind_news) | 全时段全球交易快讯，涵盖外汇、商品、美股期货与突发突发要闻。 |
+| **Telo News 简体中文** | [@telonews_cn](https://t.me/telonews_cn) | 多视角观察加密金融生态，精选海外优质观点、投研报告与深度评论。 |
 | **欧易 OKX 官方中文群** | [@OKXGroup_CN](https://t.me/OKXGroup_CN) | OKX 官方认证中文讨论阵地，覆盖平台动态、产品更新与安全指南。 |
 | **吴说区块链** | [@wublock](https://t.me/wublock) | 行业知名独立深度媒体，专注于合规监管、矿业动向与内幕独家报道。 |
+| **财经慢报** | [@Financial_Express](https://t.me/Financial_Express) | 沉淀深度思考的慢阅读财经天地，聚焦经济周期与长期价值沉淀。 |
+| **Business & Finance News USA** | [@news_finance](https://t.me/news_finance) | 精选全美商业经济头条，直击华尔街动态、科技巨头财报与政策动向。 |
 | **币圈动态讨论群** | [@biquan321](https://t.me/biquan321) | 散户抱团与日常看盘社区，分享行情走势、热点山寨与链上土狗。 |
-| **Web3 综合汇总** | [@newsforbitcoin](https://t.me/newsforbitcoin) | 聚合比特币生态、NFT 流动性以及热门空投项目进展的一站式资讯频道。 |
-| **Telo News 简体中文** | [@telonews_cn](https://t.me/telonews_cn) | 多视角观察加密金融生态，精选海外优质观点、投研报告与深度评论。 |
+| **Binance 币安中文** | [@binance_cn](https://t.me/binance_cn) | 全球最大加密货币交易所中文社区。 |
+| **撸空投 Web3 财务自由** | [@tglukongtou](https://t.me/tglukongtou) | 专注早期优质项目交互、测试网空投攻略与零撸福利精选。 |
 | **美股频道 Stock USA** | [@mgstock](https://t.me/mgstock) | 专注纳斯达克与标普 500 成分股基本面研判，追踪财报预期与机构评级。 |
+| **7×24 投资快讯** | [@golden_wind_news](https://t.me/golden_wind_news) | 全时段全球交易快讯，涵盖外汇、商品、美股期货与突发突发要闻。 |
 | **币安官方中文群** | [@BinanceChinese](https://t.me/BinanceChinese) | 全球头部交易所 Binance 官方中文社群，权威公告与活动一手掌握。 |
+| **Web3 综合汇总** | [@newsforbitcoin](https://t.me/newsforbitcoin) | 聚合比特币生态、NFT 流动性以及热门空投项目进展的一站式资讯频道。 |
+| **Crypto News & Tech Updates** | [@Crypto_News_and_Tech_Updates](https://t.me/Crypto_News_and_Tech_Updates) | 面向全球投资者的英文加密通识教育与硬核底层技术趋势追踪。 |
 
 ### 📁 开发与编程技术
 
@@ -147,48 +164,40 @@
 
 | 名称 | 链接 | 简介 |
 | :--- | :--- | :--- |
-| **All About RSS** | [@aboutrss](https://t.me/aboutrss) | RSS 深度玩家大本营，分享各类网站的源地址抓取方案、阅读器评测与自动化信息流构建。 |
+| **科技新报 TechNews** | [@technews_tw](https://t.me/technews_tw) | 半导体、数码与前沿科技趋势。 |
+| **程序员百例灵感** | [@useless_project_ideas](https://t.me/useless_project_ideas) | 脑洞大开的代码集市，分享 GitHub 上那些看似“无用”但极具技术趣味和创意的开源项目。 |
 | **TestFlight 资讯中心** | [@testflights](https://t.me/testflights) | iOS 用户的白嫖利器，第一时间推送热门付费应用的 Beta 测试版（TestFlight）上车链接。 |
 | **小米玩机交流群** | [@xiaomi6666](https://t.me/xiaomi6666) | MIUI/HyperOS 发烧友聚集地，探讨解锁 Bootloader、线刷救砖与 EU 版固件体验。 |
-| **科技新报 TechNews** | [@technews_tw](https://t.me/technews_tw) | 半导体、数码与前沿科技趋势。 |
+| **All About RSS** | [@aboutrss](https://t.me/aboutrss) | RSS 深度玩家大本营，分享各类网站的源地址抓取方案、阅读器评测与自动化信息流构建。 |
 | **Appinn 小众软件** | [@appinnfeed](https://t.me/appinnfeed) | 分享免费、小巧、实用的软件。 |
-| **程序员百例灵感** | [@useless_project_ideas](https://t.me/useless_project_ideas) | 脑洞大开的代码集市，分享 GitHub 上那些看似“无用”但极具技术趣味和创意的开源项目。 |
 
 ### 📁 跨境与出海金融
 
 | 名称 | 链接 | 简介 |
 | :--- | :--- | :--- |
-| **数字资产出入金安全** | [@joinchat_AYS860xmKnoyZWRk](https://t.me/joinchat/AYS860xmKnoyZWRk) | 深度交流 C2C 防冻卡技巧、外贸结汇合规通道与法币出入金实操。 |
 | **走资世界 News** | [@banktoworldnews](https://t.me/banktoworldnews) | 面向全球化配置人群，分享离岸账户、全球护照及跨国资产安全架构。 |
+| **数字资产出入金安全** | [@joinchat_AYS860xmKnoyZWRk](https://t.me/joinchat/AYS860xmKnoyZWRk) | 深度交流 C2C 防冻卡技巧、外贸结汇合规通道与法币出入金实操。 |
 | **跨境支付知多少** | [@Vfd5p3CJEcPwafnb](https://t.me/+Vfd5p3CJEcPwafnb) | 聚焦海外虚拟卡、电汇通道、收单结算与跨境出海支付合规架构。 |
 
 ### 📁 钱包与支付
 
 | 名称 | 链接 | 简介 |
 | :--- | :--- | :--- |
-| **匿名海外虚拟卡** | [@kkpay](https://t.me/kkpay) | 海外匿名信用卡开卡平台，支持支付宝等法币充值，轻松搞定海淘与 ChatGPT 等 AI 订阅。 |
+| **OKPay 加密支付** | [@okpay](https://t.me/okpay) | 综合性加密资产支付网关，支持多种主流数字货币的无缝收发、托管与结算。 |
 | **Pikabao 充值服务** | [@pikabaobot](https://t.me/pikabaobot) | 便捷的数字生活钱包与点卡充值接口，覆盖多种常用虚拟商品与话费支付场景。 |
 | **UTBOT 隐私资产** | [@UTBOT](https://t.me/UTBOT) | 隐私优先的链上资产管家，提供极其安全的加密货币托管与跨链闪兑服务。 |
-| **OKPay 加密支付** | [@okpay](https://t.me/okpay) | 综合性加密资产支付网关，支持多种主流数字货币的无缝收发、托管与结算。 |
-
-### 📁 群管理验证
-
-| 名称 | 链接 | 简介 |
-| :--- | :--- | :--- |
-| **nmBot (尼玛机器人)** | [@nmnmfunbot](https://t.me/nmnmfunbot) | 中文用户使用最多的群管理机器人。 |
-| **方丈机器人** | [@fangzhang_bot](https://t.me/fangzhang_bot) | 方丈群组管理机器人，高效防滥用。 |
-| **KinhRobot** | [@KinhRobot](https://t.me/KinhRobot) | 超多功能的群管机器人。 |
+| **匿名海外虚拟卡** | [@kkpay](https://t.me/kkpay) | 海外匿名信用卡开卡平台，支持支付宝等法币充值，轻松搞定海淘与 ChatGPT 等 AI 订阅。 |
 
 ### 📁 软件与应用
 
 | 名称 | 链接 | 简介 |
 | :--- | :--- | :--- |
+| **iOS 捷径社区** | [@ShortcutsCN](https://t.me/ShortcutsCN) | 苹果快捷指令（Shortcuts）爱好者的创作工坊，分享从系统签到到万物互联的自动化脚本。 |
+| **App 限免精选** | [@appfans](https://t.me/appfans) | 数码玩家的省钱利器，每日自动化推送 App Store 高质量限免应用与 TestFlight 内测名额。 |
 | **GitHub Trending** | [@githubtrending](https://t.me/githubtrending) | 全球开发者风向标，实时抓取并推送 GitHub 热榜上星标飙升的优质开源项目。 |
 | **Snipaste 官方** | [@snipaste](https://t.me/snipaste) | 跨平台截图与贴图神器的官方频道，同步发布最新 Beta 内测版本与硬核功能更新日志。 |
-| **iOS 捷径社区** | [@ShortcutsCN](https://t.me/ShortcutsCN) | 苹果快捷指令（Shortcuts）爱好者的创作工坊，分享从系统签到到万物互联的自动化脚本。 |
-| **Vivaldi 浏览器** | [@vivaldibrowser](https://t.me/vivaldibrowser) | 以极高定制性闻名的极客浏览器官方频道，分享高效标签页管理与键盘流操作技巧。 |
 | **Typecho Dev** | [@typechodev](https://t.me/typechodev) | 轻量级开源博客程序 Typecho 的开发者动态，分享精美极简主题与各类底层插件魔改。 |
-| **App 限免精选** | [@appfans](https://t.me/appfans) | 数码玩家的省钱利器，每日自动化推送 App Store 高质量限免应用与 TestFlight 内测名额。 |
+| **Vivaldi 浏览器** | [@vivaldibrowser](https://t.me/vivaldibrowser) | 以极高定制性闻名的极客浏览器官方频道，分享高效标签页管理与键盘流操作技巧。 |
 
 ### 📁 实用工具与效率
 
@@ -197,45 +206,31 @@
 | **GalLeague 资源索引** | [@GalLeaguebot](https://t.me/GalLeaguebot) | 垂直领域的数字资源索引导航，提供特定的文件检索功能与玩家社区连接入口。 |
 | **TG 账号 ID 查询** | [@getidsbot](https://t.me/getidsbot) | 开发者与高阶用户必备，精确查询任意用户、群组或频道的专属 Telegram ID (数字 ID) 及注册时间线索。 |
 
-### 📁 搜索机器人
-
-| 名称 | 链接 | 简介 |
-| :--- | :--- | :--- |
-| **SOSO 机器人** | [@soso](https://t.me/soso) | 电报老牌综合搜索机器人，发送关键词发现群组与资源。 |
-| **JISO 机器人** | [@jiso](https://t.me/jiso) | 搜索群、频道、影视、音乐、新闻等内容。 |
-| **海搜** | [@haisou](https://t.me/haisou) | 发送关键词，即可发现频道、群组、视频与帖子。 |
-| **Bot 开发者频道** | [@botsarchive](https://t.me/botsarchive) | 全球最新 Telegram Bot 收录推荐。 |
-| **搜索群(jiso5173)** | [@jiso5173](https://t.me/jiso5173) | 搜索各类资源与群组。 |
-| **超级索引** | [@CJSY](https://t.me/CJSY) | 发送词语即可搜索关联群组与频道资源。 |
-| **快搜** | [@kuai](https://t.me/kuai) | 帮你发现有趣群组、频道、视频、音乐。 |
-| **神马搜索** | [@smss](https://t.me/smss) | 发送词语即可搜索关联群组与频道资源。 |
-| **极搜 JiSou** | [@jisou](https://t.me/jisou) | 发送词语帮你找到有趣的群与资源。 |
-
 ### 📁 贴纸与图像
 
 | 名称 | 链接 | 简介 |
 | :--- | :--- | :--- |
-| **Emoji 玩法大全** | [@EmojiWorldBot](https://t.me/EmojiWorldBot) | 提供丰富的表情符号转换、奇葩组合拼接与各类 Emoji 创意文字生成。 |
-| **巨型文本贴纸** | [@big_text_bot](https://t.me/big_text_bot) | 醒目文本生成器，将普通文字瞬间转换为巨大的贴纸样式，群聊吸睛利器。 |
-| **AI 图像场景识别** | [@visiontest1bot](https://t.me/visiontest1bot) | 接入前沿 AI 视觉模型的图像分析器，精准识别图片内容并自动生成场景描述文字。 |
-| **GIF 逐帧提取** | [@GIFDownloader_bot](https://t.me/GIFDownloader_bot) | 动态图提取工具，支持将 GIF 动图逐帧拆解并转换为高清静态图片。 |
-| **Imgur 图床直连** | [@imgurplusbot](https://t.me/imgurplusbot) | 老牌免费图床 Imgur 快捷上传接口，发送图片即可秒换公网外链。 |
-| **贴纸报时器** | [@sticker_time_bot](https://t.me/sticker_time_bot) | 趣味时钟小工具，定时在群组或私聊中发送带有当前精确时间的精美图文贴纸。 |
-| **贴纸包批量导出** | [@DownloadStickersBot](https://t.me/DownloadStickersBot) | 贴纸包批量提取器，一键将 Telegram 专属表情包导出为通用图片格式。 |
-| **全能贴纸下载器** | [@Stickerdownloadbot](https://t.me/Stickerdownloadbot) | 支持将聊天中的贴纸无损保存为 JPG、PNG、WEBP 格式或整体打包为 ZIP 压缩包。 |
-| **贴纸搜索引擎** | [@stickersearchbot](https://t.me/stickersearchbot) | 强大的表情包雷达，通过关键词快速匹配并发现全网热门的 Telegram 贴纸包。 |
-| **贴纸特征检索** | [@StFindBot](https://t.me/StFindBot) | 特征识别与检索工具，发送单张图片即可精准定位你想要的特定风格表情包大全。 |
-| **TG 官方动态贴纸** | [@AnimatedStickers](https://t.me/AnimatedStickers) | Telegram 官方推荐的高帧率（60fps）动态贴纸库，让你的日常聊天极具表现力。 |
-| **GIF 动图溯源** | [@TumblrAce_bot](https://t.me/TumblrAce_bot) | 动图溯源引擎，快速查询 Tumblr 等平台 GIF 动图的原始出处与画师信息。 |
-| **ACG 二次元贴纸聚合** | [@ACGStickers](https://t.me/ACGStickers) | 专为老二次元打造的宝藏频道，收录海量精美的新番、Galgame 与日系画师表情包。 |
-| **GIF 鬼畜倒放** | [@GifReverseBot](https://t.me/GifReverseBot) | 鬼畜动图制作器，一键将任意 GIF 动画的时间轴进行倒放处理并输出新图。 |
-| **条形码/二维码双修** | [@BarQRCodeBot](https://t.me/BarQRCodeBot) | 工业级条码转换器，除二维码外，还完美支持多种标准格式的商品条形码生成。 |
 | **个性二维码生成** | [@MakeQrBot](https://t.me/MakeQrBot) | 名片与链接转换工具，轻松将冗长的网址或个人信息转化为标准二维码图片。 |
 | **极速扫码器** | [@qrcrbot](https://t.me/qrcrbot) | 轻量级二维码读取器，去除繁杂功能，专注提供最快的读码与结果返回体验。 |
 | **便携二维码扫描** | [@QRCodeRoBot](https://t.me/QRCodeRoBot) | 极简二维码扫码仪，发送包含二维码的图片即可提取并返回隐藏文本或直达链接。 |
+| **贴纸特征检索** | [@StFindBot](https://t.me/StFindBot) | 特征识别与检索工具，发送单张图片即可精准定位你想要的特定风格表情包大全。 |
+| **Emoji 玩法大全** | [@EmojiWorldBot](https://t.me/EmojiWorldBot) | 提供丰富的表情符号转换、奇葩组合拼接与各类 Emoji 创意文字生成。 |
+| **巨型文本贴纸** | [@big_text_bot](https://t.me/big_text_bot) | 醒目文本生成器，将普通文字瞬间转换为巨大的贴纸样式，群聊吸睛利器。 |
 | **二维码双向魔法师** | [@QR_Wizardbot](https://t.me/QR_Wizardbot) | 专业的二维码处理中枢，支持复杂文本与链接的二维码双向编码生成与光速解码。 |
-| **网页图片嗅探** | [@webimageextractor](https://t.me/webimageextractor) | 网页资源嗅探抓取器，输入网址即可全自动批量解析并下载网页内的所有高清图片。 |
+| **GIF 鬼畜倒放** | [@GifReverseBot](https://t.me/GifReverseBot) | 鬼畜动图制作器，一键将任意 GIF 动画的时间轴进行倒放处理并输出新图。 |
+| **全能贴纸下载器** | [@Stickerdownloadbot](https://t.me/Stickerdownloadbot) | 支持将聊天中的贴纸无损保存为 JPG、PNG、WEBP 格式或整体打包为 ZIP 压缩包。 |
+| **TG 官方动态贴纸** | [@AnimatedStickers](https://t.me/AnimatedStickers) | Telegram 官方推荐的高帧率（60fps）动态贴纸库，让你的日常聊天极具表现力。 |
+| **贴纸搜索引擎** | [@stickersearchbot](https://t.me/stickersearchbot) | 强大的表情包雷达，通过关键词快速匹配并发现全网热门的 Telegram 贴纸包。 |
+| **贴纸包批量导出** | [@DownloadStickersBot](https://t.me/DownloadStickersBot) | 贴纸包批量提取器，一键将 Telegram 专属表情包导出为通用图片格式。 |
+| **GIF 逐帧提取** | [@GIFDownloader_bot](https://t.me/GIFDownloader_bot) | 动态图提取工具，支持将 GIF 动图逐帧拆解并转换为高清静态图片。 |
+| **ACG 二次元贴纸聚合** | [@ACGStickers](https://t.me/ACGStickers) | 专为老二次元打造的宝藏频道，收录海量精美的新番、Galgame 与日系画师表情包。 |
+| **贴纸报时器** | [@sticker_time_bot](https://t.me/sticker_time_bot) | 趣味时钟小工具，定时在群组或私聊中发送带有当前精确时间的精美图文贴纸。 |
+| **Imgur 图床直连** | [@imgurplusbot](https://t.me/imgurplusbot) | 老牌免费图床 Imgur 快捷上传接口，发送图片即可秒换公网外链。 |
+| **GIF 动图溯源** | [@TumblrAce_bot](https://t.me/TumblrAce_bot) | 动图溯源引擎，快速查询 Tumblr 等平台 GIF 动图的原始出处与画师信息。 |
+| **AI 图像场景识别** | [@visiontest1bot](https://t.me/visiontest1bot) | 接入前沿 AI 视觉模型的图像分析器，精准识别图片内容并自动生成场景描述文字。 |
 | **图片 OCR 提取** | [@imageToText_bot](https://t.me/imageToText_bot) | 智能光学字符识别（OCR）工具，极速提取截图或照片中的复杂文本段落。 |
+| **网页图片嗅探** | [@webimageextractor](https://t.me/webimageextractor) | 网页资源嗅探抓取器，输入网址即可全自动批量解析并下载网页内的所有高清图片。 |
+| **条形码/二维码双修** | [@BarQRCodeBot](https://t.me/BarQRCodeBot) | 工业级条码转换器，除二维码外，还完美支持多种标准格式的商品条形码生成。 |
 
 ### 📁 网络代理与路由
 
@@ -362,41 +357,44 @@
 
 | 名称 | 链接 | 简介 |
 | :--- | :--- | :--- |
-| **Leetcode 刷题交流** | [@leetcode_discuss](https://t.me/leetcode_discuss) | 北美与国内互联网大厂算法面试冲刺营，分享数据结构心得、每日一题与大厂面经。 |
 | **北美程序员 Faang** | [@faangbbs](https://t.me/faangbbs) | 聚焦硅谷一线科技巨头（META, Apple, Amazon等）的求职内推、包裹（Package）协商与 H1B 签证。 |
+| **Leetcode 刷题交流** | [@leetcode_discuss](https://t.me/leetcode_discuss) | 北美与国内互联网大厂算法面试冲刺营，分享数据结构心得、每日一题与大厂面经。 |
 
 ### 📁 资源分享
 
 | 名称 | 链接 | 简介 |
 | :--- | :--- | :--- |
-| **阿里云盘资源发布** | [@Aliyundrive_Share_Channel](https://t.me/Aliyundrive_Share_Channel) | 突破限速体验的阿里云盘资源首发阵地，涵盖4K高清原盘、专业生产力软件与大型学习资料。 |
-| **奈飞小铺 官方群** | [@netflix_bus](https://t.me/netflix_bus) | 流媒体合租拼车情报站，提供高性价比的 Netflix、Spotify、Disney+ 发车信息与账号维护。 |
-| **TG 主题分享** | [@tg_theme](https://t.me/tg_theme) | Telegram 炫酷皮肤与气泡样式。 |
-| **壁纸精选** | [@wallpaper_share](https://t.me/wallpaper_share) | 4K 高清桌面与手机壁纸。 |
-| **PT 资讯频道** | [@privatetrackernews](https://t.me/privatetrackernews) | Private Tracker 玩家专属雷达，实时播报全球各大 PT 站开放注册、考核指标与免费下载活动。 |
-| **Epic 喜加一资讯** | [@SteamNy](https://t.me/SteamNy) | Steam 与 Epic 游戏商城打折情报专家，绝对不错过任何一次“喜加一”限免白嫖机会。 |
-| **VShareCloud 软件库** | [@VShareCloud](https://t.me/VShareCloud) | 高质量的 Mac 与 Windows 破解软件、便携版工具分享库，致力于纯净无广告的资源下载。 |
-| **综合类频道** | [@zhplayers](https://t.me/zhplayers) | 综合类频道 |
-| **阿里云盘资源分享** | [@Aliyundrive_Share](https://t.me/Aliyundrive_Share) | 全网影视、学习资料阿里云盘链接。 |
-| **夸克网盘资源** | [@Quark_Share](https://t.me/Quark_Share) | 每日更新夸克网盘最新影视与文档。 |
-| **Netflix 奈飞中文** | [@netflix_zh](https://t.me/netflix_zh) | 流媒体剧集更新通知与讨论。 |
 | **Z-Library 官方** | [@zlibrary_official](https://t.me/zlibrary_official) | 全球最大数字图书馆官方动态。 |
+| **VShareCloud 软件库** | [@VShareCloud](https://t.me/VShareCloud) | 高质量的 Mac 与 Windows 破解软件、便携版工具分享库，致力于纯净无广告的资源下载。 |
+| **Epic 喜加一资讯** | [@SteamNy](https://t.me/SteamNy) | Steam 与 Epic 游戏商城打折情报专家，绝对不错过任何一次“喜加一”限免白嫖机会。 |
+| **PT 资讯频道** | [@privatetrackernews](https://t.me/privatetrackernews) | Private Tracker 玩家专属雷达，实时播报全球各大 PT 站开放注册、考核指标与免费下载活动。 |
+| **奈飞小铺 官方群** | [@netflix_bus](https://t.me/netflix_bus) | 流媒体合租拼车情报站，提供高性价比的 Netflix、Spotify、Disney+ 发车信息与账号维护。 |
+| **阿里云盘资源发布** | [@Aliyundrive_Share_Channel](https://t.me/Aliyundrive_Share_Channel) | 突破限速体验的阿里云盘资源首发阵地，涵盖4K高清原盘、专业生产力软件与大型学习资料。 |
+| **壁纸精选** | [@wallpaper_share](https://t.me/wallpaper_share) | 4K 高清桌面与手机壁纸。 |
+| **TG 主题分享** | [@tg_theme](https://t.me/tg_theme) | Telegram 炫酷皮肤与气泡样式。 |
 | **Kindle 电子书推** | [@kindle_book](https://t.me/kindle_book) | mobi/epub 格式电子书交流。 |
+| **Netflix 奈飞中文** | [@netflix_zh](https://t.me/netflix_zh) | 流媒体剧集更新通知与讨论。 |
+| **夸克网盘资源** | [@Quark_Share](https://t.me/Quark_Share) | 每日更新夸克网盘最新影视与文档。 |
+| **阿里云盘资源分享** | [@Aliyundrive_Share](https://t.me/Aliyundrive_Share) | 全网影视、学习资料阿里云盘链接。 |
+| **综合类频道** | [@zhplayers](https://t.me/zhplayers) | 综合类频道 |
 
 ### 📁 自动化与脚本
 
 | 名称 | 链接 | 简介 |
 | :--- | :--- | :--- |
 | **PKC 皮卡车** | [@topstyle996](https://t.me/topstyle996) | 极客玩家自建车队，分享青龙面板日常运维、自动化签到与任务代挂。 |
-| **Bigo 社区群** | [@bigo_tool](https://t.me/bigo_tool) | 开发者交流与小工具协作社群，提供脚本排错与环境配置答疑。 |
+| **Leeco 雪花社** | [@xuehuashe](https://t.me/xuehuashe) | 汇聚开源实用脚本、定时任务配置与服务器日常玩法交流。 |
 | **Fragment 账号实时报价** | [@Fragment_Monitor](https://t.me/Fragment_Monitor) | 监控 Telegram 官方 Fragment 拍卖平台，秒级播报优质用户名与匿名号码竞拍走势。 |
 | **jdShareCode 京东互助** | [@jdShareCode](https://t.me/jdShareCode) | 电商活动互助代码实时共享池，助力各类自动化打卡与京豆脚本稳定运行。 |
-| **Leeco 雪花社** | [@xuehuashe](https://t.me/xuehuashe) | 汇聚开源实用脚本、定时任务配置与服务器日常玩法交流。 |
+| **Bigo 社区群** | [@bigo_tool](https://t.me/bigo_tool) | 开发者交流与小工具协作社群，提供脚本排错与环境配置答疑。 |
 
 ### 📁 综合兴趣与生活
 
 | 名称 | 链接 | 简介 |
 | :--- | :--- | :--- |
+| **V2EX 后花园** | [@goV2EX](https://t.me/goV2EX) | 知名程序员与创意工作者社区 V2EX 的官方纯净分舵，涵盖职场、硬件与创造力分享。 |
+| **Notion 中文社区** | [@Notionso](https://t.me/Notionso) | 最强 All-in-One 笔记工具狂热粉，分享神级模板、数据库关联魔法与 API 自动化对接。 |
+| **读舍 享受阅读** | [@shufm](https://t.me/shufm) | 高净值读书交流圈，每日分享精校版 EPUB/MOBI 电子书，定期举办严肃文学主题探讨。 |
 | **Steam 核心游戏** | [@gamecn](https://t.me/gamecn) | 跨平台硬核玩家大本营，交流 Steam 单机大作、Switch 第一方游戏与冷门精品独立游戏。 |
 | **电报摄影社** | [@photographyintelegram](https://t.me/photographyintelegram) | 专业影像创作者沙龙，分享单反微单镜头测评、Lightroom 调色参数与风光人像约拍。 |
 | **维基百科中文室** | [@wikipedia_zh_n](https://t.me/wikipedia_zh_n) | 中文维基百科志愿编辑者的中枢，讨论条目中立性、格式规范及防破坏巡查机制。 |
@@ -406,15 +404,6 @@
 | **PlayStation 玩家** | [@ps4cn2](https://t.me/ps4cn2) | 主机游戏深度社群，涵盖 PS5 独占大作评测、Xbox XGP 会员白嫖及 Switch 破解心得。 |
 | **饭否每日精选** | [@fanfou_daily](https://t.me/fanfou_daily) | 精选中国最古老的微客网站“饭否”上的优质碎片化思考，保留中文互联网难得的纯真与哲思。 |
 | **少数派 sspai 社群** | [@sspai_group](https://t.me/sspai_group) | 高品质数字生活方式倡导者，探讨高效工作流、正版软件购买及生活质感提升。 |
-| **V2EX 后花园** | [@goV2EX](https://t.me/goV2EX) | 知名程序员与创意工作者社区 V2EX 的官方纯净分舵，涵盖职场、硬件与创造力分享。 |
-| **Notion 中文社区** | [@Notionso](https://t.me/Notionso) | 最强 All-in-One 笔记工具狂热粉，分享神级模板、数据库关联魔法与 API 自动化对接。 |
-| **读舍 享受阅读** | [@shufm](https://t.me/shufm) | 高净值读书交流圈，每日分享精校版 EPUB/MOBI 电子书，定期举办严肃文学主题探讨。 |
-
-### 📁 ACG与二次元
-
-| 名称 | 链接 | 简介 |
-| :--- | :--- | :--- |
-| **IQDB 以图搜番** | [@iqdb_org_bot](https://t.me/iqdb_org_bot) | 二次元老司机必备的识图引擎，向机器人发送动漫截图，即可通过 IQDB 反查动漫出处、集数及画师原图。 |
 
 ### 📁 AI与翻译工具
 
@@ -445,4 +434,7 @@
 
 **(1) 客户端下载**
 * [Telegram 官方下载](https://telegram.org/)
+
+**(2) 基础入门指南**
+* [Telegram 纯新手完全中文使用教程](https://surpasswin.github.io/telegram-channels/guide/)
 

@@ -1,12 +1,18 @@
 # 🚀 Telegram 中文精选频道与群组导航 (Telegram Channels)
 
-[![Status](https://img.shields.io/badge/Status-Maintained-brightgreen.svg)]() [![Total Channels](https://img.shields.io/badge/Total_Channels-421-blue.svg)]() [![Last Updated](https://img.shields.io/badge/Updated-2026-10-12-orange.svg)]()
+[![Status](https://img.shields.io/badge/Status-Maintained-brightgreen.svg)]() [![Total Channels](https://img.shields.io/badge/Total_Channels-423-blue.svg)]() [![Last Updated](https://img.shields.io/badge/Updated-2026-10-12-orange.svg)]()
 
 > 本项目致力于整理并持续维护高质量的 **Telegram 中文频道** 与 **公开交流群组**。所有收录数据均经过精心筛选与严格分类，助你快速发现、定位有价值的中文社群资源。欢迎加入交流群：https://t.me/tggzcn 
 
 > 💡 **提交收录与合作**：欢迎联系机器人 [@zhcollect_bot](https://t.me/zhcollect_bot) 提交优质频道或群组，共同完善本导航库。(请按格式提交：名称，链接，类别，简介）
 
 ---
+
+### 📁 ⭐ 站长推荐
+
+| 名称 | 链接 | 简介 |
+| :--- | :--- | :--- |
+| **ZHPlayers 频道玩家** | [@zhplayers](https://t.me/zhplayers) | 关注频道发现更多好玩的TG频道！ |
 
 ### 📁 官方与核心组件
 
@@ -29,8 +35,6 @@
 | **Durov 官方频道** | [@durov](https://t.me/durov) | Telegram 创始人 Pavel Durov 的个人布告栏，独家发布平台重大愿景、用户数据里程碑与隐私政策更新。 |
 | **官方诈骗举报中心** | [@notoscam](https://t.me/notoscam) | 官方设立的反欺诈专线，用于公示与打击假冒官方、虚假空投及钓鱼侵权账号。 |
 | **TG 简中汉化组** | [@zh_CN](https://t.me/zh_CN) | Telegram 生态最知名的简体中文语言包发布站，持续提供精准、优雅的本地化界面支持。 |
-| **Telegram News** | [@telegram](https://t.me/telegram) | Telegram 官方新闻通讯社，实时首发全平台的大版本更新日志与核心特性演示。 |
-| **Telegram Tips** | [@TelegramTips](https://t.me/TelegramTips) | 官方高阶使用指南，通过精美的图文与视频展示隐藏技巧、手势操作与效率玩法。 |
 | **Telegram Beta** | [@tgbeta](https://t.me/tgbeta) | 开发者与极客的首选关注，追踪各个端 TestFlight 与 Beta 测试版的最新编译动态。 |
 | **TG 设计师前沿** | [@designers](https://t.me/designers) | 官方 UI/UX 设计团队阵地，展示极其流畅的交互动画原型与视觉设计规范。 |
 | **TG 官方竞赛** | [@contest](https://t.me/contest) | 官方百万美金开发者编程大赛发布频道，涵盖算法优化、UI 重构及 C++ 底层挑战。 |
@@ -80,8 +84,6 @@
 | **阿福** | [@afoolrobot](https://t.me/afoolrobot) | 经典中文群管系统，拦截广告、清理僵尸粉和自定义回复样样精通。 |
 | **Group Butler** | [@GroupButler_bot](https://t.me/GroupButler_bot) | 全球知名的 Telegram 群组大管家，以极其强大的自定义触发器闻名。 |
 | **Policr Mini** | [@policr_mini_bot](https://t.me/policr_mini_bot) | 极简美学的验证机器人控制台版，专注解决新用户入群活体检测。 |
-| **Rose** | [@MissRose_bot](https://t.me/MissRose_bot) | Telegram 生态中最具统治力的老牌群管，拥有深不见底的自定义过滤规则。 |
-| **Group Help** | [@GroupHelpBot](https://t.me/GroupHelpBot) | 高度人性化的社群助手，不仅能管纪律，还能通过自动回复引导新人熟悉环境。 |
 | **谷歌人机验证** | [@fuckuspambot](https://t.me/fuckuspambot) | 强悍的活体检测防线，现已支持在入群阶段直接调用 Google 网页级人机验证。 |
 | **TGCN 杀广告验证** | [@tgcnjoincaptchabot](https://t.me/tgcnjoincaptchabot) | 中文圈装机量极高的老牌验证插件，自带恶意广告号数据库实时拦截。 |
 | **加减法验证** | [@toorucaptchabot](https://t.me/toorucaptchabot) | 采用基础数学运算的轻度验证码，在防御刷号机与用户体验间取得绝佳平衡。 |
@@ -126,6 +128,7 @@
 
 | 名称 | 链接 | 简介 |
 | :--- | :--- | :--- |
+| **Lottery Bot V2** | [@tgLotteryBot](https://t.me/tgLotteryBot) | 采用完全公开公平算法的中文抽奖引擎，群运营首选工具。 |
 | **Telegram 抽奖** | [@LotteryIndex](https://t.me/LotteryIndex) | 全网热门抽奖福利大本营，实时聚合各大频道的白嫖机会。 |
 | **抽奖助手** | [@LotteryHelperBot](https://t.me/LotteryHelperBot) | 开箱即用的群组活动小助手，支持设定参与门槛与开奖时间。 |
 | **幸运抽奖助手** | [@Grinx_bot](https://t.me/Grinx_bot) | 界面友好的轻量级抽奖工具，适合中小型交流群活跃气氛。 |
@@ -134,7 +137,6 @@
 | **抽奖活动导航** | [@Lottery_home](https://t.me/Lottery_home) | 福利信息公告牌，汇聚全网优质白嫖资源与活动线报。 |
 | **抽奖助手 V2** | [@tgLotteryv2bot](https://t.me/tgLotteryv2bot) | 升级版群组抽奖系统，修复多项漏洞，支持更高并发量的参与者。 |
 | **抽奖活动导航 V2** | [@tgLotteryv2](https://t.me/tgLotteryv2) | 第二代福利活动雷达，过滤虚假抽奖，只推荐高胜率优质活动。 |
-| **Lottery Bot V2** | [@tgLotteryBot](https://t.me/tgLotteryBot) | 采用完全公开公平算法的中文抽奖引擎，群运营首选工具。 |
 | **抽奖机器人** | [@XiaoCaiLotteryBot](https://t.me/XiaoCaiLotteryBot) | 高度保护隐私的特殊抽奖器，完美支持匿名频道与管理员马甲发起活动。 |
 
 ### 📁 电子书与阅读
@@ -152,7 +154,6 @@
 
 | 名称 | 链接 | 简介 |
 | :--- | :--- | :--- |
-| **Binance 币安中文** | [@binance_cn](https://t.me/binance_cn) | 全球最大加密货币交易所中文社区。 |
 | **OKX 欧易官方** | [@okx_cn](https://t.me/okx_cn) | OKX 交易所最新活动与行情。 |
 | **金色财经** | [@jinsecj](https://t.me/jinsecj) | 区块链行业权威快讯。 |
 | **BlockBeats 律动** | [@blockbeats](https://t.me/blockbeats) | Web3 前沿资讯与空投教程。 |
@@ -194,6 +195,8 @@
 | **WSB 华尔街中文圈** | [@WSBetsZH](https://t.me/WSBetsZH) | 散户逼空华尔街的中文分会场，探讨美股期权（Options）末日轮、Meme 股暴涨暴跌逻辑。 |
 | **全球汇率换算器** | [@CostflowCurrencyBot](https://t.me/CostflowCurrencyBot) | 专为跨境电商与海淘人士打造，支持实时查询全球法定货币及主流加密货币（Crypto）的精准实时汇率。 |
 | **股票行情播报** | [@stockprice_bot](https://t.me/stockprice_bot) | 散户盯盘小助手，支持通过代码实时查询 A股、美股及港股上市公司的最新报价、涨跌幅与基础盘面数据。 |
+| **Binance 币安中文** | [@binance_cn](https://t.me/binance_cn) | 全球最大加密货币交易所中文社区。 |
+| **PANews** | [@panews](https://t.me/panews) | 全球区块链与数字资产新闻。 |
 
 ### 📁 金融与Web3
 
@@ -205,9 +208,6 @@
 
 | 名称 | 链接 | 简介 |
 | :--- | :--- | :--- |
-| **Kali 黑客安全交流** | [@hackerzh](https://t.me/hackerzh) | 网络安全与渗透测试爱好者的白帽子社区，探讨 Kali Linux 工具链与漏洞复现。 |
-| **Hexo/Hugo 博客圈** | [@hexozh](https://t.me/hexozh) | 静态博客与独立站站长聚集地，交流精美主题开发、自动化部署与持续集成（CI/CD）玩法。 |
-| **TypeScript 中文交流** | [@typescriptzh](https://t.me/typescriptzh) | 微软 TS 类型体操研讨会，分享大型前端项目重构经验与严格类型约束下的最佳实践。 |
 | **Rust 中文开发者** | [@rust_zh](https://t.me/rust_zh) | Rust 编程语言中文极客圈，探讨内存安全、底层系统重构与 WebAssembly 实战。 |
 | **Python 中文交流** | [@pythonzh](https://t.me/pythonzh) | 华语区活跃的 Python 开发者社群，涵盖爬虫抓取、数据分析与 Django/Flask 后端框架开发。 |
 | **Golang 中文社区** | [@GolangCN](https://t.me/GolangCN) | Go 语言高并发实战阵地，汇聚微服务架构、云原生（Docker/K8s）及底层源码深度剖析。 |
@@ -216,6 +216,9 @@
 | **Java/Android 研发群** | [@java_android_dev](https://t.me/java_android_dev) | 移动端与后端架构交流，探讨 JVM 调优、Spring Cloud 微服务及安卓底层逆向。 |
 | **C++ 中文交流** | [@cpluspluszh](https://t.me/cpluspluszh) | 硬核系统级编程讨论组，主攻高性能计算、游戏引擎底层及音视频编解码技术。 |
 | **CentOS/Linux 运维** | [@centoszh](https://t.me/centoszh) | 资深服务器运维根据地，探讨 Linux 内核优化、Shell 脚本自动化及生产环境故障排查。 |
+| **Kali 黑客安全交流** | [@hackerzh](https://t.me/hackerzh) | 网络安全与渗透测试爱好者的白帽子社区，探讨 Kali Linux 工具链与漏洞复现。 |
+| **TypeScript 中文交流** | [@typescriptzh](https://t.me/typescriptzh) | 微软 TS 类型体操研讨会，分享大型前端项目重构经验与严格类型约束下的最佳实践。 |
+| **Hexo/Hugo 博客圈** | [@hexozh](https://t.me/hexozh) | 静态博客与独立站站长聚集地，交流精美主题开发、自动化部署与持续集成（CI/CD）玩法。 |
 
 ### 📁 开发与运维
 
@@ -227,17 +230,17 @@
 
 | 名称 | 链接 | 简介 |
 | :--- | :--- | :--- |
-| **Clash 节点资源** | [@clash_rules](https://t.me/clash_rules) | 代理工具使用教程与规则。 |
+| **呆呆兽** | [@KeDuckBot](https://t.me/KeDuckBot) | 呆呆兽群管机器人，专注入群验证。 |
+| **sauweenbot** | [@sauweenbot](https://t.me/sauweenbot) | 全中文的简单操作群组机器人。 |
 | **V2EX 新帖推送** | [@v2ex_feed](https://t.me/v2ex_feed) | V2EX 程序员社区最新话题。 |
 | **Linux 中国** | [@linuxcn](https://t.me/linuxcn) | Linux 资讯与技术文章。 |
 | **开源中国 OSChina** | [@oschina](https://t.me/oschina) | 国内最大的开源技术社区资讯。 |
 | **主机玩家 Hostloc** | [@hostloc_mjj](https://t.me/hostloc_mjj) | 全球主机交流论坛热门帖子。 |
 | **NodeSeek** | [@nodeseek](https://t.me/nodeseek) | 极客与VPS玩家社区交流。 |
-| **nmBot (尼玛机器人)** | [@nmnmfunbot](https://t.me/nmnmfunbot) | 中文用户使用最多的群管理机器人。 |
-| **KinhRobot** | [@KinhRobot](https://t.me/KinhRobot) | 超多功能的群管机器人。 |
-| **呆呆兽** | [@KeDuckBot](https://t.me/KeDuckBot) | 呆呆兽群管机器人，专注入群验证。 |
-| **方丈机器人** | [@fangzhang_bot](https://t.me/fangzhang_bot) | 方丈群组管理机器人，高效防滥用。 |
-| **sauweenbot** | [@sauweenbot](https://t.me/sauweenbot) | 全中文的简单操作群组机器人。 |
+| **Clash 节点资源** | [@clash_rules](https://t.me/clash_rules) | 代理工具使用教程与规则。 |
+| **Rose** | [@MissRose_bot](https://t.me/MissRose_bot) | 全球知名的实用 Telegram 群组管理机器人。 |
+| **Group Help** | [@GroupHelpBot](https://t.me/GroupHelpBot) | 轻松管理你的群组，支持丰富自定义。 |
+| **GitHub Trending** | [@githubtrending](https://t.me/githubtrending) | 每日推送 GitHub 热门开源项目。 |
 | **BotsArchive** | [@BotsArchive](https://t.me/BotsArchive) | 收录 Telegram 实用机器人与开发工具汇总。 |
 | **VPS信号旗播报** | [@vps_xhq](https://t.me/vps_xhq) | 精选 VPS 促销、服务器动态与机房线路评测。 |
 | **互联网从业者充电站** | [@https1024](https://t.me/https1024) | 专注于前后端、系统架构、云原生技术分享。 |
@@ -248,8 +251,8 @@
 
 | 名称 | 链接 | 简介 |
 | :--- | :--- | :--- |
-| **Arch Linux 中文** | [@archlinuxcn](https://t.me/archlinuxcn) | Arch Linux 中文社区官方通知频道，跟进滚动更新包（AUR）状态、系统底层变更与打包指南。 |
 | **PythonHub** | [@PythonHub](https://t.me/PythonHub) | 面向全球 Python 开发者的资源聚合器，每日推送高级编程技巧、代码片段与实用开源库。 |
+| **Arch Linux 中文** | [@archlinuxcn](https://t.me/archlinuxcn) | Arch Linux 中文社区官方通知频道，跟进滚动更新包（AUR）状态、系统底层变更与打包指南。 |
 | **Coding News** | [@CodingNews](https://t.me/CodingNews) | 聚合 Hacker News 与 GitHub 趋势的前沿开发者资讯，追踪编程语言演进与 Web 开发新范式。 |
 | **Front End World** | [@front_end_first](https://t.me/front_end_first) | 大前端技术风向标，深入解析 React/Vue 生态、CSS 现代布局原理及浏览器 V8 引擎底层。 |
 | **Data Science Archive** | [@DataScienceArchive](https://t.me/DataScienceArchive) | 数据科学与机器学习的数字图书馆，提供海量优质的 Pandas、TensorFlow 教程与统计学电子书。 |
@@ -259,8 +262,6 @@
 
 | 名称 | 链接 | 简介 |
 | :--- | :--- | :--- |
-| **Appinn 小众软件** | [@appinnfeed](https://t.me/appinnfeed) | 分享免费、小巧、实用的软件。 |
-| **科技新报 TechNews** | [@technews_tw](https://t.me/technews_tw) | 半导体、数码与前沿科技趋势。 |
 | **Engadget 中文版** | [@engadget_chinese](https://t.me/engadget_chinese) | 消费电子产品评测与新闻。 |
 | **IT之家** | [@ithome](https://t.me/ithome) | 数码科技资讯与手机评测。 |
 | **Apple 苹果资讯** | [@applenews_cn](https://t.me/applenews_cn) | 苹果设备、系统更新与越狱资讯。 |
@@ -281,6 +282,8 @@
 
 | 名称 | 链接 | 简介 |
 | :--- | :--- | :--- |
+| **Appinn 小众软件** | [@appinnfeed](https://t.me/appinnfeed) | 分享免费、小巧、实用的软件。 |
+| **科技新报 TechNews** | [@technews_tw](https://t.me/technews_tw) | 半导体、数码与前沿科技趋势。 |
 | **三星手机交流** | [@samsung_cn](https://t.me/samsung_cn) | 三星 Galaxy 设备玩家大本营，交流 OneUI 系统刷机、国行/港版固件互刷与日常优化技巧。 |
 | **智能手机讨论组** | [@M_Phone](https://t.me/M_Phone) | 跨品牌的智能手机综合讨论社区，涵盖各平台新机发布会追踪与硬件参数硬核对比。 |
 | **小米玩机交流群** | [@xiaomi6666](https://t.me/xiaomi6666) | MIUI/HyperOS 发烧友聚集地，探讨解锁 Bootloader、线刷救砖与 EU 版固件体验。 |
@@ -321,6 +324,14 @@
 | **UTBOT 隐私资产** | [@UTBOT](https://t.me/UTBOT) | 隐私优先的链上资产管家，提供极其安全的加密货币托管与跨链闪兑服务。 |
 | **Pikabao 充值服务** | [@pikabaobot](https://t.me/pikabaobot) | 便捷的数字生活钱包与点卡充值接口，覆盖多种常用虚拟商品与话费支付场景。 |
 
+### 📁 群管理验证
+
+| 名称 | 链接 | 简介 |
+| :--- | :--- | :--- |
+| **KinhRobot** | [@KinhRobot](https://t.me/KinhRobot) | 超多功能的群管机器人。 |
+| **nmBot (尼玛机器人)** | [@nmnmfunbot](https://t.me/nmnmfunbot) | 中文用户使用最多的群管理机器人。 |
+| **方丈机器人** | [@fangzhang_bot](https://t.me/fangzhang_bot) | 方丈群组管理机器人，高效防滥用。 |
+
 ### 📁 群组互动与娱乐
 
 | 名称 | 链接 | 简介 |
@@ -334,7 +345,6 @@
 | 名称 | 链接 | 简介 |
 | :--- | :--- | :--- |
 | **App 限免精选** | [@appfans](https://t.me/appfans) | 数码玩家的省钱利器，每日自动化推送 App Store 高质量限免应用与 TestFlight 内测名额。 |
-| **GitHub Trending** | [@githubtrending](https://t.me/githubtrending) | 全球开发者风向标，实时抓取并推送 GitHub 热榜上星标飙升的优质开源项目。 |
 | **Snipaste 官方** | [@snipaste](https://t.me/snipaste) | 跨平台截图与贴图神器的官方频道，同步发布最新 Beta 内测版本与硬核功能更新日志。 |
 | **RSSHub 布告栏** | [@awesomeRSSHub](https://t.me/awesomeRSSHub) | “万物皆可 RSS”的终极解决方案，发布最新支持的路由接口与私有化部署排错指南。 |
 | **iOS 捷径社区** | [@ShortcutsCN](https://t.me/ShortcutsCN) | 苹果快捷指令（Shortcuts）爱好者的创作工坊，分享从系统签到到万物互联的自动化脚本。 |
@@ -349,15 +359,39 @@
 
 | 名称 | 链接 | 简介 |
 | :--- | :--- | :--- |
+| **留学移民交流** | [@immigration_zh](https://t.me/immigration_zh) | 各国签证政策与讨论。 |
+| **极简生活主义** | [@minimalist_zh](https://t.me/minimalist_zh) | 断舍离、消费降级与储蓄分享。 |
+| **健身减脂交流** | [@fitness_cn](https://t.me/fitness_cn) | 动作纠正、饮食打卡与补剂测评。 |
+| **摄影交流圈** | [@photography_cn](https://t.me/photography_cn) | 器材评测、风光人像约拍与修图。 |
 | **独立开发者社区** | [@indiehacker_cn](https://t.me/indiehacker_cn) | 出海、被动收入与一人公司经验分享。 |
 | **远程工作 Remote** | [@remote_work_cn](https://t.me/remote_work_cn) | 全球远程办公职位招聘与经验。 |
 | **英语学习打卡** | [@english_learning](https://t.me/english_learning) | 每日长难句、雅思托福资料交流。 |
-| **留学移民交流** | [@immigration_zh](https://t.me/immigration_zh) | 各国签证政策与讨论。 |
-| **摄影交流圈** | [@photography_cn](https://t.me/photography_cn) | 器材评测、风光人像约拍与修图。 |
-| **极简生活主义** | [@minimalist_zh](https://t.me/minimalist_zh) | 断舍离、消费降级与储蓄分享。 |
-| **健身减脂交流** | [@fitness_cn](https://t.me/fitness_cn) | 动作纠正、饮食打卡与补剂测评。 |
 
 ### 📁 实用工具
+
+| 名称 | 链接 | 简介 |
+| :--- | :--- | :--- |
+| **搜索群(sousou20w)** | [@sousou20w](https://t.me/sousou20w) | 搜索你想要的一切，自带人机校验。 |
+| **电报搜索群** | [@seseccavsese](https://t.me/seseccavsese) | 防刷子的高效资源搜索群。 |
+| **MTProxy 免费代理** | [@mtproxy_share](https://t.me/mtproxy_share) | 直连 Telegram 的免费内置代理分享。 |
+| **中文语言包更新** | [@zh_cn](https://t.me/zh_cn) | 电报最著名的简体中文本地化频道。 |
+| **电报群组大全** | [@tggroups](https://t.me/tggroups) | 历史悠久的万人群组索引平台。 |
+
+### 📁 实用工具与效率
+
+| 名称 | 链接 | 简介 |
+| :--- | :--- | :--- |
+| **10 分钟临时邮箱** | [@temp_mail_bot](https://t.me/temp_mail_bot) | 隐私保护利器，一键生成 10 分钟有效期的临时邮箱，用于注册各类网站以防垃圾邮件轰炸与隐私泄露。 |
+| **TG 账号 ID 查询** | [@getidsbot](https://t.me/getidsbot) | 开发者与高阶用户必备，精确查询任意用户、群组或频道的专属 Telegram ID (数字 ID) 及注册时间线索。 |
+| **短网址生成器** | [@LinkGeneratorBot](https://t.me/LinkGeneratorBot) | 提供便捷的长链接缩短服务，自动将冗长复杂的 URL 转换为美观的短链接，方便在频道与群组内传播。 |
+| **PDF 转换助手** | [@topdf_bot](https://t.me/topdf_bot) | 移动端文档排版救星，支持将 Word、Excel、TXT 及多张图片瞬间打包转换为标准的 PDF 跨平台文件。 |
+| **智能待办 To-Do** | [@todobot](https://t.me/todobot) | 集成在聊天界面内的轻量级 To-Do List（待办事项）管理工具，支持设定定时提醒与任务清单勾选。 |
+| **安卓 APK 直链提取** | [@apkdl_bot](https://t.me/apkdl_bot) | 绕过 Google Play 商店的区域限制，直接检索并高速下载官方原版 APK 安装包。 |
+| **Socks5 免费代理** | [@socks5_bot](https://t.me/socks5_bot) | 免费节点分发器，为网络环境受限的用户提供直连 Telegram 的可用 Socks5 代理通道。 |
+| **GalLeague 资源索引** | [@GalLeaguebot](https://t.me/GalLeaguebot) | 垂直领域的数字资源索引导航，提供特定的文件检索功能与玩家社区连接入口。 |
+| **全球实时气象站** | [@UserBot](https://t.me/UserBot) | 智能生活气象站，提供全球任意城市的高精度实时天气预报、气温走势与极端灾害预警。 |
+
+### 📁 搜索机器人
 
 | 名称 | 链接 | 简介 |
 | :--- | :--- | :--- |
@@ -368,27 +402,9 @@
 | **神马搜索** | [@smss](https://t.me/smss) | 发送词语即可搜索关联群组与频道资源。 |
 | **快搜** | [@kuai](https://t.me/kuai) | 帮你发现有趣群组、频道、视频、音乐。 |
 | **超级索引** | [@CJSY](https://t.me/CJSY) | 发送词语即可搜索关联群组与频道资源。 |
-| **搜索群(sousou20w)** | [@sousou20w](https://t.me/sousou20w) | 搜索你想要的一切，自带人机校验。 |
 | **搜索群(jiso5173)** | [@jiso5173](https://t.me/jiso5173) | 搜索各类资源与群组。 |
-| **电报搜索群** | [@seseccavsese](https://t.me/seseccavsese) | 防刷子的高效资源搜索群。 |
-| **MTProxy 免费代理** | [@mtproxy_share](https://t.me/mtproxy_share) | 直连 Telegram 的免费内置代理分享。 |
-| **中文语言包更新** | [@zh_cn](https://t.me/zh_cn) | 电报最著名的简体中文本地化频道。 |
-| **电报群组大全** | [@tggroups](https://t.me/tggroups) | 历史悠久的万人群组索引平台。 |
+| **Telegram Tips** | [@TelegramTips](https://t.me/TelegramTips) | 官方使用技巧与新功能图解。 |
 | **Bot 开发者频道** | [@botsarchive](https://t.me/botsarchive) | 全球最新 Telegram Bot 收录推荐。 |
-
-### 📁 实用工具与效率
-
-| 名称 | 链接 | 简介 |
-| :--- | :--- | :--- |
-| **PDF 转换助手** | [@topdf_bot](https://t.me/topdf_bot) | 移动端文档排版救星，支持将 Word、Excel、TXT 及多张图片瞬间打包转换为标准的 PDF 跨平台文件。 |
-| **智能待办 To-Do** | [@todobot](https://t.me/todobot) | 集成在聊天界面内的轻量级 To-Do List（待办事项）管理工具，支持设定定时提醒与任务清单勾选。 |
-| **安卓 APK 直链提取** | [@apkdl_bot](https://t.me/apkdl_bot) | 绕过 Google Play 商店的区域限制，直接检索并高速下载官方原版 APK 安装包。 |
-| **Socks5 免费代理** | [@socks5_bot](https://t.me/socks5_bot) | 免费节点分发器，为网络环境受限的用户提供直连 Telegram 的可用 Socks5 代理通道。 |
-| **GalLeague 资源索引** | [@GalLeaguebot](https://t.me/GalLeaguebot) | 垂直领域的数字资源索引导航，提供特定的文件检索功能与玩家社区连接入口。 |
-| **全球实时气象站** | [@UserBot](https://t.me/UserBot) | 智能生活气象站，提供全球任意城市的高精度实时天气预报、气温走势与极端灾害预警。 |
-| **TG 账号 ID 查询** | [@getidsbot](https://t.me/getidsbot) | 开发者与高阶用户必备，精确查询任意用户、群组或频道的专属 Telegram ID (数字 ID) 及注册时间线索。 |
-| **10 分钟临时邮箱** | [@temp_mail_bot](https://t.me/temp_mail_bot) | 隐私保护利器，一键生成 10 分钟有效期的临时邮箱，用于注册各类网站以防垃圾邮件轰炸与隐私泄露。 |
-| **短网址生成器** | [@LinkGeneratorBot](https://t.me/LinkGeneratorBot) | 提供便捷的长链接缩短服务，自动将冗长复杂的 URL 转换为美观的短链接，方便在频道与群组内传播。 |
 
 ### 📁 贴纸与资源美化
 
@@ -453,11 +469,15 @@
 
 | 名称 | 链接 | 简介 |
 | :--- | :--- | :--- |
-| **今日头条快讯** | [@toutiao_news](https://t.me/toutiao_news) | 社会民生与热点追踪。 |
 | **少数派 sspai** | [@sspai_me](https://t.me/sspai_me) | 高效工作，品质生活，应用推荐。 |
+| **Telegram News** | [@telegram](https://t.me/telegram) | Telegram 官方更新说明。 |
+| **Solidot** | [@solidot](https://t.me/solidot) | 奇客的资讯，重要的开源新闻。 |
+| **爱范儿 ifanr** | [@ifanr](https://t.me/ifanr) | 聚焦数码与科技生活方式。 |
 | **知乎日报热榜** | [@zhihu_feed](https://t.me/zhihu_feed) | 知乎每日热榜聚合推送。 |
 | **哔哩哔哩热门视频** | [@bilibili_hot](https://t.me/bilibili_hot) | B站全站热门视频实时推送。 |
-| **爱范儿 ifanr** | [@ifanr](https://t.me/ifanr) | 聚焦数码与科技生活方式。 |
+| **今日头条快讯** | [@toutiao_news](https://t.me/toutiao_news) | 社会民生与热点追踪。 |
+| **微博热搜榜** | [@weibo_hot](https://t.me/weibo_hot) | 新浪微博实时热搜榜单。 |
+| **联合早报** | [@zaobaosg](https://t.me/zaobaosg) | 客观报道亚洲与全球新闻。 |
 | **BBC News 中文** | [@BBC_Chinese](https://t.me/BBC_Chinese) | BBC中文网官方电报频道。 |
 | **纽约时报中文网** | [@nytimes_zh](https://t.me/nytimes_zh) | 纽约时报中文网深度报道。 |
 | **端传媒 Initium** | [@initiumnews](https://t.me/initiumnews) | 立足香港，放眼全球的深度新闻。 |
@@ -469,25 +489,17 @@
 | **电报时报** | [@times001](https://t.me/times001) | 即时中文资讯聚合与头条新闻推送。 |
 | **华尔街见闻** | [@FinanceNewsDaily](https://t.me/FinanceNewsDaily) | 全球金融市场快讯、宏观经济事件与行情追踪。 |
 
-### 📁 新闻与热点
-
-| 名称 | 链接 | 简介 |
-| :--- | :--- | :--- |
-| **微博热搜实时榜** | [@weibo_hot](https://t.me/weibo_hot) | 通过机器人全自动抓取新浪微博热搜榜，让你在无广告的纯净环境中吃瓜并掌握全网热点。 |
-
 ### 📁 新闻与资讯
 
 | 名称 | 链接 | 简介 |
 | :--- | :--- | :--- |
-| **回形针 PaperClip** | [@papercliphub](https://t.me/papercliphub) | 顶尖泛科普硬核视频创作团队粉丝聚集地，通过极其精美的可视化动画解析工业与科学运作逻辑。 |
 | **少数派 sspai** | [@sspai](https://t.me/sspai) | 高品质数字生活方式倡导者官方推送，主打高效工具推荐、数字生活理念及深度软硬件评测。 |
-| **Solidot 奇客资讯** | [@solidot](https://t.me/solidot) | 硬核极客的老牌情报站，专注于开源运动、底层网络安全、航天探索及前沿科技突破。 |
 | **ReadHub 极简资讯** | [@readhub_cn](https://t.me/readhub_cn) | 无废话的互联网新闻聚合器，每日三分钟纵览全球科技圈动态、创投风向与大厂热搜。 |
-| **联合早报** | [@zaobaosg](https://t.me/zaobaosg) | 新加坡官方媒体视角的华语新闻频道，提供客观严谨的亚太政经要闻与全球快讯。 |
 | **Linux 中国** | [@linuxdotcn](https://t.me/linuxdotcn) | 国内最大开源社区之一的官方推送，涵盖 Linux 内核演进、各类发行版评测与系统运维干货。 |
 | **新闻实验室** | [@newslab2020](https://t.me/newslab2020) | 资深媒体人方可成主理，深度拆解媒介素养，探讨新闻背后的传播学逻辑与信息茧房效应。 |
 | **看鉴中国** | [@OutsightChina](https://t.me/OutsightChina) | 依托深度数据挖掘与专业图表驱动的宏观洞察，提供高质量的政经走势与社会现象分析。 |
 | **中国数字时代** | [@cdtchinesefeed](https://t.me/cdtchinesefeed) | 聚合全球高质量中文报道，记录互联网不可见的折叠面，建立独立视角的数字档案。 |
+| **回形针 PaperClip** | [@papercliphub](https://t.me/papercliphub) | 顶尖泛科普硬核视频创作团队粉丝聚集地，通过极其精美的可视化动画解析工业与科学运作逻辑。 |
 | **Hacker News** | [@hacker_news_feed](https://t.me/hacker_news_feed) | 硅谷创业孵化器 YC 旗下技术社区实时推送，直击全球顶尖程序员的探讨热点与硬核创业思考。 |
 | **国家地理中文版** | [@natgeomedia](https://t.me/natgeomedia) | 美国《国家地理》官方授权频道，提供极具视觉震撼力的全球自然、历史、科学与人文摄影报道。 |
 
@@ -589,7 +601,11 @@
 
 | 名称 | 链接 | 简介 |
 | :--- | :--- | :--- |
-| **综合类频道** | [@zhplayers](https://t.me/zhplayers) | 综合类频道 |
+| **阿里云盘资源发布** | [@Aliyundrive_Share_Channel](https://t.me/Aliyundrive_Share_Channel) | 突破限速体验的阿里云盘资源首发阵地，涵盖4K高清原盘、专业生产力软件与大型学习资料。 |
+| **奈飞小铺 官方群** | [@netflix_bus](https://t.me/netflix_bus) | 流媒体合租拼车情报站，提供高性价比的 Netflix、Spotify、Disney+ 发车信息与账号维护。 |
+| **PT 资讯频道** | [@privatetrackernews](https://t.me/privatetrackernews) | Private Tracker 玩家专属雷达，实时播报全球各大 PT 站开放注册、考核指标与免费下载活动。 |
+| **Epic 喜加一资讯** | [@SteamNy](https://t.me/SteamNy) | Steam 与 Epic 游戏商城打折情报专家，绝对不错过任何一次“喜加一”限免白嫖机会。 |
+| **VShareCloud 软件库** | [@VShareCloud](https://t.me/VShareCloud) | 高质量的 Mac 与 Windows 破解软件、便携版工具分享库，致力于纯净无广告的资源下载。 |
 | **阿里云盘资源分享** | [@Aliyundrive_Share](https://t.me/Aliyundrive_Share) | 全网影视、学习资料阿里云盘链接。 |
 | **夸克网盘资源** | [@Quark_Share](https://t.me/Quark_Share) | 每日更新夸克网盘最新影视与文档。 |
 | **Netflix 奈飞中文** | [@netflix_zh](https://t.me/netflix_zh) | 流媒体剧集更新通知与讨论。 |
@@ -597,11 +613,7 @@
 | **Kindle 电子书推** | [@kindle_book](https://t.me/kindle_book) | mobi/epub 格式电子书交流。 |
 | **TG 主题分享** | [@tg_theme](https://t.me/tg_theme) | Telegram 炫酷皮肤与气泡样式。 |
 | **壁纸精选** | [@wallpaper_share](https://t.me/wallpaper_share) | 4K 高清桌面与手机壁纸。 |
-| **阿里云盘资源发布** | [@Aliyundrive_Share_Channel](https://t.me/Aliyundrive_Share_Channel) | 突破限速体验的阿里云盘资源首发阵地，涵盖4K高清原盘、专业生产力软件与大型学习资料。 |
-| **奈飞小铺 官方群** | [@netflix_bus](https://t.me/netflix_bus) | 流媒体合租拼车情报站，提供高性价比的 Netflix、Spotify、Disney+ 发车信息与账号维护。 |
-| **PT 资讯频道** | [@privatetrackernews](https://t.me/privatetrackernews) | Private Tracker 玩家专属雷达，实时播报全球各大 PT 站开放注册、考核指标与免费下载活动。 |
-| **Epic 喜加一资讯** | [@SteamNy](https://t.me/SteamNy) | Steam 与 Epic 游戏商城打折情报专家，绝对不错过任何一次“喜加一”限免白嫖机会。 |
-| **VShareCloud 软件库** | [@VShareCloud](https://t.me/VShareCloud) | 高质量的 Mac 与 Windows 破解软件、便携版工具分享库，致力于纯净无广告的资源下载。 |
+| **老司机发车** | [@drive_car](https://t.me/drive_car) | 各种懂的都懂的司机资源交流。 |
 
 ### 📁 自动化与脚本
 

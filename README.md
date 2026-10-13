@@ -1,6 +1,6 @@
 # 🚀 Telegram 中文精选频道与群组导航 (Telegram Channels)
 
-[![Status](https://img.shields.io/badge/Status-Maintained-brightgreen.svg)]() [![Total Channels](https://img.shields.io/badge/Total_Channels-212-blue.svg)]() [![Last Updated](https://img.shields.io/badge/Updated-2026-10-13-orange.svg)]()
+[![Status](https://img.shields.io/badge/Status-Maintained-brightgreen.svg)]() [![Total Channels](https://img.shields.io/badge/Total_Channels-208-blue.svg)]() [![Last Updated](https://img.shields.io/badge/Updated-2026-10-13-orange.svg)]()
 
 > 本项目致力于整理并持续维护高质量的 **Telegram 中文频道** 与 **公开交流群组**。所有收录数据均经过精心筛选与严格分类，助你快速发现、定位有价值的中文社群资源。欢迎加入交流群：https://t.me/tggzcn 
 
@@ -21,27 +21,15 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>快搜</b></td>
-      <td><a href="https://t.me/kuai">@kuai</a></td>
-      <td>109,911</td>
-      <td>帮你发现有趣群组、频道、视频、音乐。</td>
-    </tr>
-    <tr>
-      <td><b>极搜 JiSou</b></td>
-      <td><a href="https://t.me/jisou">@jisou</a></td>
-      <td>17,789</td>
-      <td>发送词语帮你找到有趣的群与资源。</td>
-    </tr>
-    <tr>
       <td><b>Bot 开发者频道</b></td>
       <td><a href="https://t.me/botsarchive">@botsarchive</a></td>
-      <td>6,123</td>
+      <td>109,908</td>
       <td>全球最新 Telegram Bot 收录推荐。</td>
     </tr>
     <tr>
       <td><b>搜索群(jiso5173)</b></td>
       <td><a href="https://t.me/jiso5173">@jiso5173</a></td>
-      <td>-</td>
+      <td>6,051</td>
       <td>搜索各类资源与群组。</td>
     </tr>
     <tr>
@@ -49,6 +37,12 @@
       <td><a href="https://t.me/CJSY">@CJSY</a></td>
       <td>-</td>
       <td>发送词语即可搜索关联群组与频道资源。</td>
+    </tr>
+    <tr>
+      <td><b>快搜</b></td>
+      <td><a href="https://t.me/kuai">@kuai</a></td>
+      <td>-</td>
+      <td>帮你发现有趣群组、频道、视频、音乐。</td>
     </tr>
     <tr>
       <td><b>神马搜索</b></td>
@@ -74,6 +68,12 @@
       <td>-</td>
       <td>电报老牌综合搜索机器人，发送关键词发现群组与资源。</td>
     </tr>
+    <tr>
+      <td><b>极搜 JiSou</b></td>
+      <td><a href="https://t.me/jisou">@jisou</a></td>
+      <td>-</td>
+      <td>发送词语帮你找到有趣的群与资源。</td>
+    </tr>
   </tbody>
 </table>
 
@@ -92,31 +92,31 @@
     <tr>
       <td><b>Telegram Tips</b></td>
       <td><a href="https://t.me/TelegramTips">@TelegramTips</a></td>
-      <td>10,811,665</td>
+      <td>10,811,366</td>
       <td>官方高阶使用指南，通过精美的图文与视频展示隐藏技巧、手势操作与效率玩法。</td>
     </tr>
     <tr>
       <td><b>Durov 官方频道</b></td>
       <td><a href="https://t.me/durov">@durov</a></td>
-      <td>10,405,895</td>
+      <td>10,406,063</td>
       <td>Telegram 创始人 Pavel Durov 的个人布告栏，独家发布平台重大愿景、用户数据里程碑与隐私政策更新。</td>
     </tr>
     <tr>
-      <td><b>TG 简中汉化组</b></td>
-      <td><a href="https://t.me/zh_CN">@zh_CN</a></td>
-      <td>9,344,872</td>
-      <td>Telegram 生态最知名的简体中文语言包发布站，持续提供精准、优雅的本地化界面支持。</td>
+      <td><b>Telegram News</b></td>
+      <td><a href="https://t.me/telegram">@telegram</a></td>
+      <td>9,344,504</td>
+      <td>Telegram 官方新闻通讯社，实时首发全平台的大版本更新日志与核心特性演示。</td>
     </tr>
     <tr>
       <td><b>TG 官方竞赛</b></td>
       <td><a href="https://t.me/contest">@contest</a></td>
-      <td>298,597</td>
+      <td>298,590</td>
       <td>官方百万美金开发者编程大赛发布频道，涵盖算法优化、UI 重构及 C++ 底层挑战。</td>
     </tr>
     <tr>
       <td><b>TG 设计师前沿</b></td>
       <td><a href="https://t.me/designers">@designers</a></td>
-      <td>75,899</td>
+      <td>75,927</td>
       <td>官方 UI/UX 设计团队阵地，展示极其流畅的交互动画原型与视觉设计规范。</td>
     </tr>
     <tr>
@@ -215,12 +215,6 @@
       <td>-</td>
       <td>Telegram 官方人才库入口，定期发布全球开发、UI 设计及运营岗位的内推与高薪招聘需求。</td>
     </tr>
-    <tr>
-      <td><b>Telegram News</b></td>
-      <td><a href="https://t.me/telegram">@telegram</a></td>
-      <td>-</td>
-      <td>Telegram 官方新闻通讯社，实时首发全平台的大版本更新日志与核心特性演示。</td>
-    </tr>
   </tbody>
 </table>
 
@@ -237,28 +231,28 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>喵体中文 (特色包)</b></td>
-      <td><a href="https://t.me/translation_meowcn">@translation_meowcn</a></td>
+      <td><b>精美 TG 主题分享</b></td>
+      <td><a href="https://t.me/beautifultgtheme">@beautifultgtheme</a></td>
       <td>12,973</td>
-      <td>广受欢迎的第三方个性化语言包，将系统生硬的提示语替换为极具二次元风格的“喵”星人语气。</td>
+      <td>UI 设计师与美化爱好者的聚集地，每日分享高品质的暗黑模式、极简风及二次元聊天背景主题。</td>
+    </tr>
+    <tr>
+      <td><b>TG 新手帮助中心</b></td>
+      <td><a href="https://t.me/newbie_chat">@newbie_chat</a></td>
+      <td>9,541</td>
+      <td>友好的 Telegram 入门指导站，解答双向联系人限制、账号隐私设置与防骗防盗号技巧。</td>
     </tr>
     <tr>
       <td><b>TG iOS 测试探讨</b></td>
       <td><a href="https://t.me/TelegramiOStalk">@TelegramiOStalk</a></td>
-      <td>9,511</td>
+      <td>3,288</td>
       <td>iOS 端 TestFlight 测试版追更群，第一时间发掘并讨论新版动画、隐藏菜单与未发布的特性。</td>
     </tr>
     <tr>
       <td><b>TG 简体中文翻译组</b></td>
       <td><a href="https://t.me/translation_zh_hans">@translation_zh_hans</a></td>
-      <td>5,591</td>
+      <td>2,415</td>
       <td>Telegram 官方简体中文语言包的维护枢纽，跟进最新功能翻译与本地化词条纠错。</td>
-    </tr>
-    <tr>
-      <td><b>TG 新手帮助中心</b></td>
-      <td><a href="https://t.me/newbie_chat">@newbie_chat</a></td>
-      <td>3,286</td>
-      <td>友好的 Telegram 入门指导站，解答双向联系人限制、账号隐私设置与防骗防盗号技巧。</td>
     </tr>
   </tbody>
 </table>
@@ -275,12 +269,6 @@
     </tr>
   </thead>
   <tbody>
-    <tr>
-      <td><b>方丈机器人</b></td>
-      <td><a href="https://t.me/fangzhang_bot">@fangzhang_bot</a></td>
-      <td>432</td>
-      <td>方丈群组管理机器人，高效防滥用。</td>
-    </tr>
     <tr>
       <td><b>验证机器人</b></td>
       <td><a href="https://t.me/P4CaptchaBot">@P4CaptchaBot</a></td>
@@ -353,6 +341,12 @@
       <td>-</td>
       <td>超多功能的群管机器人。</td>
     </tr>
+    <tr>
+      <td><b>方丈机器人</b></td>
+      <td><a href="https://t.me/fangzhang_bot">@fangzhang_bot</a></td>
+      <td>-</td>
+      <td>方丈群组管理机器人，高效防滥用。</td>
+    </tr>
   </tbody>
 </table>
 
@@ -416,8 +410,14 @@
     <tr>
       <td><b>华尔街日报 RSS</b></td>
       <td><a href="https://t.me/wsj_rss">@wsj_rss</a></td>
-      <td>4,712</td>
+      <td>17,789</td>
       <td>通过 RSS 自动化抓取并推送《华尔街日报》原版高价值财经新闻与深度评论。</td>
+    </tr>
+    <tr>
+      <td><b>一天世界 播客</b></td>
+      <td><a href="https://t.me/yitianshijie">@yitianshijie</a></td>
+      <td>6,123</td>
+      <td>IPN 播客网络旗下的经典节目，在技术、设计、当代艺术与社会的复杂交汇处展开思想碰撞。</td>
     </tr>
   </tbody>
 </table>
@@ -437,13 +437,13 @@
     <tr>
       <td><b>抽奖活动导航</b></td>
       <td><a href="https://t.me/Lottery_home">@Lottery_home</a></td>
-      <td>4,065</td>
+      <td>41,146</td>
       <td>福利信息公告牌，汇聚全网优质白嫖资源与活动线报。</td>
     </tr>
     <tr>
       <td><b>Telegram 抽奖</b></td>
       <td><a href="https://t.me/LotteryIndex">@LotteryIndex</a></td>
-      <td>-</td>
+      <td>4,065</td>
       <td>全网热门抽奖福利大本营，实时聚合各大频道的白嫖机会。</td>
     </tr>
   </tbody>
@@ -462,6 +462,12 @@
   </thead>
   <tbody>
     <tr>
+      <td><b>ZBook 精品电子书</b></td>
+      <td><a href="https://t.me/ziyuanfeng59">@ziyuanfeng59</a></td>
+      <td>97,447</td>
+      <td>排版精美的中文数字书库，专注于提供精校版的 EPUB 与 MOBI 格式文学名著与畅销书。</td>
+    </tr>
+    <tr>
       <td><b>豆瓣精选阅读</b></td>
       <td><a href="https://t.me/douban_read">@douban_read</a></td>
       <td>35,699</td>
@@ -470,19 +476,13 @@
     <tr>
       <td><b>云上报刊亭</b></td>
       <td><a href="https://t.me/magazinesclub">@magazinesclub</a></td>
-      <td>9,540</td>
+      <td>8,243</td>
       <td>数字媒体爱好者的天堂，每日无偿分享《经济学人》《大西洋月刊》等全球主流外文原版杂志。</td>
-    </tr>
-    <tr>
-      <td><b>Kindle 特价书雷达</b></td>
-      <td><a href="https://t.me/KindleBookDeals">@KindleBookDeals</a></td>
-      <td>5,900</td>
-      <td>自动化监控亚马逊 Kindle 商店的每日特价、限免图书与深度降价情报。</td>
     </tr>
     <tr>
       <td><b>编程随想推荐书目</b></td>
       <td><a href="https://t.me/programthinkbooks">@programthinkbooks</a></td>
-      <td>2,412</td>
+      <td>5,900</td>
       <td>系统化整理了互联网传奇极客“编程随想”历年推荐的社科、政治、计算机与哲学硬核书籍。</td>
     </tr>
   </tbody>
@@ -501,82 +501,82 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>欧易 OKX 官方中文群</b></td>
-      <td><a href="https://t.me/OKXGroup_CN">@OKXGroup_CN</a></td>
-      <td>273,563</td>
-      <td>OKX 官方认证中文讨论阵地，覆盖平台动态、产品更新与安全指南。</td>
-    </tr>
-    <tr>
-      <td><b>Binance 币安中文</b></td>
-      <td><a href="https://t.me/binance_cn">@binance_cn</a></td>
-      <td>257,370</td>
-      <td>全球最大加密货币交易所中文社区。</td>
-    </tr>
-    <tr>
-      <td><b>吴说区块链</b></td>
-      <td><a href="https://t.me/wublock">@wublock</a></td>
-      <td>36,717</td>
-      <td>行业知名独立深度媒体，专注于合规监管、矿业动向与内幕独家报道。</td>
-    </tr>
-    <tr>
-      <td><b>撸空投 Web3 财务自由</b></td>
-      <td><a href="https://t.me/tglukongtou">@tglukongtou</a></td>
-      <td>33,721</td>
-      <td>专注早期优质项目交互、测试网空投攻略与零撸福利精选。</td>
-    </tr>
-    <tr>
-      <td><b>7×24 投资快讯</b></td>
-      <td><a href="https://t.me/golden_wind_news">@golden_wind_news</a></td>
-      <td>15,572</td>
-      <td>全时段全球交易快讯，涵盖外汇、商品、美股期货与突发突发要闻。</td>
-    </tr>
-    <tr>
       <td><b>币安官方中文群</b></td>
       <td><a href="https://t.me/BinanceChinese">@BinanceChinese</a></td>
-      <td>15,565</td>
+      <td>273,600</td>
       <td>全球头部交易所 Binance 官方中文社群，权威公告与活动一手掌握。</td>
     </tr>
     <tr>
-      <td><b>美股频道 Stock USA</b></td>
-      <td><a href="https://t.me/mgstock">@mgstock</a></td>
-      <td>11,373</td>
-      <td>专注纳斯达克与标普 500 成分股基本面研判，追踪财报预期与机构评级。</td>
-    </tr>
-    <tr>
-      <td><b>Business & Finance News USA</b></td>
-      <td><a href="https://t.me/news_finance">@news_finance</a></td>
-      <td>5,377</td>
-      <td>精选全美商业经济头条，直击华尔街动态、科技巨头财报与政策动向。</td>
-    </tr>
-    <tr>
-      <td><b>财经慢报</b></td>
-      <td><a href="https://t.me/Financial_Express">@Financial_Express</a></td>
-      <td>4,814</td>
-      <td>沉淀深度思考的慢阅读财经天地，聚焦经济周期与长期价值沉淀。</td>
-    </tr>
-    <tr>
-      <td><b>币圈动态讨论群</b></td>
-      <td><a href="https://t.me/biquan321">@biquan321</a></td>
-      <td>3,598</td>
-      <td>散户抱团与日常看盘社区，分享行情走势、热点山寨与链上土狗。</td>
+      <td><b>欧易 OKX 官方中文群</b></td>
+      <td><a href="https://t.me/OKXGroup_CN">@OKXGroup_CN</a></td>
+      <td>257,336</td>
+      <td>OKX 官方认证中文讨论阵地，覆盖平台动态、产品更新与安全指南。</td>
     </tr>
     <tr>
       <td><b>Telo News 简体中文</b></td>
       <td><a href="https://t.me/telonews_cn">@telonews_cn</a></td>
-      <td>3,274</td>
+      <td>81,883</td>
       <td>多视角观察加密金融生态，精选海外优质观点、投研报告与深度评论。</td>
     </tr>
     <tr>
-      <td><b>Web3 综合汇总</b></td>
-      <td><a href="https://t.me/newsforbitcoin">@newsforbitcoin</a></td>
-      <td>-</td>
-      <td>聚合比特币生态、NFT 流动性以及热门空投项目进展的一站式资讯频道。</td>
+      <td><b>财经慢报</b></td>
+      <td><a href="https://t.me/Financial_Express">@Financial_Express</a></td>
+      <td>36,717</td>
+      <td>沉淀深度思考的慢阅读财经天地，聚焦经济周期与长期价值沉淀。</td>
+    </tr>
+    <tr>
+      <td><b>Binance 币安中文</b></td>
+      <td><a href="https://t.me/binance_cn">@binance_cn</a></td>
+      <td>33,721</td>
+      <td>全球最大加密货币交易所中文社区。</td>
+    </tr>
+    <tr>
+      <td><b>Business & Finance News USA</b></td>
+      <td><a href="https://t.me/news_finance">@news_finance</a></td>
+      <td>15,572</td>
+      <td>精选全美商业经济头条，直击华尔街动态、科技巨头财报与政策动向。</td>
+    </tr>
+    <tr>
+      <td><b>吴说区块链</b></td>
+      <td><a href="https://t.me/wublock">@wublock</a></td>
+      <td>15,565</td>
+      <td>行业知名独立深度媒体，专注于合规监管、矿业动向与内幕独家报道。</td>
     </tr>
     <tr>
       <td><b>Crypto News & Tech Updates</b></td>
       <td><a href="https://t.me/Crypto_News_and_Tech_Updates">@Crypto_News_and_Tech_Updates</a></td>
-      <td>-</td>
+      <td>12,323</td>
       <td>面向全球投资者的英文加密通识教育与硬核底层技术趋势追踪。</td>
+    </tr>
+    <tr>
+      <td><b>币圈动态讨论群</b></td>
+      <td><a href="https://t.me/biquan321">@biquan321</a></td>
+      <td>11,373</td>
+      <td>散户抱团与日常看盘社区，分享行情走势、热点山寨与链上土狗。</td>
+    </tr>
+    <tr>
+      <td><b>美股频道 Stock USA</b></td>
+      <td><a href="https://t.me/mgstock">@mgstock</a></td>
+      <td>5,379</td>
+      <td>专注纳斯达克与标普 500 成分股基本面研判，追踪财报预期与机构评级。</td>
+    </tr>
+    <tr>
+      <td><b>7×24 投资快讯</b></td>
+      <td><a href="https://t.me/golden_wind_news">@golden_wind_news</a></td>
+      <td>4,814</td>
+      <td>全时段全球交易快讯，涵盖外汇、商品、美股期货与突发突发要闻。</td>
+    </tr>
+    <tr>
+      <td><b>Web3 综合汇总</b></td>
+      <td><a href="https://t.me/newsforbitcoin">@newsforbitcoin</a></td>
+      <td>3,598</td>
+      <td>聚合比特币生态、NFT 流动性以及热门空投项目进展的一站式资讯频道。</td>
+    </tr>
+    <tr>
+      <td><b>撸空投 Web3 财务自由</b></td>
+      <td><a href="https://t.me/tglukongtou">@tglukongtou</a></td>
+      <td>3,274</td>
+      <td>专注早期优质项目交互、测试网空投攻略与零撸福利精选。</td>
     </tr>
   </tbody>
 </table>
@@ -594,34 +594,28 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>C++ 中文交流</b></td>
-      <td><a href="https://t.me/cpluspluszh">@cpluspluszh</a></td>
-      <td>109,911</td>
-      <td>硬核系统级编程讨论组，主攻高性能计算、游戏引擎底层及音视频编解码技术。</td>
-    </tr>
-    <tr>
-      <td><b>Hexo/Hugo 博客圈</b></td>
-      <td><a href="https://t.me/hexozh">@hexozh</a></td>
-      <td>22,382</td>
-      <td>静态博客与独立站站长聚集地，交流精美主题开发、自动化部署与持续集成（CI/CD）玩法。</td>
-    </tr>
-    <tr>
-      <td><b>Kali 黑客安全交流</b></td>
-      <td><a href="https://t.me/hackerzh">@hackerzh</a></td>
-      <td>7,582</td>
-      <td>网络安全与渗透测试爱好者的白帽子社区，探讨 Kali Linux 工具链与漏洞复现。</td>
-    </tr>
-    <tr>
       <td><b>Python 中文交流</b></td>
       <td><a href="https://t.me/pythonzh">@pythonzh</a></td>
-      <td>5,264</td>
+      <td>22,382</td>
       <td>华语区活跃的 Python 开发者社群，涵盖爬虫抓取、数据分析与 Django/Flask 后端框架开发。</td>
+    </tr>
+    <tr>
+      <td><b>C++ 中文交流</b></td>
+      <td><a href="https://t.me/cpluspluszh">@cpluspluszh</a></td>
+      <td>7,582</td>
+      <td>硬核系统级编程讨论组，主攻高性能计算、游戏引擎底层及音视频编解码技术。</td>
     </tr>
     <tr>
       <td><b>Golang 中文社区</b></td>
       <td><a href="https://t.me/GolangCN">@GolangCN</a></td>
-      <td>4,452</td>
+      <td>5,264</td>
       <td>Go 语言高并发实战阵地，汇聚微服务架构、云原生（Docker/K8s）及底层源码深度剖析。</td>
+    </tr>
+    <tr>
+      <td><b>Kali 黑客安全交流</b></td>
+      <td><a href="https://t.me/hackerzh">@hackerzh</a></td>
+      <td>4,452</td>
+      <td>网络安全与渗透测试爱好者的白帽子社区，探讨 Kali Linux 工具链与漏洞复现。</td>
     </tr>
   </tbody>
 </table>
@@ -641,32 +635,32 @@
     <tr>
       <td><b>BotsArchive</b></td>
       <td><a href="https://t.me/BotsArchive">@BotsArchive</a></td>
-      <td>50,167</td>
+      <td>109,908</td>
       <td>收录 Telegram 实用机器人与开发工具汇总。</td>
     </tr>
     <tr>
       <td><b>VPS信号旗播报</b></td>
       <td><a href="https://t.me/vps_xhq">@vps_xhq</a></td>
-      <td>31,188</td>
+      <td>50,167</td>
       <td>精选 VPS 促销、服务器动态与机房线路评测。</td>
-    </tr>
-    <tr>
-      <td><b>BennyThink's Blog</b></td>
-      <td><a href="https://t.me/mikuri520">@mikuri520</a></td>
-      <td>22,885</td>
-      <td>开发者的开源工具、技术折腾与生活随笔。</td>
     </tr>
     <tr>
       <td><b>互联网从业者充电站</b></td>
       <td><a href="https://t.me/https1024">@https1024</a></td>
-      <td>17,593</td>
+      <td>31,188</td>
       <td>专注于前后端、系统架构、云原生技术分享。</td>
     </tr>
     <tr>
       <td><b>python-telegram-bot</b></td>
       <td><a href="https://t.me/pythontelegrambotchannel">@pythontelegrambotchannel</a></td>
-      <td>12,107</td>
+      <td>17,593</td>
       <td>官方库更新动态、示例与最佳实践。</td>
+    </tr>
+    <tr>
+      <td><b>BennyThink's Blog</b></td>
+      <td><a href="https://t.me/mikuri520">@mikuri520</a></td>
+      <td>12,107</td>
+      <td>开发者的开源工具、技术折腾与生活随笔。</td>
     </tr>
   </tbody>
 </table>
@@ -686,26 +680,26 @@
     <tr>
       <td><b>ODS.ai 数据科学</b></td>
       <td><a href="https://t.me/opendatascience">@opendatascience</a></td>
-      <td>59,225</td>
+      <td>38,364</td>
       <td>开放数据科学（ODS）社区频道，聚焦深度学习模型架构、NLP 自然语言处理及 AI 行业应用落地。</td>
     </tr>
     <tr>
       <td><b>Front End World</b></td>
       <td><a href="https://t.me/front_end_first">@front_end_first</a></td>
-      <td>38,364</td>
-      <td>大前端技术风向标，深入解析 React/Vue 生态、CSS 现代布局原理及浏览器 V8 引擎底层。</td>
-    </tr>
-    <tr>
-      <td><b>Arch Linux 中文</b></td>
-      <td><a href="https://t.me/archlinuxcn">@archlinuxcn</a></td>
       <td>25,864</td>
-      <td>Arch Linux 中文社区官方通知频道，跟进滚动更新包（AUR）状态、系统底层变更与打包指南。</td>
+      <td>大前端技术风向标，深入解析 React/Vue 生态、CSS 现代布局原理及浏览器 V8 引擎底层。</td>
     </tr>
     <tr>
       <td><b>Coding News</b></td>
       <td><a href="https://t.me/CodingNews">@CodingNews</a></td>
-      <td>11,195</td>
+      <td>22,885</td>
       <td>聚合 Hacker News 与 GitHub 趋势的前沿开发者资讯，追踪编程语言演进与 Web 开发新范式。</td>
+    </tr>
+    <tr>
+      <td><b>Arch Linux 中文</b></td>
+      <td><a href="https://t.me/archlinuxcn">@archlinuxcn</a></td>
+      <td>11,195</td>
+      <td>Arch Linux 中文社区官方通知频道，跟进滚动更新包（AUR）状态、系统底层变更与打包指南。</td>
     </tr>
   </tbody>
 </table>
@@ -723,55 +717,40 @@
   </thead>
   <tbody>
     <tr>
+      <td><b>Appinn 小众软件</b></td>
+      <td><a href="https://t.me/appinnfeed">@appinnfeed</a></td>
+      <td>34,019</td>
+      <td>分享免费、小巧、实用的软件。</td>
+    </tr>
+    <tr>
       <td><b>TestFlight 资讯中心</b></td>
       <td><a href="https://t.me/testflights">@testflights</a></td>
-      <td>34,015</td>
+      <td>10,821</td>
       <td>iOS 用户的白嫖利器，第一时间推送热门付费应用的 Beta 测试版（TestFlight）上车链接。</td>
     </tr>
     <tr>
-      <td><b>科技新报 TechNews</b></td>
-      <td><a href="https://t.me/technews_tw">@technews_tw</a></td>
-      <td>10,821</td>
-      <td>半导体、数码与前沿科技趋势。</td>
+      <td><b>All About RSS</b></td>
+      <td><a href="https://t.me/aboutrss">@aboutrss</a></td>
+      <td>9,512</td>
+      <td>RSS 深度玩家大本营，分享各类网站的源地址抓取方案、阅读器评测与自动化信息流构建。</td>
     </tr>
     <tr>
       <td><b>程序员百例灵感</b></td>
       <td><a href="https://t.me/useless_project_ideas">@useless_project_ideas</a></td>
-      <td>6,523</td>
+      <td>6,521</td>
       <td>脑洞大开的代码集市，分享 GitHub 上那些看似“无用”但极具技术趣味和创意的开源项目。</td>
     </tr>
     <tr>
       <td><b>小米玩机交流群</b></td>
       <td><a href="https://t.me/xiaomi6666">@xiaomi6666</a></td>
-      <td>5,459</td>
+      <td>5,591</td>
       <td>MIUI/HyperOS 发烧友聚集地，探讨解锁 Bootloader、线刷救砖与 EU 版固件体验。</td>
     </tr>
-  </tbody>
-</table>
-
-### 📁 跨境与出海金融
-
-<table>
-  <thead>
     <tr>
-      <th width="25%">名称</th>
-      <th width="25%">链接</th>
-      <th width="10%">人数</th>
-      <th width="40%">简介</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>数字资产出入金安全</b></td>
-      <td><a href="https://t.me/joinchat/AYS860xmKnoyZWRk">@joinchat_AYS860xmKnoyZWRk</a></td>
-      <td>14,965</td>
-      <td>深度交流 C2C 防冻卡技巧、外贸结汇合规通道与法币出入金实操。</td>
-    </tr>
-    <tr>
-      <td><b>跨境支付知多少</b></td>
-      <td><a href="https://t.me/+Vfd5p3CJEcPwafnb">@Vfd5p3CJEcPwafnb</a></td>
-      <td>11,760</td>
-      <td>聚焦海外虚拟卡、电汇通道、收单结算与跨境出海支付合规架构。</td>
+      <td><b>科技新报 TechNews</b></td>
+      <td><a href="https://t.me/technews_tw">@technews_tw</a></td>
+      <td>5,459</td>
+      <td>半导体、数码与前沿科技趋势。</td>
     </tr>
   </tbody>
 </table>
@@ -828,28 +807,28 @@
   </thead>
   <tbody>
     <tr>
+      <td><b>iOS 捷径社区</b></td>
+      <td><a href="https://t.me/ShortcutsCN">@ShortcutsCN</a></td>
+      <td>89,017</td>
+      <td>苹果快捷指令（Shortcuts）爱好者的创作工坊，分享从系统签到到万物互联的自动化脚本。</td>
+    </tr>
+    <tr>
       <td><b>App 限免精选</b></td>
       <td><a href="https://t.me/appfans">@appfans</a></td>
-      <td>89,017</td>
+      <td>14,965</td>
       <td>数码玩家的省钱利器，每日自动化推送 App Store 高质量限免应用与 TestFlight 内测名额。</td>
     </tr>
     <tr>
-      <td><b>Vivaldi 浏览器</b></td>
-      <td><a href="https://t.me/vivaldibrowser">@vivaldibrowser</a></td>
-      <td>81,883</td>
-      <td>以极高定制性闻名的极客浏览器官方频道，分享高效标签页管理与键盘流操作技巧。</td>
+      <td><b>GitHub Trending</b></td>
+      <td><a href="https://t.me/githubtrending">@githubtrending</a></td>
+      <td>11,762</td>
+      <td>全球开发者风向标，实时抓取并推送 GitHub 热榜上星标飙升的优质开源项目。</td>
     </tr>
     <tr>
-      <td><b>Typecho Dev</b></td>
-      <td><a href="https://t.me/typechodev">@typechodev</a></td>
-      <td>12,323</td>
-      <td>轻量级开源博客程序 Typecho 的开发者动态，分享精美极简主题与各类底层插件魔改。</td>
-    </tr>
-    <tr>
-      <td><b>iOS 捷径社区</b></td>
-      <td><a href="https://t.me/ShortcutsCN">@ShortcutsCN</a></td>
+      <td><b>Snipaste 官方</b></td>
+      <td><a href="https://t.me/snipaste">@snipaste</a></td>
       <td>2,425</td>
-      <td>苹果快捷指令（Shortcuts）爱好者的创作工坊，分享从系统签到到万物互联的自动化脚本。</td>
+      <td>跨平台截图与贴图神器的官方频道，同步发布最新 Beta 内测版本与硬核功能更新日志。</td>
     </tr>
   </tbody>
 </table>
@@ -867,16 +846,16 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>TG 账号 ID 查询</b></td>
-      <td><a href="https://t.me/getidsbot">@getidsbot</a></td>
-      <td>837</td>
-      <td>开发者与高阶用户必备，精确查询任意用户、群组或频道的专属 Telegram ID (数字 ID) 及注册时间线索。</td>
-    </tr>
-    <tr>
       <td><b>GalLeague 资源索引</b></td>
       <td><a href="https://t.me/GalLeaguebot">@GalLeaguebot</a></td>
       <td>-</td>
       <td>垂直领域的数字资源索引导航，提供特定的文件检索功能与玩家社区连接入口。</td>
+    </tr>
+    <tr>
+      <td><b>TG 账号 ID 查询</b></td>
+      <td><a href="https://t.me/getidsbot">@getidsbot</a></td>
+      <td>-</td>
+      <td>开发者与高阶用户必备，精确查询任意用户、群组或频道的专属 Telegram ID (数字 ID) 及注册时间线索。</td>
     </tr>
   </tbody>
 </table>
@@ -894,34 +873,34 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>极速扫码器</b></td>
-      <td><a href="https://t.me/qrcrbot">@qrcrbot</a></td>
-      <td>26,549</td>
-      <td>轻量级二维码读取器，去除繁杂功能，专注提供最快的读码与结果返回体验。</td>
+      <td><b>TG 官方动态贴纸</b></td>
+      <td><a href="https://t.me/AnimatedStickers">@AnimatedStickers</a></td>
+      <td>26,548</td>
+      <td>Telegram 官方推荐的高帧率（60fps）动态贴纸库，让你的日常聊天极具表现力。</td>
     </tr>
     <tr>
-      <td><b>便携二维码扫描</b></td>
-      <td><a href="https://t.me/QRCodeRoBot">@QRCodeRoBot</a></td>
-      <td>8,290</td>
-      <td>极简二维码扫码仪，发送包含二维码的图片即可提取并返回隐藏文本或直达链接。</td>
-    </tr>
-    <tr>
-      <td><b>条形码/二维码双修</b></td>
-      <td><a href="https://t.me/BarQRCodeBot">@BarQRCodeBot</a></td>
-      <td>235</td>
-      <td>工业级条码转换器，除二维码外，还完美支持多种标准格式的商品条形码生成。</td>
-    </tr>
-    <tr>
-      <td><b>GIF 鬼畜倒放</b></td>
-      <td><a href="https://t.me/GifReverseBot">@GifReverseBot</a></td>
-      <td>71</td>
-      <td>鬼畜动图制作器，一键将任意 GIF 动画的时间轴进行倒放处理并输出新图。</td>
+      <td><b>ACG 二次元贴纸聚合</b></td>
+      <td><a href="https://t.me/ACGStickers">@ACGStickers</a></td>
+      <td>8,291</td>
+      <td>专为老二次元打造的宝藏频道，收录海量精美的新番、Galgame 与日系画师表情包。</td>
     </tr>
     <tr>
       <td><b>个性二维码生成</b></td>
       <td><a href="https://t.me/MakeQrBot">@MakeQrBot</a></td>
       <td>-</td>
       <td>名片与链接转换工具，轻松将冗长的网址或个人信息转化为标准二维码图片。</td>
+    </tr>
+    <tr>
+      <td><b>极速扫码器</b></td>
+      <td><a href="https://t.me/qrcrbot">@qrcrbot</a></td>
+      <td>-</td>
+      <td>轻量级二维码读取器，去除繁杂功能，专注提供最快的读码与结果返回体验。</td>
+    </tr>
+    <tr>
+      <td><b>便携二维码扫描</b></td>
+      <td><a href="https://t.me/QRCodeRoBot">@QRCodeRoBot</a></td>
+      <td>-</td>
+      <td>极简二维码扫码仪，发送包含二维码的图片即可提取并返回隐藏文本或直达链接。</td>
     </tr>
     <tr>
       <td><b>贴纸特征检索</b></td>
@@ -948,16 +927,16 @@
       <td>专业的二维码处理中枢，支持复杂文本与链接的二维码双向编码生成与光速解码。</td>
     </tr>
     <tr>
+      <td><b>GIF 鬼畜倒放</b></td>
+      <td><a href="https://t.me/GifReverseBot">@GifReverseBot</a></td>
+      <td>-</td>
+      <td>鬼畜动图制作器，一键将任意 GIF 动画的时间轴进行倒放处理并输出新图。</td>
+    </tr>
+    <tr>
       <td><b>全能贴纸下载器</b></td>
       <td><a href="https://t.me/Stickerdownloadbot">@Stickerdownloadbot</a></td>
       <td>-</td>
       <td>支持将聊天中的贴纸无损保存为 JPG、PNG、WEBP 格式或整体打包为 ZIP 压缩包。</td>
-    </tr>
-    <tr>
-      <td><b>TG 官方动态贴纸</b></td>
-      <td><a href="https://t.me/AnimatedStickers">@AnimatedStickers</a></td>
-      <td>-</td>
-      <td>Telegram 官方推荐的高帧率（60fps）动态贴纸库，让你的日常聊天极具表现力。</td>
     </tr>
     <tr>
       <td><b>贴纸搜索引擎</b></td>
@@ -976,12 +955,6 @@
       <td><a href="https://t.me/GIFDownloader_bot">@GIFDownloader_bot</a></td>
       <td>-</td>
       <td>动态图提取工具，支持将 GIF 动图逐帧拆解并转换为高清静态图片。</td>
-    </tr>
-    <tr>
-      <td><b>ACG 二次元贴纸聚合</b></td>
-      <td><a href="https://t.me/ACGStickers">@ACGStickers</a></td>
-      <td>-</td>
-      <td>专为老二次元打造的宝藏频道，收录海量精美的新番、Galgame 与日系画师表情包。</td>
     </tr>
     <tr>
       <td><b>贴纸报时器</b></td>
@@ -1013,6 +986,12 @@
       <td>-</td>
       <td>智能光学字符识别（OCR）工具，极速提取截图或照片中的复杂文本段落。</td>
     </tr>
+    <tr>
+      <td><b>条形码/二维码双修</b></td>
+      <td><a href="https://t.me/BarQRCodeBot">@BarQRCodeBot</a></td>
+      <td>-</td>
+      <td>工业级条码转换器，除二维码外，还完美支持多种标准格式的商品条形码生成。</td>
+    </tr>
   </tbody>
 </table>
 
@@ -1029,16 +1008,22 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>Quantumult X 资讯</b></td>
-      <td><a href="https://t.me/QuanXNews">@QuanXNews</a></td>
+      <td><b>毒药机场测速</b></td>
+      <td><a href="https://t.me/DuyaoSS">@DuyaoSS</a></td>
       <td>67,550</td>
-      <td>圈X（Quantumult X）高级玩家聚集地，涵盖重写（Rewrite）规则、去广告脚本与抓包调试技巧。</td>
+      <td>全网最知名的科学上网节点评测频道，定期发布各大机场的真实晚高峰测速图与流媒体解锁报告。</td>
     </tr>
     <tr>
-      <td><b>Surge News</b></td>
-      <td><a href="https://t.me/surgenews">@surgenews</a></td>
+      <td><b>Shadowrocket News</b></td>
+      <td><a href="https://t.me/ShadowrocketNews">@ShadowrocketNews</a></td>
+      <td>46,961</td>
+      <td>小火箭（Shadowrocket）用户阵地，推送应用更新日志、分流规则配置与节点订阅转换教程。</td>
+    </tr>
+    <tr>
+      <td><b>Quantumult X 资讯</b></td>
+      <td><a href="https://t.me/QuanXNews">@QuanXNews</a></td>
       <td>40,983</td>
-      <td>苹果生态顶级网络调试工具 Surge 的非官方资讯站，跟进 TestFlight 更新与实用模块（Module）分享。</td>
+      <td>圈X（Quantumult X）高级玩家聚集地，涵盖重写（Rewrite）规则、去广告脚本与抓包调试技巧。</td>
     </tr>
     <tr>
       <td><b>ACL4SSR 规则</b></td>
@@ -1047,22 +1032,16 @@
       <td>维护最为活跃的去广告与代理分流规则库，适配 Clash、Surge 及 Shadowrocket 等主流客户端。</td>
     </tr>
     <tr>
-      <td><b>Shadowrocket News</b></td>
-      <td><a href="https://t.me/ShadowrocketNews">@ShadowrocketNews</a></td>
-      <td>15,757</td>
-      <td>小火箭（Shadowrocket）用户阵地，推送应用更新日志、分流规则配置与节点订阅转换教程。</td>
-    </tr>
-    <tr>
-      <td><b>毒药机场测速</b></td>
-      <td><a href="https://t.me/DuyaoSS">@DuyaoSS</a></td>
-      <td>-</td>
-      <td>全网最知名的科学上网节点评测频道，定期发布各大机场的真实晚高峰测速图与流媒体解锁报告。</td>
-    </tr>
-    <tr>
       <td><b>Clash for Windows</b></td>
       <td><a href="https://t.me/fndroid_news">@fndroid_news</a></td>
-      <td>-</td>
+      <td>15,756</td>
       <td>知名 PC 端代理工具 CFW 开发者频道，发布版本迭代、内核更新与突破网络封锁的最新特性。</td>
+    </tr>
+    <tr>
+      <td><b>Surge News</b></td>
+      <td><a href="https://t.me/surgenews">@surgenews</a></td>
+      <td>5,382</td>
+      <td>苹果生态顶级网络调试工具 Surge 的非官方资讯站，跟进 TestFlight 更新与实用模块（Module）分享。</td>
     </tr>
   </tbody>
 </table>
@@ -1080,46 +1059,34 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>群晖 NAS 极客</b></td>
-      <td><a href="https://t.me/nasfan">@nasfan</a></td>
-      <td>46,959</td>
-      <td>家用与企业级网络附加存储交流，涵盖黑群晖引导编译、硬盘 RAID 阵列与内网影音库搭建。</td>
-    </tr>
-    <tr>
       <td><b>软路由极客交流</b></td>
       <td><a href="https://t.me/ruanlu">@ruanlu</a></td>
-      <td>17,764</td>
+      <td>17,763</td>
       <td>家庭网络中枢建设指南，深耕 OpenWrt 旁路由配置、内外网穿透及科学分流进阶玩法。</td>
     </tr>
     <tr>
-      <td><b>微软 Azure 交流</b></td>
-      <td><a href="https://t.me/Balancer211">@Balancer211</a></td>
+      <td><b>群晖 NAS 极客</b></td>
+      <td><a href="https://t.me/nasfan">@nasfan</a></td>
       <td>11,321</td>
-      <td>微软云服务架构师阵地，探讨全球数据中心节点测速、学生机羊毛及企业级灾备方案。</td>
-    </tr>
-    <tr>
-      <td><b>Cloudflare 节点优化</b></td>
-      <td><a href="https://t.me/CN_Cloudflare">@CN_Cloudflare</a></td>
-      <td>5,383</td>
-      <td>全球最大 CDN 服务商的中文玩家群，研究边缘计算、防 DDoS 策略及优选 IP 脚本实战。</td>
-    </tr>
-    <tr>
-      <td><b>OpenWrt 讨论组</b></td>
-      <td><a href="https://t.me/OpenWRT_Routers">@OpenWRT_Routers</a></td>
-      <td>3,448</td>
-      <td>开源路由器系统技术池，探讨多线负载均衡、防火墙规则与自编译精简固件。</td>
+      <td>家用与企业级网络附加存储交流，涵盖黑群晖引导编译、硬盘 RAID 阵列与内网影音库搭建。</td>
     </tr>
     <tr>
       <td><b>主机玩家交流</b></td>
       <td><a href="https://t.me/guboorg">@guboorg</a></td>
-      <td>3,083</td>
+      <td>3,448</td>
       <td>全球服务器资讯聚合，探讨各路 IDC 服务商的机器性能、路由追踪（TraceRoute）与建站实战。</td>
     </tr>
     <tr>
-      <td><b>谷歌 GCP 交流</b></td>
-      <td><a href="https://t.me/Balancer166">@Balancer166</a></td>
+      <td><b>OpenWrt 讨论组</b></td>
+      <td><a href="https://t.me/OpenWRT_Routers">@OpenWRT_Routers</a></td>
+      <td>3,083</td>
+      <td>开源路由器系统技术池，探讨多线负载均衡、防火墙规则与自编译精简固件。</td>
+    </tr>
+    <tr>
+      <td><b>Cloudflare 节点优化</b></td>
+      <td><a href="https://t.me/CN_Cloudflare">@CN_Cloudflare</a></td>
       <td>3,039</td>
-      <td>Google Cloud 深度用户群，分享线路优化、BBR 拥塞控制开启及免费层额度最大化利用。</td>
+      <td>全球最大 CDN 服务商的中文玩家群，研究边缘计算、防 DDoS 策略及优选 IP 脚本实战。</td>
     </tr>
   </tbody>
 </table>
@@ -1137,82 +1104,76 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>新闻实验室</b></td>
-      <td><a href="https://t.me/newslab2020">@newslab2020</a></td>
-      <td>165,140</td>
-      <td>资深媒体人方可成主理，深度拆解媒介素养，探讨新闻背后的传播学逻辑与信息茧房效应。</td>
-    </tr>
-    <tr>
-      <td><b>Linux 中国</b></td>
-      <td><a href="https://t.me/linuxdotcn">@linuxdotcn</a></td>
-      <td>84,506</td>
-      <td>国内最大开源社区之一的官方推送，涵盖 Linux 内核演进、各类发行版评测与系统运维干货。</td>
-    </tr>
-    <tr>
       <td><b>风向旗参考快讯</b></td>
       <td><a href="https://t.me/xhqcankao">@xhqcankao</a></td>
-      <td>58,383</td>
+      <td>165,151</td>
       <td>风闻奏事，遍查访知。全球即时资讯速递。</td>
-    </tr>
-    <tr>
-      <td><b>虎嗅网</b></td>
-      <td><a href="https://t.me/huxiu">@huxiu</a></td>
-      <td>51,159</td>
-      <td>聚焦创新与科技商业资讯。</td>
-    </tr>
-    <tr>
-      <td><b>端传媒 Initium</b></td>
-      <td><a href="https://t.me/initiumnews">@initiumnews</a></td>
-      <td>47,630</td>
-      <td>立足香港，放眼全球的深度新闻。</td>
-    </tr>
-    <tr>
-      <td><b>BBC News 中文</b></td>
-      <td><a href="https://t.me/BBC_Chinese">@BBC_Chinese</a></td>
-      <td>45,938</td>
-      <td>BBC中文网官方电报频道。</td>
-    </tr>
-    <tr>
-      <td><b>哔哩哔哩热门视频</b></td>
-      <td><a href="https://t.me/bilibili_hot">@bilibili_hot</a></td>
-      <td>41,425</td>
-      <td>B站全站热门视频实时推送。</td>
-    </tr>
-    <tr>
-      <td><b>华尔街日报中文网</b></td>
-      <td><a href="https://t.me/cnwsj">@cnwsj</a></td>
-      <td>38,454</td>
-      <td>WSJ中文官方资讯。</td>
-    </tr>
-    <tr>
-      <td><b>微博热搜实时榜</b></td>
-      <td><a href="https://t.me/weibo_hot">@weibo_hot</a></td>
-      <td>29,922</td>
-      <td>通过机器人全自动抓取新浪微博热搜榜，让你在无广告的纯净环境中吃瓜并掌握全网热点。</td>
-    </tr>
-    <tr>
-      <td><b>回形针 PaperClip</b></td>
-      <td><a href="https://t.me/papercliphub">@papercliphub</a></td>
-      <td>14,716</td>
-      <td>顶尖泛科普硬核视频创作团队粉丝聚集地，通过极其精美的可视化动画解析工业与科学运作逻辑。</td>
     </tr>
     <tr>
       <td><b>电报时报</b></td>
       <td><a href="https://t.me/times001">@times001</a></td>
-      <td>10,726</td>
+      <td>84,510</td>
       <td>即时中文资讯聚合与头条新闻推送。</td>
-    </tr>
-    <tr>
-      <td><b>纽约时报中文网</b></td>
-      <td><a href="https://t.me/nytimes_zh">@nytimes_zh</a></td>
-      <td>8,531</td>
-      <td>纽约时报中文网深度报道。</td>
     </tr>
     <tr>
       <td><b>华尔街见闻</b></td>
       <td><a href="https://t.me/FinanceNewsDaily">@FinanceNewsDaily</a></td>
-      <td>7,443</td>
+      <td>58,393</td>
       <td>全球金融市场快讯、宏观经济事件与行情追踪。</td>
+    </tr>
+    <tr>
+      <td><b>中国数字时代</b></td>
+      <td><a href="https://t.me/cdtchinesefeed">@cdtchinesefeed</a></td>
+      <td>51,159</td>
+      <td>聚合全球高质量中文报道，记录互联网不可见的折叠面，建立独立视角的数字档案。</td>
+    </tr>
+    <tr>
+      <td><b>Solidot 奇客资讯</b></td>
+      <td><a href="https://t.me/solidot">@solidot</a></td>
+      <td>47,630</td>
+      <td>硬核极客的老牌情报站，专注于开源运动、底层网络安全、航天探索及前沿科技突破。</td>
+    </tr>
+    <tr>
+      <td><b>联合早报</b></td>
+      <td><a href="https://t.me/zaobaosg">@zaobaosg</a></td>
+      <td>45,939</td>
+      <td>新加坡官方媒体视角的华语新闻频道，提供客观严谨的亚太政经要闻与全球快讯。</td>
+    </tr>
+    <tr>
+      <td><b>看鉴中国</b></td>
+      <td><a href="https://t.me/OutsightChina">@OutsightChina</a></td>
+      <td>41,428</td>
+      <td>依托深度数据挖掘与专业图表驱动的宏观洞察，提供高质量的政经走势与社会现象分析。</td>
+    </tr>
+    <tr>
+      <td><b>少数派 sspai</b></td>
+      <td><a href="https://t.me/sspai">@sspai</a></td>
+      <td>38,454</td>
+      <td>高品质数字生活方式倡导者官方推送，主打高效工具推荐、数字生活理念及深度软硬件评测。</td>
+    </tr>
+    <tr>
+      <td><b>Hacker News</b></td>
+      <td><a href="https://t.me/hacker_news_feed">@hacker_news_feed</a></td>
+      <td>29,922</td>
+      <td>硅谷创业孵化器 YC 旗下技术社区实时推送，直击全球顶尖程序员的探讨热点与硬核创业思考。</td>
+    </tr>
+    <tr>
+      <td><b>国家地理中文版</b></td>
+      <td><a href="https://t.me/natgeomedia">@natgeomedia</a></td>
+      <td>14,716</td>
+      <td>美国《国家地理》官方授权频道，提供极具视觉震撼力的全球自然、历史、科学与人文摄影报道。</td>
+    </tr>
+    <tr>
+      <td><b>ReadHub 极简资讯</b></td>
+      <td><a href="https://t.me/readhub_cn">@readhub_cn</a></td>
+      <td>8,531</td>
+      <td>无废话的互联网新闻聚合器，每日三分钟纵览全球科技圈动态、创投风向与大厂热搜。</td>
+    </tr>
+    <tr>
+      <td><b>新闻实验室</b></td>
+      <td><a href="https://t.me/newslab2020">@newslab2020</a></td>
+      <td>4,712</td>
+      <td>资深媒体人方可成主理，深度拆解媒介素养，探讨新闻背后的传播学逻辑与信息茧房效应。</td>
     </tr>
   </tbody>
 </table>
@@ -1230,16 +1191,10 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>Spotify 音乐库</b></td>
-      <td><a href="https://t.me/SpotifyMusicDownloaderBot">@SpotifyMusicDownloaderBot</a></td>
-      <td>41,146</td>
-      <td>直连 Spotify 流媒体协议，将您收藏的歌单快速转化为可离线播放的音频文件。</td>
-    </tr>
-    <tr>
-      <td><b>无损音乐下载</b></td>
-      <td><a href="https://t.me/flac_music">@flac_music</a></td>
-      <td>-</td>
-      <td>FLAC 高音质发烧友聚集地。</td>
+      <td><b>高清电影下载</b></td>
+      <td><a href="https://t.me/dianying">@dianying</a></td>
+      <td>59,225</td>
+      <td>4K 蓝光影视种子与磁力链接。</td>
     </tr>
     <tr>
       <td><b>多平台解析下载</b></td>
@@ -1421,6 +1376,12 @@
       <td>-</td>
       <td>哔哩哔哩深度爱好者必备，支持高清画质直达抓取与离线缓存。</td>
     </tr>
+    <tr>
+      <td><b>Spotify 音乐库</b></td>
+      <td><a href="https://t.me/SpotifyMusicDownloaderBot">@SpotifyMusicDownloaderBot</a></td>
+      <td>-</td>
+      <td>直连 Spotify 流媒体协议，将您收藏的歌单快速转化为可离线播放的音频文件。</td>
+    </tr>
   </tbody>
 </table>
 
@@ -1439,13 +1400,13 @@
     <tr>
       <td><b>瞎玩菌的游戏频道</b></td>
       <td><a href="https://t.me/blindgamer">@blindgamer</a></td>
-      <td>97,448</td>
+      <td>10,726</td>
       <td>高质量的单机与主机游戏自媒体，分享深刻的独立游戏评测、Steam 骨折打折快讯与游戏史考究。</td>
     </tr>
     <tr>
       <td><b>NS 新闻转报</b></td>
       <td><a href="https://t.me/SwitchNewCN">@SwitchNewCN</a></td>
-      <td>8,243</td>
+      <td>7,443</td>
       <td>任天堂 Switch 玩家必看，实时转播“任天堂直面会”消息、第一方大作发售日历与偷跑情报。</td>
     </tr>
   </tbody>
@@ -1468,6 +1429,18 @@
       <td><a href="https://t.me/Send2KindleBot">@Send2KindleBot</a></td>
       <td>-</td>
       <td>阅读党福音，绑定亚马逊账号后，可直接将 Telegram 聊天中的电子书文件一键推送到你的 Kindle 设备。</td>
+    </tr>
+    <tr>
+      <td><b>Z-Library 搜书引擎</b></td>
+      <td><a href="https://t.me/zlibrary_bot">@zlibrary_bot</a></td>
+      <td>-</td>
+      <td>对接全球最大的数字图书馆 Z-Library 数据库，直接在 Telegram 内搜索、预览并下载原版优质电子书。</td>
+    </tr>
+    <tr>
+      <td><b>万能格式转换器</b></td>
+      <td><a href="https://t.me/newfileconverterbot">@newfileconverterbot</a></td>
+      <td>-</td>
+      <td>云端文件处理中心，支持将 AZW3/MOBI 电子书无损转换为 EPUB，或处理图片、音频等常见媒体格式。</td>
     </tr>
   </tbody>
 </table>
@@ -1499,27 +1472,6 @@
   </tbody>
 </table>
 
-### 📁 职场与进阶
-
-<table>
-  <thead>
-    <tr>
-      <th width="25%">名称</th>
-      <th width="25%">链接</th>
-      <th width="10%">人数</th>
-      <th width="40%">简介</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td><b>北美程序员 Faang</b></td>
-      <td><a href="https://t.me/faangbbs">@faangbbs</a></td>
-      <td>6,743</td>
-      <td>聚焦硅谷一线科技巨头（META, Apple, Amazon等）的求职内推、包裹（Package）协商与 H1B 签证。</td>
-    </tr>
-  </tbody>
-</table>
-
 ### 📁 资源分享
 
 <table>
@@ -1533,22 +1485,22 @@
   </thead>
   <tbody>
     <tr>
+      <td><b>奈飞小铺 官方群</b></td>
+      <td><a href="https://t.me/netflix_bus">@netflix_bus</a></td>
+      <td>23,347</td>
+      <td>流媒体合租拼车情报站，提供高性价比的 Netflix、Spotify、Disney+ 发车信息与账号维护。</td>
+    </tr>
+    <tr>
+      <td><b>PT 资讯频道</b></td>
+      <td><a href="https://t.me/privatetrackernews">@privatetrackernews</a></td>
+      <td>19,044</td>
+      <td>Private Tracker 玩家专属雷达，实时播报全球各大 PT 站开放注册、考核指标与免费下载活动。</td>
+    </tr>
+    <tr>
       <td><b>Epic 喜加一资讯</b></td>
       <td><a href="https://t.me/SteamNy">@SteamNy</a></td>
-      <td>23,347</td>
-      <td>Steam 与 Epic 游戏商城打折情报专家，绝对不错过任何一次“喜加一”限免白嫖机会。</td>
-    </tr>
-    <tr>
-      <td><b>VShareCloud 软件库</b></td>
-      <td><a href="https://t.me/VShareCloud">@VShareCloud</a></td>
-      <td>19,044</td>
-      <td>高质量的 Mac 与 Windows 破解软件、便携版工具分享库，致力于纯净无广告的资源下载。</td>
-    </tr>
-    <tr>
-      <td><b>Z-Library 官方</b></td>
-      <td><a href="https://t.me/zlibrary_official">@zlibrary_official</a></td>
       <td>16,236</td>
-      <td>全球最大数字图书馆官方动态。</td>
+      <td>Steam 与 Epic 游戏商城打折情报专家，绝对不错过任何一次“喜加一”限免白嫖机会。</td>
     </tr>
   </tbody>
 </table>
@@ -1580,19 +1532,13 @@
     <tr>
       <td><b>Fragment 账号实时报价</b></td>
       <td><a href="https://t.me/Fragment_Monitor">@Fragment_Monitor</a></td>
-      <td>2,453</td>
+      <td>6,743</td>
       <td>监控 Telegram 官方 Fragment 拍卖平台，秒级播报优质用户名与匿名号码竞拍走势。</td>
-    </tr>
-    <tr>
-      <td><b>jdShareCode 京东互助</b></td>
-      <td><a href="https://t.me/jdShareCode">@jdShareCode</a></td>
-      <td>-</td>
-      <td>电商活动互助代码实时共享池，助力各类自动化打卡与京豆脚本稳定运行。</td>
     </tr>
     <tr>
       <td><b>Bigo 社区群</b></td>
       <td><a href="https://t.me/bigo_tool">@bigo_tool</a></td>
-      <td>-</td>
+      <td>2,453</td>
       <td>开发者交流与小工具协作社群，提供脚本排错与环境配置答疑。</td>
     </tr>
   </tbody>
@@ -1611,34 +1557,34 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>V2EX 后花园</b></td>
-      <td><a href="https://t.me/goV2EX">@goV2EX</a></td>
+      <td><b>维基百科中文室</b></td>
+      <td><a href="https://t.me/wikipedia_zh_n">@wikipedia_zh_n</a></td>
       <td>22,651</td>
-      <td>知名程序员与创意工作者社区 V2EX 的官方纯净分舵，涵盖职场、硬件与创造力分享。</td>
-    </tr>
-    <tr>
-      <td><b>美剧与 Netflix 交流</b></td>
-      <td><a href="https://t.me/Moviemarket_group">@Moviemarket_group</a></td>
-      <td>12,294</td>
-      <td>海外流媒体影视重度爱好者，分享网飞神剧、HBO 首播资源、内嵌字幕及杜比视界片源。</td>
-    </tr>
-    <tr>
-      <td><b>云盘与 NAS 极客</b></td>
-      <td><a href="https://t.me/NASteam">@NASteam</a></td>
-      <td>8,277</td>
-      <td>私有云存储技术栈，交流群晖（Synology）黑白洗白、Docker 容器部署与家庭多媒体中心搭建。</td>
+      <td>中文维基百科志愿编辑者的中枢，讨论条目中立性、格式规范及防破坏巡查机制。</td>
     </tr>
     <tr>
       <td><b>Notion 中文社区</b></td>
       <td><a href="https://t.me/Notionso">@Notionso</a></td>
-      <td>4,402</td>
+      <td>12,295</td>
       <td>最强 All-in-One 笔记工具狂热粉，分享神级模板、数据库关联魔法与 API 自动化对接。</td>
     </tr>
     <tr>
       <td><b>读舍 享受阅读</b></td>
       <td><a href="https://t.me/shufm">@shufm</a></td>
-      <td>2,207</td>
+      <td>8,277</td>
       <td>高净值读书交流圈，每日分享精校版 EPUB/MOBI 电子书，定期举办严肃文学主题探讨。</td>
+    </tr>
+    <tr>
+      <td><b>程序员 Offtopic</b></td>
+      <td><a href="https://t.me/coder_ot">@coder_ot</a></td>
+      <td>4,402</td>
+      <td>开发者代码之外的闲聊酒馆，探讨职场内卷、副业变现、润学及技术人的数字游民生活。</td>
+    </tr>
+    <tr>
+      <td><b>电报摄影社</b></td>
+      <td><a href="https://t.me/photographyintelegram">@photographyintelegram</a></td>
+      <td>2,207</td>
+      <td>专业影像创作者沙龙，分享单反微单镜头测评、Lightroom 调色参数与风光人像约拍。</td>
     </tr>
   </tbody>
 </table>
@@ -1674,12 +1620,6 @@
       <td>专精于中文语境的自动化翻译工具，完美解决简繁体及英中转换场景。</td>
     </tr>
     <tr>
-      <td><b>GPT Plus 极客合租</b></td>
-      <td><a href="https://t.me/gptnocard_bot">@gptnocard_bot</a></td>
-      <td>-</td>
-      <td>全自动化的 AI 账号升级分发平台，助力用户免费或超低价拼车体验 Team 团队版算力。</td>
-    </tr>
-    <tr>
       <td><b>发音矫正器</b></td>
       <td><a href="https://t.me/PronunciationBot">@PronunciationBot</a></td>
       <td>-</td>
@@ -1696,6 +1636,12 @@
       <td><a href="https://t.me/GoAiOpenBot">@GoAiOpenBot</a></td>
       <td>-</td>
       <td>提供低门槛的 OpenAI 账户代开与订阅管理，支持快捷充值体验最强大的大语言模型。</td>
+    </tr>
+    <tr>
+      <td><b>GPT Plus 极客合租</b></td>
+      <td><a href="https://t.me/gptnocard_bot">@gptnocard_bot</a></td>
+      <td>-</td>
+      <td>全自动化的 AI 账号升级分发平台，助力用户免费或超低价拼车体验 Team 团队版算力。</td>
     </tr>
   </tbody>
 </table>
@@ -1739,7 +1685,7 @@
     <tr>
       <td><b>Hostloc 论坛推送</b></td>
       <td><a href="https://t.me/hostloc2tg">@hostloc2tg</a></td>
-      <td>4,450</td>
+      <td>4,452</td>
       <td>实时抓取并推送全球主机交流论坛（Hostloc）最新帖子，掌握建站技术、域名交易与撕逼大瓜。</td>
     </tr>
   </tbody>

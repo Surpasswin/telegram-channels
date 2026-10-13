@@ -1,6 +1,6 @@
 # 🚀 Telegram 中文精选频道与群组导航 (Telegram Channels)
 
-[![Status](https://img.shields.io/badge/Status-Maintained-brightgreen.svg)]() [![Total Channels](https://img.shields.io/badge/Total_Channels-263-blue.svg)]() [![Last Updated](https://img.shields.io/badge/Updated-2026-10-13-orange.svg)]()
+[![Status](https://img.shields.io/badge/Status-Maintained-brightgreen.svg)]() [![Total Channels](https://img.shields.io/badge/Total_Channels-259-blue.svg)]() [![Last Updated](https://img.shields.io/badge/Updated-2026-10-13-orange.svg)]()
 
 > 本项目致力于整理并持续维护高质量的 **Telegram 中文频道** 与 **公开交流群组**。所有收录数据均经过精心筛选与严格分类，助你快速发现、定位有价值的中文社群资源。欢迎加入交流群：https://t.me/tggzcn 
 
@@ -1050,11 +1050,6 @@
       <td>聚焦数码与科技生活方式。</td>
     </tr>
     <tr>
-      <td><b>哔哩哔哩热门视频</b></td>
-      <td><a href="https://t.me/bilibili_hot">@bilibili_hot</a></td>
-      <td>B站全站热门视频实时推送。</td>
-    </tr>
-    <tr>
       <td><b>知乎日报热榜</b></td>
       <td><a href="https://t.me/zhihu_feed">@zhihu_feed</a></td>
       <td>知乎每日热榜聚合推送。</td>
@@ -1460,11 +1455,6 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>北美程序员 Faang</b></td>
-      <td><a href="https://t.me/faangbbs">@faangbbs</a></td>
-      <td>聚焦硅谷一线科技巨头（META, Apple, Amazon等）的求职内推、包裹（Package）协商与 H1B 签证。</td>
-    </tr>
-    <tr>
       <td><b>Leetcode 刷题交流</b></td>
       <td><a href="https://t.me/leetcode_discuss">@leetcode_discuss</a></td>
       <td>北美与国内互联网大厂算法面试冲刺营，分享数据结构心得、每日一题与大厂面经。</td>
@@ -1509,11 +1499,6 @@
       <td>流媒体合租拼车情报站，提供高性价比的 Netflix、Spotify、Disney+ 发车信息与账号维护。</td>
     </tr>
     <tr>
-      <td><b>阿里云盘资源发布</b></td>
-      <td><a href="https://t.me/Aliyundrive_Share_Channel">@Aliyundrive_Share_Channel</a></td>
-      <td>突破限速体验的阿里云盘资源首发阵地，涵盖4K高清原盘、专业生产力软件与大型学习资料。</td>
-    </tr>
-    <tr>
       <td><b>壁纸精选</b></td>
       <td><a href="https://t.me/wallpaper_share">@wallpaper_share</a></td>
       <td>4K 高清桌面与手机壁纸。</td>
@@ -1522,11 +1507,6 @@
       <td><b>TG 主题分享</b></td>
       <td><a href="https://t.me/tg_theme">@tg_theme</a></td>
       <td>Telegram 炫酷皮肤与气泡样式。</td>
-    </tr>
-    <tr>
-      <td><b>Z-Library 官方</b></td>
-      <td><a href="https://t.me/zlibrary_official">@zlibrary_official</a></td>
-      <td>全球最大数字图书馆官方动态。</td>
     </tr>
     <tr>
       <td><b>Netflix 奈飞中文</b></td>

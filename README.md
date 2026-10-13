@@ -1,6 +1,6 @@
 # 🚀 Telegram 中文精选频道与群组导航 (Telegram Channels)
 
-[![Status](https://img.shields.io/badge/Status-Maintained-brightgreen.svg)]() [![Total Channels](https://img.shields.io/badge/Total_Channels-264-blue.svg)]() [![Last Updated](https://img.shields.io/badge/Updated-2026-10-12-orange.svg)]()
+[![Status](https://img.shields.io/badge/Status-Maintained-brightgreen.svg)]() [![Total Channels](https://img.shields.io/badge/Total_Channels-263-blue.svg)]() [![Last Updated](https://img.shields.io/badge/Updated-2026-10-13-orange.svg)]()
 
 > 本项目致力于整理并持续维护高质量的 **Telegram 中文频道** 与 **公开交流群组**。所有收录数据均经过精心筛选与严格分类，助你快速发现、定位有价值的中文社群资源。欢迎加入交流群：https://t.me/tggzcn 
 
@@ -74,14 +74,14 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>IFTTT 官方自动化</b></td>
-      <td><a href="https://t.me/IFTTT">@IFTTT</a></td>
-      <td>官方授权的跨应用自动化连接器，可将 Twitter、RSS、智能家居状态无缝转发至 Telegram。</td>
+      <td><b>Fragment 资产监控</b></td>
+      <td><a href="https://t.me/fragment">@fragment</a></td>
+      <td>实时推送 Telegram 官方去中心化交易平台 Fragment 上的靓号、匿名 NFT 手机号竞拍动态。</td>
     </tr>
     <tr>
-      <td><b>TG 简中汉化组</b></td>
-      <td><a href="https://t.me/zh_CN">@zh_CN</a></td>
-      <td>Telegram 生态最知名的简体中文语言包发布站，持续提供精准、优雅的本地化界面支持。</td>
+      <td><b>Telegram News</b></td>
+      <td><a href="https://t.me/telegram">@telegram</a></td>
+      <td>Telegram 官方新闻通讯社，实时首发全平台的大版本更新日志与核心特性演示。</td>
     </tr>
     <tr>
       <td><b>官方诈骗举报中心</b></td>
@@ -102,6 +102,11 @@
       <td><b>官方隐私数据提取</b></td>
       <td><a href="https://t.me/gdprbot">@gdprbot</a></td>
       <td>响应欧盟 GDPR 法案的官方工具，允许用户打包下载自己在 Telegram 的全部聊天与元数据记录。</td>
+    </tr>
+    <tr>
+      <td><b>官方 Gmail 助手</b></td>
+      <td><a href="https://t.me/GmailBot">@GmailBot</a></td>
+      <td>官方出品的邮箱集成工具，无需翻墙即可在聊天界面实时收发与管理 Gmail 邮件。</td>
     </tr>
     <tr>
       <td><b>官方申诉中心 (SpamBot)</b></td>
@@ -149,14 +154,9 @@
       <td>处理高价值或企业商标用户名（Username）被恶意抢注、长期闲置的官方回收与认领通道。</td>
     </tr>
     <tr>
-      <td><b>Fragment 资产监控</b></td>
-      <td><a href="https://t.me/fragment">@fragment</a></td>
-      <td>实时推送 Telegram 官方去中心化交易平台 Fragment 上的靓号、匿名 NFT 手机号竞拍动态。</td>
-    </tr>
-    <tr>
-      <td><b>官方 Gmail 助手</b></td>
-      <td><a href="https://t.me/GmailBot">@GmailBot</a></td>
-      <td>官方出品的邮箱集成工具，无需翻墙即可在聊天界面实时收发与管理 Gmail 邮件。</td>
+      <td><b>IFTTT 官方自动化</b></td>
+      <td><a href="https://t.me/IFTTT">@IFTTT</a></td>
+      <td>官方授权的跨应用自动化连接器，可将 Twitter、RSS、智能家居状态无缝转发至 Telegram。</td>
     </tr>
     <tr>
       <td><b>Telegram 官方招聘</b></td>
@@ -182,11 +182,6 @@
       <td><b>Telegram Tips</b></td>
       <td><a href="https://t.me/TelegramTips">@TelegramTips</a></td>
       <td>官方高阶使用指南，通过精美的图文与视频展示隐藏技巧、手势操作与效率玩法。</td>
-    </tr>
-    <tr>
-      <td><b>Telegram News</b></td>
-      <td><a href="https://t.me/telegram">@telegram</a></td>
-      <td>Telegram 官方新闻通讯社，实时首发全平台的大版本更新日志与核心特性演示。</td>
     </tr>
   </tbody>
 </table>
@@ -452,21 +447,6 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>币圈动态讨论群</b></td>
-      <td><a href="https://t.me/biquan321">@biquan321</a></td>
-      <td>散户抱团与日常看盘社区，分享行情走势、热点山寨与链上土狗。</td>
-    </tr>
-    <tr>
-      <td><b>Web3 综合汇总</b></td>
-      <td><a href="https://t.me/newsforbitcoin">@newsforbitcoin</a></td>
-      <td>聚合比特币生态、NFT 流动性以及热门空投项目进展的一站式资讯频道。</td>
-    </tr>
-    <tr>
-      <td><b>Binance 币安中文</b></td>
-      <td><a href="https://t.me/binance_cn">@binance_cn</a></td>
-      <td>全球最大加密货币交易所中文社区。</td>
-    </tr>
-    <tr>
       <td><b>Crypto News & Tech Updates</b></td>
       <td><a href="https://t.me/Crypto_News_and_Tech_Updates">@Crypto_News_and_Tech_Updates</a></td>
       <td>面向全球投资者的英文加密通识教育与硬核底层技术趋势追踪。</td>
@@ -487,21 +467,6 @@
       <td>全球头部交易所 Binance 官方中文社群，权威公告与活动一手掌握。</td>
     </tr>
     <tr>
-      <td><b>吴说区块链</b></td>
-      <td><a href="https://t.me/wublock">@wublock</a></td>
-      <td>行业知名独立深度媒体，专注于合规监管、矿业动向与内幕独家报道。</td>
-    </tr>
-    <tr>
-      <td><b>欧易 OKX 官方中文群</b></td>
-      <td><a href="https://t.me/OKXGroup_CN">@OKXGroup_CN</a></td>
-      <td>OKX 官方认证中文讨论阵地，覆盖平台动态、产品更新与安全指南。</td>
-    </tr>
-    <tr>
-      <td><b>Business & Finance News USA</b></td>
-      <td><a href="https://t.me/news_finance">@news_finance</a></td>
-      <td>精选全美商业经济头条，直击华尔街动态、科技巨头财报与政策动向。</td>
-    </tr>
-    <tr>
       <td><b>财经慢报</b></td>
       <td><a href="https://t.me/Financial_Express">@Financial_Express</a></td>
       <td>沉淀深度思考的慢阅读财经天地，聚焦经济周期与长期价值沉淀。</td>
@@ -515,6 +480,36 @@
       <td><b>美股频道 Stock USA</b></td>
       <td><a href="https://t.me/mgstock">@mgstock</a></td>
       <td>专注纳斯达克与标普 500 成分股基本面研判，追踪财报预期与机构评级。</td>
+    </tr>
+    <tr>
+      <td><b>Web3 综合汇总</b></td>
+      <td><a href="https://t.me/newsforbitcoin">@newsforbitcoin</a></td>
+      <td>聚合比特币生态、NFT 流动性以及热门空投项目进展的一站式资讯频道。</td>
+    </tr>
+    <tr>
+      <td><b>欧易 OKX 官方中文群</b></td>
+      <td><a href="https://t.me/OKXGroup_CN">@OKXGroup_CN</a></td>
+      <td>OKX 官方认证中文讨论阵地，覆盖平台动态、产品更新与安全指南。</td>
+    </tr>
+    <tr>
+      <td><b>Binance 币安中文</b></td>
+      <td><a href="https://t.me/binance_cn">@binance_cn</a></td>
+      <td>全球最大加密货币交易所中文社区。</td>
+    </tr>
+    <tr>
+      <td><b>币圈动态讨论群</b></td>
+      <td><a href="https://t.me/biquan321">@biquan321</a></td>
+      <td>散户抱团与日常看盘社区，分享行情走势、热点山寨与链上土狗。</td>
+    </tr>
+    <tr>
+      <td><b>Business & Finance News USA</b></td>
+      <td><a href="https://t.me/news_finance">@news_finance</a></td>
+      <td>精选全美商业经济头条，直击华尔街动态、科技巨头财报与政策动向。</td>
+    </tr>
+    <tr>
+      <td><b>吴说区块链</b></td>
+      <td><a href="https://t.me/wublock">@wublock</a></td>
+      <td>行业知名独立深度媒体，专注于合规监管、矿业动向与内幕独家报道。</td>
     </tr>
   </tbody>
 </table>
@@ -716,11 +711,6 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>Pikabao 充值服务</b></td>
-      <td><a href="https://t.me/pikabaobot">@pikabaobot</a></td>
-      <td>便捷的数字生活钱包与点卡充值接口，覆盖多种常用虚拟商品与话费支付场景。</td>
-    </tr>
-    <tr>
       <td><b>UTBOT 隐私资产</b></td>
       <td><a href="https://t.me/UTBOT">@UTBOT</a></td>
       <td>隐私优先的链上资产管家，提供极其安全的加密货币托管与跨链闪兑服务。</td>
@@ -734,6 +724,11 @@
       <td><b>匿名海外虚拟卡</b></td>
       <td><a href="https://t.me/kkpay">@kkpay</a></td>
       <td>海外匿名信用卡开卡平台，支持支付宝等法币充值，轻松搞定海淘与 ChatGPT 等 AI 订阅。</td>
+    </tr>
+    <tr>
+      <td><b>Pikabao 充值服务</b></td>
+      <td><a href="https://t.me/pikabaobot">@pikabaobot</a></td>
+      <td>便捷的数字生活钱包与点卡充值接口，覆盖多种常用虚拟商品与话费支付场景。</td>
     </tr>
   </tbody>
 </table>
@@ -1184,9 +1179,9 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>Spotify 音乐交流</b></td>
-      <td><a href="https://t.me/spotify_zh">@spotify_zh</a></td>
-      <td>优质歌单分享与会员组车。</td>
+      <td><b>高清电影下载</b></td>
+      <td><a href="https://t.me/dianying">@dianying</a></td>
+      <td>4K 蓝光影视种子与磁力链接。</td>
     </tr>
     <tr>
       <td><b>纪录片自留地</b></td>
@@ -1194,9 +1189,9 @@
       <td>影视爱好者的后花园，专门收集与分享国内外高分纪录片、人文影像与独立电影资源。</td>
     </tr>
     <tr>
-      <td><b>高清电影下载</b></td>
-      <td><a href="https://t.me/dianying">@dianying</a></td>
-      <td>4K 蓝光影视种子与磁力链接。</td>
+      <td><b>Spotify 音乐交流</b></td>
+      <td><a href="https://t.me/spotify_zh">@spotify_zh</a></td>
+      <td>优质歌单分享与会员组车。</td>
     </tr>
     <tr>
       <td><b>Steam 特惠资讯</b></td>
@@ -1417,14 +1412,14 @@
       <td>云端文件处理中心，支持将 AZW3/MOBI 电子书无损转换为 EPUB，或处理图片、音频等常见媒体格式。</td>
     </tr>
     <tr>
-      <td><b>Z-Library 搜书引擎</b></td>
-      <td><a href="https://t.me/zlibrary_bot">@zlibrary_bot</a></td>
-      <td>对接全球最大的数字图书馆 Z-Library 数据库，直接在 Telegram 内搜索、预览并下载原版优质电子书。</td>
-    </tr>
-    <tr>
       <td><b>Send to Kindle</b></td>
       <td><a href="https://t.me/Send2KindleBot">@Send2KindleBot</a></td>
       <td>阅读党福音，绑定亚马逊账号后，可直接将 Telegram 聊天中的电子书文件一键推送到你的 Kindle 设备。</td>
+    </tr>
+    <tr>
+      <td><b>Z-Library 搜书引擎</b></td>
+      <td><a href="https://t.me/zlibrary_bot">@zlibrary_bot</a></td>
+      <td>对接全球最大的数字图书馆 Z-Library 数据库，直接在 Telegram 内搜索、预览并下载原版优质电子书。</td>
     </tr>
   </tbody>
 </table>

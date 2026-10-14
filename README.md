@@ -1,6 +1,6 @@
 # 🚀 Telegram 中文精选频道与群组导航 (Telegram Channels)
 
-[![Status](https://img.shields.io/badge/Status-Maintained-brightgreen.svg)]() [![Total Channels](https://img.shields.io/badge/Total_Channels-208-blue.svg)]() [![Last Updated](https://img.shields.io/badge/Updated-2026-10-14-orange.svg)]()
+[![Status](https://img.shields.io/badge/Status-Maintained-brightgreen.svg)]() [![Total Channels](https://img.shields.io/badge/Total_Channels-213-blue.svg)]() [![Last Updated](https://img.shields.io/badge/Updated-2026-10-14-orange.svg)]()
 
 > 本项目致力于整理并持续维护高质量的 **Telegram 中文频道** 与 **公开交流群组**。所有收录数据均经过精心筛选与严格分类，助你快速发现、定位有价值的中文社群资源。欢迎加入交流群：https://t.me/tggzcn 
 
@@ -27,10 +27,10 @@
       <td>电报老牌综合搜索机器人，发送关键词发现群组与资源。</td>
     </tr>
     <tr>
-      <td><b>快搜</b></td>
-      <td><a href="https://t.me/kuai">@kuai</a></td>
+      <td><b>海搜</b></td>
+      <td><a href="https://t.me/haisou">@haisou</a></td>
       <td></td>
-      <td>帮你发现有趣群组、频道、视频、音乐。</td>
+      <td>发送关键词，即可发现频道、群组、视频与帖子。</td>
     </tr>
     <tr>
       <td><b>JISO 机器人</b></td>
@@ -39,16 +39,10 @@
       <td>搜索群、频道、影视、音乐、新闻等内容。</td>
     </tr>
     <tr>
-      <td><b>海搜</b></td>
-      <td><a href="https://t.me/haisou">@haisou</a></td>
+      <td><b>极搜 JiSou</b></td>
+      <td><a href="https://t.me/jisou">@jisou</a></td>
       <td></td>
-      <td>发送关键词，即可发现频道、群组、视频与帖子。</td>
-    </tr>
-    <tr>
-      <td><b>Bot 开发者频道</b></td>
-      <td><a href="https://t.me/botsarchive">@botsarchive</a></td>
-      <td></td>
-      <td>全球最新 Telegram Bot 收录推荐。</td>
+      <td>发送词语帮你找到有趣的群与资源。</td>
     </tr>
     <tr>
       <td><b>超级索引</b></td>
@@ -57,16 +51,22 @@
       <td>发送词语即可搜索关联群组与频道资源。</td>
     </tr>
     <tr>
+      <td><b>快搜</b></td>
+      <td><a href="https://t.me/kuai">@kuai</a></td>
+      <td></td>
+      <td>帮你发现有趣群组、频道、视频、音乐。</td>
+    </tr>
+    <tr>
       <td><b>神马搜索</b></td>
       <td><a href="https://t.me/smss">@smss</a></td>
       <td></td>
       <td>发送词语即可搜索关联群组与频道资源。</td>
     </tr>
     <tr>
-      <td><b>极搜 JiSou</b></td>
-      <td><a href="https://t.me/jisou">@jisou</a></td>
+      <td><b>Bot 开发者频道</b></td>
+      <td><a href="https://t.me/botsarchive">@botsarchive</a></td>
       <td></td>
-      <td>发送词语帮你找到有趣的群与资源。</td>
+      <td>全球最新 Telegram Bot 收录推荐。</td>
     </tr>
   </tbody>
 </table>
@@ -126,6 +126,12 @@
       <td>官方授权的跨应用自动化连接器，可将 Twitter、RSS、智能家居状态无缝转发至 Telegram。</td>
     </tr>
     <tr>
+      <td><b>Telegram 官方招聘</b></td>
+      <td><a href="https://t.me/jobs_bot">@jobs_bot</a></td>
+      <td></td>
+      <td>Telegram 官方人才库入口，定期发布全球开发、UI 设计及运营岗位的内推与高薪招聘需求。</td>
+    </tr>
+    <tr>
       <td><b>官方申诉中心 (SpamBot)</b></td>
       <td><a href="https://t.me/SpamBot">@SpamBot</a></td>
       <td></td>
@@ -178,12 +184,6 @@
       <td><a href="https://t.me/username_bot">@username_bot</a></td>
       <td></td>
       <td>处理高价值或企业商标用户名（Username）被恶意抢注、长期闲置的官方回收与认领通道。</td>
-    </tr>
-    <tr>
-      <td><b>Telegram 官方招聘</b></td>
-      <td><a href="https://t.me/jobs_bot">@jobs_bot</a></td>
-      <td></td>
-      <td>Telegram 官方人才库入口，定期发布全球开发、UI 设计及运营岗位的内推与高薪招聘需求。</td>
     </tr>
     <tr>
       <td><b>官方 Gmail 助手</b></td>
@@ -1133,6 +1133,36 @@
       <td>4,712</td>
       <td>纽约时报中文网深度报道。</td>
     </tr>
+    <tr>
+      <td><b>獨立媒體</b></td>
+      <td><a href="https://t.me/inmediahknet">@inmediahknet</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><b>美国之音</b></td>
+      <td><a href="https://t.me/voachinese">@voachinese</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><b>永利新闻】中文l项目l资源</b></td>
+      <td><a href="https://t.me/qiucomm">@qiucomm</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><b>中国大事件/中文日记</b></td>
+      <td><a href="https://t.me/toutiao89">@toutiao89</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><b>早报</b></td>
+      <td><a href="https://t.me/zaobaosg">@zaobaosg</a></td>
+      <td></td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 
@@ -1587,10 +1617,10 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>繁简互译器</b></td>
-      <td><a href="https://t.me/en_to_tw_bot">@en_to_tw_bot</a></td>
+      <td><b>GPT Plus 极客合租</b></td>
+      <td><a href="https://t.me/gptnocard_bot">@gptnocard_bot</a></td>
       <td></td>
-      <td>专精于中文语境的自动化翻译工具，完美解决简繁体及英中转换场景。</td>
+      <td>全自动化的 AI 账号升级分发平台，助力用户免费或超低价拼车体验 Team 团队版算力。</td>
     </tr>
     <tr>
       <td><b>ChatGPT 会员助手</b></td>
@@ -1611,12 +1641,6 @@
       <td>Telegram 最具代表性的经典翻译助手，支持全球主流语言互译与指令呼出。</td>
     </tr>
     <tr>
-      <td><b>GPT Plus 极客合租</b></td>
-      <td><a href="https://t.me/gptnocard_bot">@gptnocard_bot</a></td>
-      <td></td>
-      <td>全自动化的 AI 账号升级分发平台，助力用户免费或超低价拼车体验 Team 团队版算力。</td>
-    </tr>
-    <tr>
       <td><b>Yandex 翻译</b></td>
       <td><a href="https://t.me/YTranslateBot">@YTranslateBot</a></td>
       <td></td>
@@ -1627,6 +1651,12 @@
       <td><a href="https://t.me/PronunciationBot">@PronunciationBot</a></td>
       <td></td>
       <td>外语学习者的随身教练，支持将 84 种文字智能合成为标准的语音朗读。</td>
+    </tr>
+    <tr>
+      <td><b>繁简互译器</b></td>
+      <td><a href="https://t.me/en_to_tw_bot">@en_to_tw_bot</a></td>
+      <td></td>
+      <td>专精于中文语境的自动化翻译工具，完美解决简繁体及英中转换场景。</td>
     </tr>
   </tbody>
 </table>

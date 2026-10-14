@@ -1134,8 +1134,8 @@
       <td>纽约时报中文网深度报道。</td>
     </tr>
     <tr>
-      <td><b>獨立媒體</b></td>
-      <td><a href="https://t.me/inmediahknet">@inmediahknet</a></td>
+      <td><b>中国大事件/中文日记</b></td>
+      <td><a href="https://t.me/toutiao89">@toutiao89</a></td>
       <td></td>
       <td></td>
     </tr>
@@ -1143,7 +1143,13 @@
       <td><b>美国之音</b></td>
       <td><a href="https://t.me/voachinese">@voachinese</a></td>
       <td></td>
+      <td>美国之音中文网 您可靠的信息来源 - 通晓美中大事 锁定美国之音</td>
+    </tr>
+    <tr>
+      <td><b>早报</b></td>
+      <td><a href="https://t.me/zaobaosg">@zaobaosg</a></td>
       <td></td>
+      <td>以睿智亲和的内容，与你共谈天下事。</td>
     </tr>
     <tr>
       <td><b>永利新闻】中文l项目l资源</b></td>
@@ -1152,14 +1158,8 @@
       <td></td>
     </tr>
     <tr>
-      <td><b>中国大事件/中文日记</b></td>
-      <td><a href="https://t.me/toutiao89">@toutiao89</a></td>
-      <td></td>
-      <td></td>
-    </tr>
-    <tr>
-      <td><b>早报</b></td>
-      <td><a href="https://t.me/zaobaosg">@zaobaosg</a></td>
+      <td><b>獨立媒體</b></td>
+      <td><a href="https://t.me/inmediahknet">@inmediahknet</a></td>
       <td></td>
       <td></td>
     </tr>

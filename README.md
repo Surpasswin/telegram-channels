@@ -1,6 +1,6 @@
 # 🚀 Telegram 中文精选频道与群组导航 (Telegram Channels)
 
-[![Status](https://img.shields.io/badge/Status-Maintained-brightgreen.svg)]() [![Total Channels](https://img.shields.io/badge/Total_Channels-213-blue.svg)]() [![Last Updated](https://img.shields.io/badge/Updated-2026-10-14-orange.svg)]()
+[![Status](https://img.shields.io/badge/Status-Maintained-brightgreen.svg)]() [![Total Channels](https://img.shields.io/badge/Total_Channels-213-blue.svg)]() [![Last Updated](https://img.shields.io/badge/Updated-2026-10-15-orange.svg)]()
 
 > 本项目致力于整理并持续维护高质量的 **Telegram 中文频道** 与 **公开交流群组**。所有收录数据均经过精心筛选与严格分类，助你快速发现、定位有价值的中文社群资源。欢迎加入交流群：https://t.me/tggzcn 
 

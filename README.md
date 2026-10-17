@@ -1,10 +1,10 @@
 # 🚀 Telegram 中文频道与群组推荐导航 (Telegram Channels)
 
-[![Status](https://img.shields.io/badge/Status-Maintained-brightgreen.svg)]() [![Total Channels](https://img.shields.io/badge/Total_Channels-189-blue.svg)]() [![Last Updated](https://img.shields.io/badge/Updated-2026-10-17-orange.svg)]()
+[![Status](https://img.shields.io/badge/Status-Maintained-brightgreen.svg)]() [![Total Channels](https://img.shields.io/badge/Total_Channels-193-blue.svg)]() [![Last Updated](https://img.shields.io/badge/Updated-2026-10-17-orange.svg)]()
 
 > 本项目致力于整理并持续维护高质量的 **Telegram频道** 与 **telegram群组**。所有收录数据均经过筛选与严格分类，助你快速发现、定位有价值的中文社群资源。欢迎加入交流群：https://t.me/tggzcn 
 
-> 💡 **提交收录与合作**：欢迎联系机器人 [@zhcollect_bot](https://t.me/zhcollect_bot) 提交优质频道或群组，共同完善本导航库。(请按格式提交：名称，链接，类别，简介）
+> 💡 **防止迷路**：置顶我们导航机器人 [@zhnavbot](https://t.me/zhnavbot) 提交优质频道或群组 @zhcollect_bot ，共同完善本导航库。(请按格式提交：名称，链接，类别，简介）
 
 ---
 
@@ -33,28 +33,10 @@
       <td>帮你发现有趣群组、频道、视频、音乐。</td>
     </tr>
     <tr>
-      <td><b>超级索引</b></td>
-      <td><a href="https://t.me/CJSY">@CJSY</a></td>
+      <td><b>神马搜索</b></td>
+      <td><a href="https://t.me/smss">@smss</a></td>
       <td></td>
       <td>发送词语即可搜索关联群组与频道资源。</td>
-    </tr>
-    <tr>
-      <td><b>极搜 JiSou</b></td>
-      <td><a href="https://t.me/jisou">@jisou</a></td>
-      <td></td>
-      <td>发送词语帮你找到有趣的群与资源。</td>
-    </tr>
-    <tr>
-      <td><b>JISO 机器人</b></td>
-      <td><a href="https://t.me/jiso">@jiso</a></td>
-      <td></td>
-      <td>搜索群、频道、影视、音乐、新闻等内容。</td>
-    </tr>
-    <tr>
-      <td><b>海搜</b></td>
-      <td><a href="https://t.me/haisou">@haisou</a></td>
-      <td></td>
-      <td>发送关键词，即可发现频道、群组、视频与帖子。</td>
     </tr>
     <tr>
       <td><b>SOSO 机器人</b></td>
@@ -63,10 +45,28 @@
       <td>电报老牌综合搜索机器人，发送关键词发现群组与资源。</td>
     </tr>
     <tr>
-      <td><b>神马搜索</b></td>
-      <td><a href="https://t.me/smss">@smss</a></td>
+      <td><b>JISO 机器人</b></td>
+      <td><a href="https://t.me/jiso">@jiso</a></td>
+      <td></td>
+      <td>搜索群、频道、影视、音乐、新闻等内容。</td>
+    </tr>
+    <tr>
+      <td><b>极搜 JiSou</b></td>
+      <td><a href="https://t.me/jisou">@jisou</a></td>
+      <td></td>
+      <td>发送词语帮你找到有趣的群与资源。</td>
+    </tr>
+    <tr>
+      <td><b>超级索引</b></td>
+      <td><a href="https://t.me/CJSY">@CJSY</a></td>
       <td></td>
       <td>发送词语即可搜索关联群组与频道资源。</td>
+    </tr>
+    <tr>
+      <td><b>海搜</b></td>
+      <td><a href="https://t.me/haisou">@haisou</a></td>
+      <td></td>
+      <td>发送关键词，即可发现频道、群组、视频与帖子。</td>
     </tr>
   </tbody>
 </table>
@@ -120,10 +120,10 @@
       <td>开发者与极客的首选关注，追踪各个端 TestFlight 与 Beta 测试版的最新编译动态。</td>
     </tr>
     <tr>
-      <td><b>官方 Web3 钱包 (Wallet)</b></td>
-      <td><a href="https://t.me/wallet">@wallet</a></td>
+      <td><b>官方网页预览 (WebpageBot)</b></td>
+      <td><a href="https://t.me/WebpageBot">@WebpageBot</a></td>
       <td></td>
-      <td>内置于客户端的官方托管钱包，支持以 P2P 方式零手续费发送与接收 TON 及 USDT。</td>
+      <td>开发者必备，一键强制刷新网页在 Telegram 中的链接缓存与缩略图抓取。</td>
     </tr>
     <tr>
       <td><b>官方会员订阅 (Premium)</b></td>
@@ -138,40 +138,22 @@
       <td>绑定并管理 Telegra.ph 匿名博客平台，支持富文本排版、网页免翻即时预览。</td>
     </tr>
     <tr>
-      <td><b>官方贴纸管理 (Stickers)</b></td>
-      <td><a href="https://t.me/Stickers">@Stickers</a></td>
-      <td></td>
-      <td>官方图文贴纸包与动态贴纸（Animated Stickers）创建、管理与使用数据统计中心。</td>
-    </tr>
-    <tr>
       <td><b>官方申诉中心 (SpamBot)</b></td>
       <td><a href="https://t.me/SpamBot">@SpamBot</a></td>
       <td></td>
       <td>Telegram 官方客服机器人，专用于查询账号双向限制（封禁）状态并提交解封申诉。</td>
     </tr>
     <tr>
+      <td><b>官方贴纸管理 (Stickers)</b></td>
+      <td><a href="https://t.me/Stickers">@Stickers</a></td>
+      <td></td>
+      <td>官方图文贴纸包与动态贴纸（Animated Stickers）创建、管理与使用数据统计中心。</td>
+    </tr>
+    <tr>
       <td><b>官方问卷星 (QuizBot)</b></td>
       <td><a href="https://t.me/QuizBot">@QuizBot</a></td>
       <td></td>
       <td>强大的在线测验与多项选择题库创建器，支持图文并茂的答题与积分榜单生成。</td>
-    </tr>
-    <tr>
-      <td><b>官方机器人管家 (BotFather)</b></td>
-      <td><a href="https://t.me/BotFather">@BotFather</a></td>
-      <td></td>
-      <td>Telegram 生态的造物主，用于注册新的 API Token、配置机器人菜单及开通支付网关。</td>
-    </tr>
-    <tr>
-      <td><b>官方蓝V认证 (VerifyBot)</b></td>
-      <td><a href="https://t.me/VerifyBot">@VerifyBot</a></td>
-      <td></td>
-      <td>官方防伪认证接口，为在其他社交平台有知名度的频道、群组或机器人颁发蓝V标识。</td>
-    </tr>
-    <tr>
-      <td><b>用户名申诉 (UsernameBot)</b></td>
-      <td><a href="https://t.me/username_bot">@username_bot</a></td>
-      <td></td>
-      <td>处理高价值或企业商标用户名（Username）被恶意抢注、长期闲置的官方回收与认领通道。</td>
     </tr>
     <tr>
       <td><b>官方隐私数据提取</b></td>
@@ -198,16 +180,34 @@
       <td>Telegram 官方人才库入口，定期发布全球开发、UI 设计及运营岗位的内推与高薪招聘需求。</td>
     </tr>
     <tr>
+      <td><b>官方机器人管家 (BotFather)</b></td>
+      <td><a href="https://t.me/BotFather">@BotFather</a></td>
+      <td></td>
+      <td>Telegram 生态的造物主，用于注册新的 API Token、配置机器人菜单及开通支付网关。</td>
+    </tr>
+    <tr>
+      <td><b>官方蓝V认证 (VerifyBot)</b></td>
+      <td><a href="https://t.me/VerifyBot">@VerifyBot</a></td>
+      <td></td>
+      <td>官方防伪认证接口，为在其他社交平台有知名度的频道、群组或机器人颁发蓝V标识。</td>
+    </tr>
+    <tr>
+      <td><b>用户名申诉 (UsernameBot)</b></td>
+      <td><a href="https://t.me/username_bot">@username_bot</a></td>
+      <td></td>
+      <td>处理高价值或企业商标用户名（Username）被恶意抢注、长期闲置的官方回收与认领通道。</td>
+    </tr>
+    <tr>
       <td><b>IFTTT 官方自动化</b></td>
       <td><a href="https://t.me/IFTTT">@IFTTT</a></td>
       <td></td>
       <td>官方授权的跨应用自动化连接器，可将 Twitter、RSS、智能家居状态无缝转发至 Telegram。</td>
     </tr>
     <tr>
-      <td><b>官方网页预览 (WebpageBot)</b></td>
-      <td><a href="https://t.me/WebpageBot">@WebpageBot</a></td>
+      <td><b>官方 Web3 钱包 (Wallet)</b></td>
+      <td><a href="https://t.me/wallet">@wallet</a></td>
       <td></td>
-      <td>开发者必备，一键强制刷新网页在 Telegram 中的链接缓存与缩略图抓取。</td>
+      <td>内置于客户端的官方托管钱包，支持以 P2P 方式零手续费发送与接收 TON 及 USDT。</td>
     </tr>
   </tbody>
 </table>
@@ -252,22 +252,16 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>Combot</b></td>
-      <td><a href="https://t.me/combot">@combot</a></td>
+      <td><b>大蜘蛛安全检测</b></td>
+      <td><a href="https://t.me/drwebbot">@drwebbot</a></td>
       <td></td>
-      <td>企业级的社群分析与管理平台，提供极其详尽的活跃度图表与反垃圾引擎。</td>
+      <td>由俄罗斯知名杀毒软件 Dr.Web 提供支持的测毒机器人，实时扫描群内可疑文件。</td>
     </tr>
     <tr>
       <td><b>拦截守护者</b></td>
       <td><a href="https://t.me/ProtectronBot">@ProtectronBot</a></td>
       <td></td>
       <td>多功能安全护盾，全面拦截短链接、色情图文与暴雷文件，降低群组被封禁风险。</td>
-    </tr>
-    <tr>
-      <td><b>大蜘蛛安全检测</b></td>
-      <td><a href="https://t.me/drwebbot">@drwebbot</a></td>
-      <td></td>
-      <td>由俄罗斯知名杀毒软件 Dr.Web 提供支持的测毒机器人，实时扫描群内可疑文件。</td>
     </tr>
     <tr>
       <td><b>昵称监控记录</b></td>
@@ -322,6 +316,12 @@
       <td><a href="https://t.me/shieldy_bot">@shieldy_bot</a></td>
       <td></td>
       <td>使用率极高的开源入群守卫，支持多种验证方式，稳定可靠不漏网。</td>
+    </tr>
+    <tr>
+      <td><b>Combot</b></td>
+      <td><a href="https://t.me/combot">@combot</a></td>
+      <td></td>
+      <td>企业级的社群分析与管理平台，提供极其详尽的活跃度图表与反垃圾引擎。</td>
     </tr>
     <tr>
       <td><b>来点科技感觉</b></td>
@@ -708,18 +708,6 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>Pikabao 充值服务</b></td>
-      <td><a href="https://t.me/pikabaobot">@pikabaobot</a></td>
-      <td></td>
-      <td>便捷的数字生活钱包与点卡充值接口，覆盖多种常用虚拟商品与话费支付场景。</td>
-    </tr>
-    <tr>
-      <td><b>匿名海外虚拟卡</b></td>
-      <td><a href="https://t.me/kkpay">@kkpay</a></td>
-      <td></td>
-      <td>海外匿名信用卡开卡平台，支持支付宝等法币充值，轻松搞定海淘与 ChatGPT 等 AI 订阅。</td>
-    </tr>
-    <tr>
       <td><b>UTBOT 隐私资产</b></td>
       <td><a href="https://t.me/UTBOT">@UTBOT</a></td>
       <td></td>
@@ -730,6 +718,18 @@
       <td><a href="https://t.me/okpay">@okpay</a></td>
       <td></td>
       <td>综合性加密资产支付网关，支持多种主流数字货币的无缝收发、托管与结算。</td>
+    </tr>
+    <tr>
+      <td><b>Pikabao 充值服务</b></td>
+      <td><a href="https://t.me/pikabaobot">@pikabaobot</a></td>
+      <td></td>
+      <td>便捷的数字生活钱包与点卡充值接口，覆盖多种常用虚拟商品与话费支付场景。</td>
+    </tr>
+    <tr>
+      <td><b>匿名海外虚拟卡</b></td>
+      <td><a href="https://t.me/kkpay">@kkpay</a></td>
+      <td></td>
+      <td>海外匿名信用卡开卡平台，支持支付宝等法币充值，轻松搞定海淘与 ChatGPT 等 AI 订阅。</td>
     </tr>
   </tbody>
 </table>
@@ -813,12 +813,6 @@
       <td>专为老二次元打造的宝藏频道，收录海量精美的新番、Galgame 与日系画师表情包。</td>
     </tr>
     <tr>
-      <td><b>图片 OCR 提取</b></td>
-      <td><a href="https://t.me/imageToText_bot">@imageToText_bot</a></td>
-      <td></td>
-      <td>智能光学字符识别（OCR）工具，极速提取截图或照片中的复杂文本段落。</td>
-    </tr>
-    <tr>
       <td><b>二维码双向魔法师</b></td>
       <td><a href="https://t.me/QR_Wizardbot">@QR_Wizardbot</a></td>
       <td></td>
@@ -831,16 +825,16 @@
       <td>醒目文本生成器，将普通文字瞬间转换为巨大的贴纸样式，群聊吸睛利器。</td>
     </tr>
     <tr>
-      <td><b>Imgur 图床直连</b></td>
-      <td><a href="https://t.me/imgurplusbot">@imgurplusbot</a></td>
-      <td></td>
-      <td>老牌免费图床 Imgur 快捷上传接口，发送图片即可秒换公网外链。</td>
-    </tr>
-    <tr>
       <td><b>AI 图像场景识别</b></td>
       <td><a href="https://t.me/visiontest1bot">@visiontest1bot</a></td>
       <td></td>
       <td>接入前沿 AI 视觉模型的图像分析器，精准识别图片内容并自动生成场景描述文字。</td>
+    </tr>
+    <tr>
+      <td><b>图片 OCR 提取</b></td>
+      <td><a href="https://t.me/imageToText_bot">@imageToText_bot</a></td>
+      <td></td>
+      <td>智能光学字符识别（OCR）工具，极速提取截图或照片中的复杂文本段落。</td>
     </tr>
     <tr>
       <td><b>GIF 动图溯源</b></td>
@@ -919,6 +913,12 @@
       <td><a href="https://t.me/sticker_time_bot">@sticker_time_bot</a></td>
       <td></td>
       <td>趣味时钟小工具，定时在群组或私聊中发送带有当前精确时间的精美图文贴纸。</td>
+    </tr>
+    <tr>
+      <td><b>Imgur 图床直连</b></td>
+      <td><a href="https://t.me/imgurplusbot">@imgurplusbot</a></td>
+      <td></td>
+      <td>老牌免费图床 Imgur 快捷上传接口，发送图片即可秒换公网外链。</td>
     </tr>
   </tbody>
 </table>
@@ -1295,6 +1295,30 @@
       <td>7,434</td>
       <td>任天堂 Switch 玩家必看，实时转播“任天堂直面会”消息、第一方大作发售日历与偷跑情报。</td>
     </tr>
+    <tr>
+      <td><b>吃瓜猎奇榜</b></td>
+      <td><a href="https://t.me/wdbh666">@wdbh666</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><b>内涵段子 🍉 吃瓜</b></td>
+      <td><a href="https://t.me/duanzia0">@duanzia0</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><b>搞笑视频 吃瓜群众</b></td>
+      <td><a href="https://t.me/lsd62">@lsd62</a></td>
+      <td></td>
+      <td></td>
+    </tr>
+    <tr>
+      <td><b>搞笑视频</b></td>
+      <td><a href="https://t.me/Nh888">@Nh888</a></td>
+      <td></td>
+      <td></td>
+    </tr>
   </tbody>
 </table>
 
@@ -1311,6 +1335,12 @@
   </thead>
   <tbody>
     <tr>
+      <td><b>Z-Library 搜书引擎</b></td>
+      <td><a href="https://t.me/zlibrary_bot">@zlibrary_bot</a></td>
+      <td></td>
+      <td>对接全球最大的数字图书馆 Z-Library 数据库，直接在 Telegram 内搜索、预览并下载原版优质电子书。</td>
+    </tr>
+    <tr>
       <td><b>Send to Kindle</b></td>
       <td><a href="https://t.me/Send2KindleBot">@Send2KindleBot</a></td>
       <td></td>
@@ -1321,12 +1351,6 @@
       <td><a href="https://t.me/newfileconverterbot">@newfileconverterbot</a></td>
       <td></td>
       <td>云端文件处理中心，支持将 AZW3/MOBI 电子书无损转换为 EPUB，或处理图片、音频等常见媒体格式。</td>
-    </tr>
-    <tr>
-      <td><b>Z-Library 搜书引擎</b></td>
-      <td><a href="https://t.me/zlibrary_bot">@zlibrary_bot</a></td>
-      <td></td>
-      <td>对接全球最大的数字图书馆 Z-Library 数据库，直接在 Telegram 内搜索、预览并下载原版优质电子书。</td>
     </tr>
   </tbody>
 </table>
@@ -1344,16 +1368,16 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>文件直链生成器</b></td>
-      <td><a href="https://t.me/TransferRobot">@TransferRobot</a></td>
-      <td></td>
-      <td>轻量级临时图床与大文件托管服务，上传任意文件即可快速生成可供外部浏览器访问的公网下载直链。</td>
-    </tr>
-    <tr>
       <td><b>TG 加密私有云</b></td>
       <td><a href="https://t.me/thesafebot">@thesafebot</a></td>
       <td></td>
       <td>基于 Telegram 官方存储接口二次开发的个人加密云盘，提供带有额外密钥保护的无限容量私密存储空间。</td>
+    </tr>
+    <tr>
+      <td><b>文件直链生成器</b></td>
+      <td><a href="https://t.me/TransferRobot">@TransferRobot</a></td>
+      <td></td>
+      <td>轻量级临时图床与大文件托管服务，上传任意文件即可快速生成可供外部浏览器访问的公网下载直链。</td>
     </tr>
   </tbody>
 </table>
@@ -1458,28 +1482,10 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>Translate Father</b></td>
-      <td><a href="https://t.me/TranslateFather_bot">@TranslateFather_bot</a></td>
-      <td></td>
-      <td>Telegram 最具代表性的经典翻译助手，支持全球主流语言互译与指令呼出。</td>
-    </tr>
-    <tr>
       <td><b>Yandex 翻译</b></td>
       <td><a href="https://t.me/YTranslateBot">@YTranslateBot</a></td>
       <td></td>
       <td>基于俄罗斯本土大厂 Yandex 神经网络的翻译接口，对东欧小语种支持极佳。</td>
-    </tr>
-    <tr>
-      <td><b>发音矫正器</b></td>
-      <td><a href="https://t.me/PronunciationBot">@PronunciationBot</a></td>
-      <td></td>
-      <td>外语学习者的随身教练，支持将 84 种文字智能合成为标准的语音朗读。</td>
-    </tr>
-    <tr>
-      <td><b>繁简互译器</b></td>
-      <td><a href="https://t.me/en_to_tw_bot">@en_to_tw_bot</a></td>
-      <td></td>
-      <td>专精于中文语境的自动化翻译工具，完美解决简繁体及英中转换场景。</td>
     </tr>
     <tr>
       <td><b>GPT Plus 极客合租</b></td>
@@ -1498,6 +1504,24 @@
       <td><a href="https://t.me/Xai1314bot">@Xai1314bot</a></td>
       <td></td>
       <td>搭载最新 AI 视觉模型的图像处理机器人，支持一键去衣、换装与视频换脸等前沿黑科技生成功能。</td>
+    </tr>
+    <tr>
+      <td><b>Translate Father</b></td>
+      <td><a href="https://t.me/TranslateFather_bot">@TranslateFather_bot</a></td>
+      <td></td>
+      <td>Telegram 最具代表性的经典翻译助手，支持全球主流语言互译与指令呼出。</td>
+    </tr>
+    <tr>
+      <td><b>繁简互译器</b></td>
+      <td><a href="https://t.me/en_to_tw_bot">@en_to_tw_bot</a></td>
+      <td></td>
+      <td>专精于中文语境的自动化翻译工具，完美解决简繁体及英中转换场景。</td>
+    </tr>
+    <tr>
+      <td><b>发音矫正器</b></td>
+      <td><a href="https://t.me/PronunciationBot">@PronunciationBot</a></td>
+      <td></td>
+      <td>外语学习者的随身教练，支持将 84 种文字智能合成为标准的语音朗读。</td>
     </tr>
   </tbody>
 </table>

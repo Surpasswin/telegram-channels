@@ -120,10 +120,10 @@
       <td>开发者与极客的首选关注，追踪各个端 TestFlight 与 Beta 测试版的最新编译动态。</td>
     </tr>
     <tr>
-      <td><b>官方网页预览 (WebpageBot)</b></td>
-      <td><a href="https://t.me/WebpageBot">@WebpageBot</a></td>
+      <td><b>官方 Web3 钱包 (Wallet)</b></td>
+      <td><a href="https://t.me/wallet">@wallet</a></td>
       <td></td>
-      <td>开发者必备，一键强制刷新网页在 Telegram 中的链接缓存与缩略图抓取。</td>
+      <td>内置于客户端的官方托管钱包，支持以 P2P 方式零手续费发送与接收 TON 及 USDT。</td>
     </tr>
     <tr>
       <td><b>官方会员订阅 (Premium)</b></td>
@@ -204,10 +204,10 @@
       <td>官方授权的跨应用自动化连接器，可将 Twitter、RSS、智能家居状态无缝转发至 Telegram。</td>
     </tr>
     <tr>
-      <td><b>官方 Web3 钱包 (Wallet)</b></td>
-      <td><a href="https://t.me/wallet">@wallet</a></td>
+      <td><b>官方网页预览 (WebpageBot)</b></td>
+      <td><a href="https://t.me/WebpageBot">@WebpageBot</a></td>
       <td></td>
-      <td>内置于客户端的官方托管钱包，支持以 P2P 方式零手续费发送与接收 TON 及 USDT。</td>
+      <td>开发者必备，一键强制刷新网页在 Telegram 中的链接缓存与缩略图抓取。</td>
     </tr>
   </tbody>
 </table>
@@ -1020,10 +1020,10 @@
       <td>即时中文资讯聚合与头条新闻推送。</td>
     </tr>
     <tr>
-      <td><b>华尔街见闻</b></td>
+      <td><b>【华尔街见闻】- 财经时讯</b></td>
       <td><a href="https://t.me/FinanceNewsDaily">@FinanceNewsDaily</a></td>
       <td>58,486</td>
-      <td>全球金融市场快讯、宏观经济事件与行情追踪。</td>
+      <td>财经新闻</td>
     </tr>
     <tr>
       <td><b>早报</b></td>
@@ -1041,19 +1041,19 @@
       <td><b>中国大事件/中文日记</b></td>
       <td><a href="https://t.me/toutiao89">@toutiao89</a></td>
       <td>39,596</td>
-      <td></td>
+      <td>新闻相关</td>
     </tr>
     <tr>
-      <td><b>永利新闻】中文l项目l资源</b></td>
+      <td><b>永利新闻 中文l项目l资源</b></td>
       <td><a href="https://t.me/qiucomm">@qiucomm</a></td>
       <td>39,510</td>
-      <td></td>
+      <td>新闻相关</td>
     </tr>
     <tr>
       <td><b>獨立媒體</b></td>
       <td><a href="https://t.me/inmediahknet">@inmediahknet</a></td>
       <td>38,771</td>
-      <td></td>
+      <td>新闻相关</td>
     </tr>
     <tr>
       <td><b>新闻实验室</b></td>
@@ -1299,25 +1299,25 @@
       <td><b>吃瓜猎奇榜</b></td>
       <td><a href="https://t.me/wdbh666">@wdbh666</a></td>
       <td></td>
-      <td></td>
+      <td>吃瓜搞笑</td>
     </tr>
     <tr>
       <td><b>内涵段子 🍉 吃瓜</b></td>
       <td><a href="https://t.me/duanzia0">@duanzia0</a></td>
       <td></td>
-      <td></td>
+      <td>吃瓜搞笑</td>
     </tr>
     <tr>
       <td><b>搞笑视频 吃瓜群众</b></td>
       <td><a href="https://t.me/lsd62">@lsd62</a></td>
       <td></td>
-      <td></td>
+      <td>吃瓜搞笑</td>
     </tr>
     <tr>
       <td><b>搞笑视频</b></td>
       <td><a href="https://t.me/Nh888">@Nh888</a></td>
       <td></td>
-      <td></td>
+      <td>吃瓜搞笑</td>
     </tr>
   </tbody>
 </table>
@@ -1482,10 +1482,16 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>Yandex 翻译</b></td>
-      <td><a href="https://t.me/YTranslateBot">@YTranslateBot</a></td>
+      <td><b>发音矫正器</b></td>
+      <td><a href="https://t.me/PronunciationBot">@PronunciationBot</a></td>
       <td></td>
-      <td>基于俄罗斯本土大厂 Yandex 神经网络的翻译接口，对东欧小语种支持极佳。</td>
+      <td>外语学习者的随身教练，支持将 84 种文字智能合成为标准的语音朗读。</td>
+    </tr>
+    <tr>
+      <td><b>繁简互译器</b></td>
+      <td><a href="https://t.me/en_to_tw_bot">@en_to_tw_bot</a></td>
+      <td></td>
+      <td>专精于中文语境的自动化翻译工具，完美解决简繁体及英中转换场景。</td>
     </tr>
     <tr>
       <td><b>GPT Plus 极客合租</b></td>
@@ -1512,16 +1518,10 @@
       <td>Telegram 最具代表性的经典翻译助手，支持全球主流语言互译与指令呼出。</td>
     </tr>
     <tr>
-      <td><b>繁简互译器</b></td>
-      <td><a href="https://t.me/en_to_tw_bot">@en_to_tw_bot</a></td>
+      <td><b>Yandex 翻译</b></td>
+      <td><a href="https://t.me/YTranslateBot">@YTranslateBot</a></td>
       <td></td>
-      <td>专精于中文语境的自动化翻译工具，完美解决简繁体及英中转换场景。</td>
-    </tr>
-    <tr>
-      <td><b>发音矫正器</b></td>
-      <td><a href="https://t.me/PronunciationBot">@PronunciationBot</a></td>
-      <td></td>
-      <td>外语学习者的随身教练，支持将 84 种文字智能合成为标准的语音朗读。</td>
+      <td>基于俄罗斯本土大厂 Yandex 神经网络的翻译接口，对东欧小语种支持极佳。</td>
     </tr>
   </tbody>
 </table>

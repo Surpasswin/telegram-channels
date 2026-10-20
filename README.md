@@ -1,6 +1,6 @@
 # 🚀 Telegram 中文频道与群组推荐导航 (Telegram Channels)
 
-[![Status](https://img.shields.io/badge/Status-Maintained-brightgreen.svg)]() [![Total Channels](https://img.shields.io/badge/Total_Channels-268-blue.svg)]() [![Last Updated](https://img.shields.io/badge/Updated-2026-10-20-orange.svg)]()
+[![Status](https://img.shields.io/badge/Status-Maintained-brightgreen.svg)]() [![Total Channels](https://img.shields.io/badge/Total_Channels-267-blue.svg)]() [![Last Updated](https://img.shields.io/badge/Updated-2026-10-20-orange.svg)]()
 
 > 本项目致力于整理并持续维护高质量的 **Telegram频道** 与 **telegram群组**。所有收录数据均经过筛选与严格分类，助你快速发现、定位有价值的中文社群资源。欢迎加入交流群：https://t.me/tggzcn 
 
@@ -21,22 +21,10 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>SOSO 机器人</b></td>
-      <td><a href="https://t.me/soso">@soso</a></td>
-      <td></td>
-      <td>电报老牌综合搜索机器人，发送关键词发现群组与资源。</td>
-    </tr>
-    <tr>
       <td><b>Bot 开发者频道</b></td>
       <td><a href="https://t.me/botsarchive">@botsarchive</a></td>
       <td></td>
       <td>全球最新 Telegram Bot 收录推荐。</td>
-    </tr>
-    <tr>
-      <td><b>搜索群(jiso5173)</b></td>
-      <td><a href="https://t.me/jiso5173">@jiso5173</a></td>
-      <td></td>
-      <td>搜索各类资源与群组。</td>
     </tr>
     <tr>
       <td><b>超级索引</b></td>
@@ -73,6 +61,12 @@
       <td><a href="https://t.me/haisou">@haisou</a></td>
       <td></td>
       <td>发送关键词，即可发现频道、群组、视频与帖子。</td>
+    </tr>
+    <tr>
+      <td><b>SOSO 机器人</b></td>
+      <td><a href="https://t.me/soso">@soso</a></td>
+      <td></td>
+      <td>电报老牌综合搜索机器人，发送关键词发现群组与资源。</td>
     </tr>
     <tr>
       <td><b>无限X影音搜索</b></td>
@@ -255,16 +249,16 @@
       <td>友好的 Telegram 入门指导站，解答双向联系人限制、账号隐私设置与防骗防盗号技巧。</td>
     </tr>
     <tr>
-      <td><b>TG iOS 测试探讨</b></td>
-      <td><a href="https://t.me/TelegramiOStalk">@TelegramiOStalk</a></td>
-      <td></td>
-      <td>iOS 端 TestFlight 测试版追更群，第一时间发掘并讨论新版动画、隐藏菜单与未发布的特性。</td>
-    </tr>
-    <tr>
       <td><b>精美 TG 主题分享</b></td>
       <td><a href="https://t.me/beautifultgtheme">@beautifultgtheme</a></td>
       <td></td>
       <td>UI 设计师与美化爱好者的聚集地，每日分享高品质的暗黑模式、极简风及二次元聊天背景主题。</td>
+    </tr>
+    <tr>
+      <td><b>TG iOS 测试探讨</b></td>
+      <td><a href="https://t.me/TelegramiOStalk">@TelegramiOStalk</a></td>
+      <td></td>
+      <td>iOS 端 TestFlight 测试版追更群，第一时间发掘并讨论新版动画、隐藏菜单与未发布的特性。</td>
     </tr>
     <tr>
       <td><b>TG 简体中文翻译组</b></td>
@@ -300,16 +294,10 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>Rose</b></td>
-      <td><a href="https://t.me/MissRose_bot">@MissRose_bot</a></td>
+      <td><b>验证机器人</b></td>
+      <td><a href="https://t.me/P4CaptchaBot">@P4CaptchaBot</a></td>
       <td></td>
-      <td>Telegram 生态中最具统治力的老牌群管，拥有深不见底的自定义过滤规则。</td>
-    </tr>
-    <tr>
-      <td><b>昵称监控记录</b></td>
-      <td><a href="https://t.me/SangMata_BOT">@SangMata_BOT</a></td>
-      <td></td>
-      <td>强大的社工辅助工具，能够持续监控并记录群成员的历史昵称更改轨迹。</td>
+      <td>经典的四字中文验证码签发器，对中国大陆用户极其友好且防御力可靠。</td>
     </tr>
     <tr>
       <td><b>KinhRoBot</b></td>
@@ -354,10 +342,10 @@
       <td>提供高强度的看门狗级别入群验证，有效拦截自动化脚本与爆破攻击。</td>
     </tr>
     <tr>
-      <td><b>方丈机器人</b></td>
-      <td><a href="https://t.me/fangzhang_bot">@fangzhang_bot</a></td>
+      <td><b>Rose</b></td>
+      <td><a href="https://t.me/MissRose_bot">@MissRose_bot</a></td>
       <td></td>
-      <td>方丈群组管理机器人，高效防滥用。</td>
+      <td>Telegram 生态中最具统治力的老牌群管，拥有深不见底的自定义过滤规则。</td>
     </tr>
     <tr>
       <td><b>Group Help</b></td>
@@ -366,10 +354,10 @@
       <td>高度人性化的社群助手，不仅能管纪律，还能通过自动回复引导新人熟悉环境。</td>
     </tr>
     <tr>
-      <td><b>验证机器人</b></td>
-      <td><a href="https://t.me/P4CaptchaBot">@P4CaptchaBot</a></td>
+      <td><b>昵称监控记录</b></td>
+      <td><a href="https://t.me/SangMata_BOT">@SangMata_BOT</a></td>
       <td></td>
-      <td>经典的四字中文验证码签发器，对中国大陆用户极其友好且防御力可靠。</td>
+      <td>强大的社工辅助工具，能够持续监控并记录群成员的历史昵称更改轨迹。</td>
     </tr>
     <tr>
       <td><b>群内统计秘书</b></td>
@@ -406,6 +394,12 @@
       <td><a href="https://t.me/KinhRobot">@KinhRobot</a></td>
       <td></td>
       <td>超多功能的群管机器人。</td>
+    </tr>
+    <tr>
+      <td><b>方丈机器人</b></td>
+      <td><a href="https://t.me/fangzhang_bot">@fangzhang_bot</a></td>
+      <td></td>
+      <td>方丈群组管理机器人，高效防滥用。</td>
     </tr>
   </tbody>
 </table>
@@ -477,16 +471,10 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>编程随想推荐书目</b></td>
-      <td><a href="https://t.me/programthinkbooks">@programthinkbooks</a></td>
+      <td><b>ZBook 精品电子书</b></td>
+      <td><a href="https://t.me/ziyuanfeng59">@ziyuanfeng59</a></td>
       <td></td>
-      <td>系统化整理了互联网传奇极客“编程随想”历年推荐的社科、政治、计算机与哲学硬核书籍。</td>
-    </tr>
-    <tr>
-      <td><b>豆瓣精选阅读</b></td>
-      <td><a href="https://t.me/douban_read">@douban_read</a></td>
-      <td></td>
-      <td>打破信息茧房，每日为你推送豆瓣高分书评、深度影评与高质量人文长文。</td>
+      <td>排版精美的中文数字书库，专注于提供精校版的 EPUB 与 MOBI 格式文学名著与畅销书。</td>
     </tr>
     <tr>
       <td><b>Kindle 特价书雷达</b></td>
@@ -501,10 +489,16 @@
       <td>数字媒体爱好者的天堂，每日无偿分享《经济学人》《大西洋月刊》等全球主流外文原版杂志。</td>
     </tr>
     <tr>
-      <td><b>ZBook 精品电子书</b></td>
-      <td><a href="https://t.me/ziyuanfeng59">@ziyuanfeng59</a></td>
+      <td><b>编程随想推荐书目</b></td>
+      <td><a href="https://t.me/programthinkbooks">@programthinkbooks</a></td>
       <td></td>
-      <td>排版精美的中文数字书库，专注于提供精校版的 EPUB 与 MOBI 格式文学名著与畅销书。</td>
+      <td>系统化整理了互联网传奇极客“编程随想”历年推荐的社科、政治、计算机与哲学硬核书籍。</td>
+    </tr>
+    <tr>
+      <td><b>豆瓣精选阅读</b></td>
+      <td><a href="https://t.me/douban_read">@douban_read</a></td>
+      <td></td>
+      <td>打破信息茧房，每日为你推送豆瓣高分书评、深度影评与高质量人文长文。</td>
     </tr>
   </tbody>
 </table>
@@ -834,6 +828,12 @@
       <td>海外匿名信用卡开卡平台，支持支付宝等法币充值，轻松搞定海淘与 ChatGPT 等 AI 订阅。</td>
     </tr>
     <tr>
+      <td><b>UTBOT 隐私资产</b></td>
+      <td><a href="https://t.me/UTBOT">@UTBOT</a></td>
+      <td></td>
+      <td>隐私优先的链上资产管家，提供极其安全的加密货币托管与跨链闪兑服务。</td>
+    </tr>
+    <tr>
       <td><b>OKPay 加密支付</b></td>
       <td><a href="https://t.me/okpay">@okpay</a></td>
       <td></td>
@@ -844,12 +844,6 @@
       <td><a href="https://t.me/pikabaobot">@pikabaobot</a></td>
       <td></td>
       <td>便捷的数字生活钱包与点卡充值接口，覆盖多种常用虚拟商品与话费支付场景。</td>
-    </tr>
-    <tr>
-      <td><b>UTBOT 隐私资产</b></td>
-      <td><a href="https://t.me/UTBOT">@UTBOT</a></td>
-      <td></td>
-      <td>隐私优先的链上资产管家，提供极其安全的加密货币托管与跨链闪兑服务。</td>
     </tr>
   </tbody>
 </table>
@@ -867,10 +861,10 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>App 限免精选</b></td>
-      <td><a href="https://t.me/appfans">@appfans</a></td>
+      <td><b>GitHub Trending</b></td>
+      <td><a href="https://t.me/githubtrending">@githubtrending</a></td>
       <td></td>
-      <td>数码玩家的省钱利器，每日自动化推送 App Store 高质量限免应用与 TestFlight 内测名额。</td>
+      <td>全球开发者风向标，实时抓取并推送 GitHub 热榜上星标飙升的优质开源项目。</td>
     </tr>
     <tr>
       <td><b>Snipaste 官方</b></td>
@@ -897,10 +891,10 @@
       <td>轻量级开源博客程序 Typecho 的开发者动态，分享精美极简主题与各类底层插件魔改。</td>
     </tr>
     <tr>
-      <td><b>GitHub Trending</b></td>
-      <td><a href="https://t.me/githubtrending">@githubtrending</a></td>
+      <td><b>App 限免精选</b></td>
+      <td><a href="https://t.me/appfans">@appfans</a></td>
       <td></td>
-      <td>全球开发者风向标，实时抓取并推送 GitHub 热榜上星标飙升的优质开源项目。</td>
+      <td>数码玩家的省钱利器，每日自动化推送 App Store 高质量限免应用与 TestFlight 内测名额。</td>
     </tr>
   </tbody>
 </table>
@@ -963,16 +957,16 @@
       <td>Telegram 官方推荐的高帧率（60fps）动态贴纸库，让你的日常聊天极具表现力。</td>
     </tr>
     <tr>
-      <td><b>ACG 二次元贴纸聚合</b></td>
-      <td><a href="https://t.me/ACGStickers">@ACGStickers</a></td>
-      <td></td>
-      <td>专为老二次元打造的宝藏频道，收录海量精美的新番、Galgame 与日系画师表情包。</td>
-    </tr>
-    <tr>
       <td><b>GIF 动图溯源</b></td>
       <td><a href="https://t.me/TumblrAce_bot">@TumblrAce_bot</a></td>
       <td></td>
       <td>动图溯源引擎，快速查询 Tumblr 等平台 GIF 动图的原始出处与画师信息。</td>
+    </tr>
+    <tr>
+      <td><b>GIF 逐帧提取</b></td>
+      <td><a href="https://t.me/GIFDownloader_bot">@GIFDownloader_bot</a></td>
+      <td></td>
+      <td>动态图提取工具，支持将 GIF 动图逐帧拆解并转换为高清静态图片。</td>
     </tr>
     <tr>
       <td><b>贴纸包批量导出</b></td>
@@ -981,10 +975,10 @@
       <td>贴纸包批量提取器，一键将 Telegram 专属表情包导出为通用图片格式。</td>
     </tr>
     <tr>
-      <td><b>GIF 逐帧提取</b></td>
-      <td><a href="https://t.me/GIFDownloader_bot">@GIFDownloader_bot</a></td>
+      <td><b>ACG 二次元贴纸聚合</b></td>
+      <td><a href="https://t.me/ACGStickers">@ACGStickers</a></td>
       <td></td>
-      <td>动态图提取工具，支持将 GIF 动图逐帧拆解并转换为高清静态图片。</td>
+      <td>专为老二次元打造的宝藏频道，收录海量精美的新番、Galgame 与日系画师表情包。</td>
     </tr>
     <tr>
       <td><b>全能贴纸下载器</b></td>
@@ -1224,10 +1218,10 @@
       <td>全球金融市场快讯、宏观经济事件与行情追踪。</td>
     </tr>
     <tr>
-      <td><b>ReadHub 极简资讯</b></td>
-      <td><a href="https://t.me/readhub_cn">@readhub_cn</a></td>
+      <td><b>Solidot 奇客资讯</b></td>
+      <td><a href="https://t.me/solidot">@solidot</a></td>
       <td></td>
-      <td>无废话的互联网新闻聚合器，每日三分钟纵览全球科技圈动态、创投风向与大厂热搜。</td>
+      <td>硬核极客的老牌情报站，专注于开源运动、底层网络安全、航天探索及前沿科技突破。</td>
     </tr>
     <tr>
       <td><b>Hacker News</b></td>
@@ -1266,10 +1260,10 @@
       <td>新加坡官方媒体视角的华语新闻频道，提供客观严谨的亚太政经要闻与全球快讯。</td>
     </tr>
     <tr>
-      <td><b>Solidot 奇客资讯</b></td>
-      <td><a href="https://t.me/solidot">@solidot</a></td>
+      <td><b>ReadHub 极简资讯</b></td>
+      <td><a href="https://t.me/readhub_cn">@readhub_cn</a></td>
       <td></td>
-      <td>硬核极客的老牌情报站，专注于开源运动、底层网络安全、航天探索及前沿科技突破。</td>
+      <td>无废话的互联网新闻聚合器，每日三分钟纵览全球科技圈动态、创投风向与大厂热搜。</td>
     </tr>
     <tr>
       <td><b>少数派 sspai</b></td>
@@ -1665,16 +1659,16 @@
       <td>对接全球最大的数字图书馆 Z-Library 数据库，直接在 Telegram 内搜索、预览并下载原版优质电子书。</td>
     </tr>
     <tr>
-      <td><b>Send to Kindle</b></td>
-      <td><a href="https://t.me/Send2KindleBot">@Send2KindleBot</a></td>
-      <td></td>
-      <td>阅读党福音，绑定亚马逊账号后，可直接将 Telegram 聊天中的电子书文件一键推送到你的 Kindle 设备。</td>
-    </tr>
-    <tr>
       <td><b>万能格式转换器</b></td>
       <td><a href="https://t.me/newfileconverterbot">@newfileconverterbot</a></td>
       <td></td>
       <td>云端文件处理中心，支持将 AZW3/MOBI 电子书无损转换为 EPUB，或处理图片、音频等常见媒体格式。</td>
+    </tr>
+    <tr>
+      <td><b>Send to Kindle</b></td>
+      <td><a href="https://t.me/Send2KindleBot">@Send2KindleBot</a></td>
+      <td></td>
+      <td>阅读党福音，绑定亚马逊账号后，可直接将 Telegram 聊天中的电子书文件一键推送到你的 Kindle 设备。</td>
     </tr>
   </tbody>
 </table>
@@ -1746,10 +1740,10 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>阿里云盘资源分享</b></td>
-      <td><a href="https://t.me/Aliyundrive_Share">@Aliyundrive_Share</a></td>
+      <td><b>综合类频道</b></td>
+      <td><a href="https://t.me/zhplayers">@zhplayers</a></td>
       <td></td>
-      <td>全网影视、学习资料阿里云盘链接。</td>
+      <td>综合类频道</td>
     </tr>
     <tr>
       <td><b>VShareCloud 软件库</b></td>
@@ -1818,10 +1812,10 @@
       <td>每日更新夸克网盘最新影视与文档。</td>
     </tr>
     <tr>
-      <td><b>综合类频道</b></td>
-      <td><a href="https://t.me/zhplayers">@zhplayers</a></td>
+      <td><b>阿里云盘资源分享</b></td>
+      <td><a href="https://t.me/Aliyundrive_Share">@Aliyundrive_Share</a></td>
       <td></td>
-      <td>综合类频道</td>
+      <td>全网影视、学习资料阿里云盘链接。</td>
     </tr>
   </tbody>
 </table>

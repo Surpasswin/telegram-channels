@@ -1,6 +1,6 @@
 # 🚀 Telegram 中文频道与群组推荐导航 (Telegram Channels)
 
-[![Status](https://img.shields.io/badge/Status-Maintained-brightgreen.svg)]() [![Total Channels](https://img.shields.io/badge/Total_Channels-209-blue.svg)]() [![Last Updated](https://img.shields.io/badge/Updated-2026-10-22-orange.svg)]()
+[![Status](https://img.shields.io/badge/Status-Maintained-brightgreen.svg)]() [![Total Channels](https://img.shields.io/badge/Total_Channels-204-blue.svg)]() [![Last Updated](https://img.shields.io/badge/Updated-2026-10-23-orange.svg)]()
 
 > 本项目致力于整理并持续维护高质量的 **Telegram频道** 与 **telegram群组**。所有收录数据均经过筛选与严格分类，助你快速发现、定位有价值的中文社群资源。欢迎加入交流群：https://t.me/tggzcn 
 
@@ -27,16 +27,10 @@
       <td>全球最新 Telegram Bot 收录推荐。</td>
     </tr>
     <tr>
-      <td><b>无限X影音搜索</b></td>
-      <td><a href="https://t.me/wuxianxbot">@wuxianxbot</a></td>
+      <td><b>海搜</b></td>
+      <td><a href="https://t.me/haisou">@haisou</a></td>
       <td></td>
-      <td>搜索音乐和电影的机器人</td>
-    </tr>
-    <tr>
-      <td><b>超级索引</b></td>
-      <td><a href="https://t.me/CJSY">@CJSY</a></td>
-      <td></td>
-      <td>发送词语即可搜索关联群组与频道资源。</td>
+      <td>发送关键词，即可发现频道、群组、视频与帖子。</td>
     </tr>
     <tr>
       <td><b>SOSO 机器人</b></td>
@@ -45,22 +39,16 @@
       <td>电报老牌综合搜索机器人，发送关键词发现群组与资源。</td>
     </tr>
     <tr>
-      <td><b>海搜</b></td>
-      <td><a href="https://t.me/haisou">@haisou</a></td>
+      <td><b>无限X影音搜索</b></td>
+      <td><a href="https://t.me/wuxianxbot">@wuxianxbot</a></td>
       <td></td>
-      <td>发送关键词，即可发现频道、群组、视频与帖子。</td>
+      <td>搜索音乐和电影的机器人</td>
     </tr>
     <tr>
-      <td><b>JISO 机器人</b></td>
-      <td><a href="https://t.me/jiso">@jiso</a></td>
+      <td><b>快搜</b></td>
+      <td><a href="https://t.me/kuai">@kuai</a></td>
       <td></td>
-      <td>搜索群、频道、影视、音乐、新闻等内容。</td>
-    </tr>
-    <tr>
-      <td><b>极搜 JiSou</b></td>
-      <td><a href="https://t.me/jisou">@jisou</a></td>
-      <td></td>
-      <td>发送词语帮你找到有趣的群与资源。</td>
+      <td>帮你发现有趣群组、频道、视频、音乐。</td>
     </tr>
     <tr>
       <td><b>神马搜索</b></td>
@@ -69,10 +57,22 @@
       <td>发送词语即可搜索关联群组与频道资源。</td>
     </tr>
     <tr>
-      <td><b>快搜</b></td>
-      <td><a href="https://t.me/kuai">@kuai</a></td>
+      <td><b>极搜 JiSou</b></td>
+      <td><a href="https://t.me/jisou">@jisou</a></td>
       <td></td>
-      <td>帮你发现有趣群组、频道、视频、音乐。</td>
+      <td>发送词语帮你找到有趣的群与资源。</td>
+    </tr>
+    <tr>
+      <td><b>JISO 机器人</b></td>
+      <td><a href="https://t.me/jiso">@jiso</a></td>
+      <td></td>
+      <td>搜索群、频道、影视、音乐、新闻等内容。</td>
+    </tr>
+    <tr>
+      <td><b>超级索引</b></td>
+      <td><a href="https://t.me/CJSY">@CJSY</a></td>
+      <td></td>
+      <td>发送词语即可搜索关联群组与频道资源。</td>
     </tr>
   </tbody>
 </table>
@@ -270,10 +270,10 @@
   </thead>
   <tbody>
     <tr>
-      <td><b>Telegram 看门狗</b></td>
-      <td><a href="https://t.me/WatchdogVerifyBot">@WatchdogVerifyBot</a></td>
+      <td><b>Rose</b></td>
+      <td><a href="https://t.me/MissRose_bot">@MissRose_bot</a></td>
       <td></td>
-      <td>提供高强度的看门狗级别入群验证，有效拦截自动化脚本与爆破攻击。</td>
+      <td>Telegram 生态中最具统治力的老牌群管，拥有深不见底的自定义过滤规则。</td>
     </tr>
     <tr>
       <td><b>群内统计秘书</b></td>
@@ -360,16 +360,16 @@
       <td>使用率极高的开源入群守卫，支持多种验证方式，稳定可靠不漏网。</td>
     </tr>
     <tr>
+      <td><b>Telegram 看门狗</b></td>
+      <td><a href="https://t.me/WatchdogVerifyBot">@WatchdogVerifyBot</a></td>
+      <td></td>
+      <td>提供高强度的看门狗级别入群验证，有效拦截自动化脚本与爆破攻击。</td>
+    </tr>
+    <tr>
       <td><b>昵称监控记录</b></td>
       <td><a href="https://t.me/SangMata_BOT">@SangMata_BOT</a></td>
       <td></td>
       <td>强大的社工辅助工具，能够持续监控并记录群成员的历史昵称更改轨迹。</td>
-    </tr>
-    <tr>
-      <td><b>Rose</b></td>
-      <td><a href="https://t.me/MissRose_bot">@MissRose_bot</a></td>
-      <td></td>
-      <td>Telegram 生态中最具统治力的老牌群管，拥有深不见底的自定义过滤规则。</td>
     </tr>
     <tr>
       <td><b>Group Help</b></td>
@@ -1194,10 +1194,10 @@
       <td>每日更新无损音乐，海量音乐库</td>
     </tr>
     <tr>
-      <td><b>YouTube bot</b></td>
-      <td><a href="https://t.me/TG_YouTubeBot">@TG_YouTubeBot</a></td>
+      <td><b>utubebot</b></td>
+      <td><a href="https://t.me/utubest_Bot">@utubest_Bot</a></td>
       <td></td>
-      <td>油管视频深度解析工具，支持链接自动转换与原画质保存。</td>
+      <td>轻量级油管视频下载器，快速提取原片与音频流。</td>
     </tr>
     <tr>
       <td><b>多平台解析下载</b></td>
@@ -1230,12 +1230,6 @@
       <td>专业的高清 YouTube 视频下载工具，支持多种分辨率与格式选择。</td>
     </tr>
     <tr>
-      <td><b>utubebot</b></td>
-      <td><a href="https://t.me/utubest_Bot">@utubest_Bot</a></td>
-      <td></td>
-      <td>轻量级油管视频下载器，快速提取原片与音频流。</td>
-    </tr>
-    <tr>
       <td><b>IMDb 查电影</b></td>
       <td><a href="https://t.me/imdb">@imdb</a></td>
       <td></td>
@@ -1246,6 +1240,12 @@
       <td><a href="https://t.me/getmediabot">@getmediabot</a></td>
       <td></td>
       <td>多源媒体资源搜寻器，专注于高品质音乐与音频文件的快速下载。</td>
+    </tr>
+    <tr>
+      <td><b>YouTube bot</b></td>
+      <td><a href="https://t.me/TG_YouTubeBot">@TG_YouTubeBot</a></td>
+      <td></td>
+      <td>油管视频深度解析工具，支持链接自动转换与原画质保存。</td>
     </tr>
     <tr>
       <td><b>YouTube V2</b></td>
@@ -1296,18 +1296,6 @@
       <td>海量无损 MP3 聚合平台，内置播放器，随时构建云端个人歌单。</td>
     </tr>
     <tr>
-      <td><b>Spotify</b></td>
-      <td><a href="https://t.me/spotifybot">@spotifybot</a></td>
-      <td></td>
-      <td>Spotify 官方流媒体分享助手，支持曲库检索与 30 秒高音质试听。</td>
-    </tr>
-    <tr>
-      <td><b>Music Hunters</b></td>
-      <td><a href="https://t.me/MusicHuntersBot">@MusicHuntersBot</a></td>
-      <td></td>
-      <td>资深音乐猎手工具，专精于发现小众独立音乐与高品质音轨。</td>
-    </tr>
-    <tr>
       <td><b>Youtube MP3</b></td>
       <td><a href="https://t.me/u2bu_mp3_bot">@u2bu_mp3_bot</a></td>
       <td></td>
@@ -1320,22 +1308,10 @@
       <td>二次元必备识番神器，发送一张截图，立刻告诉你出处、集数甚至具体时间点。</td>
     </tr>
     <tr>
-      <td><b>VmomoVBot</b></td>
-      <td><a href="https://t.me/VmomoVBot">@VmomoVBot</a></td>
-      <td></td>
-      <td>轻便快捷的中文点歌机器人，支持多种关键词模糊搜索。</td>
-    </tr>
-    <tr>
       <td><b>Pixiv 画师存图</b></td>
       <td><a href="https://t.me/Pixiv_bot">@Pixiv_bot</a></td>
       <td></td>
       <td>对接 P 站海量插画图库，支持按画师 ID 或作品号快速拉取原图。</td>
-    </tr>
-    <tr>
-      <td><b>网易云音乐下载</b></td>
-      <td><a href="https://t.me/Music163bot">@Music163bot</a></td>
-      <td></td>
-      <td>完美对接网易云音乐曲库，实现无缝检索与高品质音频一键提取。</td>
     </tr>
     <tr>
       <td><b>抖音 TikTok 图集解析</b></td>
@@ -1366,12 +1342,6 @@
       <td><a href="https://t.me/bilifeedbot">@bilifeedbot</a></td>
       <td></td>
       <td>哔哩哔哩深度爱好者必备，支持高清画质直达抓取与离线缓存。</td>
-    </tr>
-    <tr>
-      <td><b>Spotify 音乐库</b></td>
-      <td><a href="https://t.me/SpotifyMusicDownloaderBot">@SpotifyMusicDownloaderBot</a></td>
-      <td></td>
-      <td>直连 Spotify 流媒体协议，将您收藏的歌单快速转化为可离线播放的音频文件。</td>
     </tr>
   </tbody>
 </table>

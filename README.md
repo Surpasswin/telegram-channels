@@ -1,6 +1,6 @@
 # 🚀 Telegram 中文频道与群组推荐导航 (Telegram Channels)
 
-[![Status](https://img.shields.io/badge/Status-Maintained-brightgreen.svg)]() [![Total Channels](https://img.shields.io/badge/Total_Channels-205-blue.svg)]() [![Last Updated](https://img.shields.io/badge/Updated-2026-11-24-orange.svg)]()
+[![Status](https://img.shields.io/badge/Status-Maintained-brightgreen.svg)]() [![Total Channels](https://img.shields.io/badge/Total_Channels-206-blue.svg)]() [![Last Updated](https://img.shields.io/badge/Updated-2026-11-24-orange.svg)]()
 
 > 本项目致力于整理并持续维护高质量的 **Telegram频道** 与 **telegram群组**。所有收录数据均经过筛选与严格分类，助你快速发现、定位有价值的中文社群资源。欢迎加入交流群：https://t.me/tggzcn 
 
@@ -1468,6 +1468,12 @@
       <td><a href="https://t.me/SteamNy">@SteamNy</a></td>
       <td>16,183</td>
       <td>Steam 与 Epic 游戏商城打折情报专家，绝对不错过任何一次“喜加一”限免白嫖机会。</td>
+    </tr>
+    <tr>
+      <td><b>夸克网盘资源分享</b></td>
+      <td><a href="https://t.me/kuake0007">@kuake0007</a></td>
+      <td>12</td>
+      <td>每日更新 10+ 条学习资料、考研考公、电子书、课程与 AI 工具等夸克网盘资源，链接均为自有网盘转存分享，另配公开网页资源库可按分类浏览。</td>
     </tr>
   </tbody>
 </table>
